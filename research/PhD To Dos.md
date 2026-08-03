@@ -38,7 +38,7 @@ NTC kompensiert die Temperatur
 - [x] Contact collaboration to jump on board and share ideas and write text for our website - 
 - [x] Remind people to send materials
 - [x]  4-Cell Paper beenden
-- [ ] Change in code the negative options 
+- [x] Change in code the negative options 
 - [x] Julian: Wie verändert sich die Schichtdicke mit Abstand - WOM paper
 	- [x] Kann ich aus der Transmission auf die Schichtdicke rückschließen
 	- [x] Schichtdicke bestimmen
@@ -55,11 +55,11 @@ NTC kompensiert die Temperatur
 
 Orga:
 - [ ] Ordner sortieren 
-- [ ] Korrekturen 
+- [x] Korrekturen 
 	- [x] M9 
 		- [x] letzter Versuch
 		- [x] vorletzter Versuch
-	- [ ] Einführungspraktikum korregieren
+	- [x] Einführungspraktikum korregieren
 - [ ] Zeitplanung optimieren - nicht alles gleichzeitigmachen 
 	- [ ] Dokumentation mit einplanen
 - [ ] Write a Documentation in Obsidian ?
@@ -77,7 +77,8 @@ Lab:
 - [ ] Monitor High Voltage on PMT
 - [x] Implement reference without WOM
 - [ ] Protection for the high voltage supply 
-- [ ] Mike - di
+- [ ] Mike - dichte abdeckung für den PMT?
+
 Other stuff:
 - [ ] Sign up for a Spanish class with Jon 
  - [ ] lernen wie man CAD designs vernünftig macht - PCB
