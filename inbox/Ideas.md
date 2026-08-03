@@ -1,0 +1,1 @@
+- Testing the [[WLS Color coating]] thickness by using some kind of tape or string and dip coat slide/[[WOM]] with the tape -> then remove the tape/

@@ -1,0 +1,15 @@
+## What do applications do I need: 
+- AusweisApp
+- FortiClient - VPN HU berlin
+- Grammaly
+- Autodesk Fusion
+- Julia 1.9
+- Moku
+- Microsoft suff - über die Uni
+- Obsidian - log in einrichten
+- Python
+- Zoom
+- Visual studio code
+- Telegram
+- Source tree
+- (Quicktime player)

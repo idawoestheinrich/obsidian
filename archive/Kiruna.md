@@ -1,0 +1,21 @@
+[[Arctic Science]]
+### Packliste 
+- Wanderschuhe anziehen
+- Dicke Winterjacke
+- Kaufen:
+	- Fäustlinge
+	- Wärme Sohlen - 3x2
+	- Ski Unterwäsche 1 dünne Kaufen, 2 einpacken
+	- Skihose?
+	- Kopfhörer?
+- Leggins- dünne und dickere  
+- Fließpullover (2x)
+- Weste (2x)
+- Skisachen - Helm, Skier, Skischuhe
+- Socken 20 Paar 
+- Warme Socken 5 paar
+- Unterwäsche 15x Unterhosen, 2 BHs, 3 Sport BHs
+- Langarmshirts zum drunter ziehen - 7
+- Gemütliche Hose, T-Shirt
+- 
+- 
