@@ -19,6 +19,7 @@ To find papers on [[SHiP]] go to [CERN document server](https://cds.cern.ch/sear
 Ask about uncertainties, look at coordinates of the plots
 
 
+
 Matthias: 
 FPGA chips - sprachen - vhdl oder verilook - nicht wahrnsinnig viel Erfahrung, aber hat sich das schon mal angeschaut - bitfile daraus erstellen 
 
@@ -34,9 +35,9 @@ NTC kompensiert die Temperatur
 - [x] Julian schreiben/maik schreiben bzgl. Des motors
 - [x] Tilman wegen dem Temperatur stabilisierten SiPMs PCB schreiben
 - [x] Conntact anna about ship.cern / hiddenparticles.cern
-- [ ] Contact collaboration to jump on board and share ideas and write text for our website - 
-- [ ] Remind people to send materials
-- [ ]  4-Cell Paper beenden
+- [x] Contact collaboration to jump on board and share ideas and write text for our website - 
+- [x] Remind people to send materials
+- [x]  4-Cell Paper beenden
 - [ ] Change in code the negative options 
 - [x] Julian: Wie verändert sich die Schichtdicke mit Abstand - WOM paper
 	- [x] Kann ich aus der Transmission auf die Schichtdicke rückschließen
@@ -45,6 +46,7 @@ NTC kompensiert die Temperatur
 - [ ] Konfiguration SiPMs und PCBs und Preamplefier optimieren
 	- [ ] Evl. Filter hinzufüge- [https://www.uqgoptics.com/wp-content/uploads/2019/08/UQG-Schott-UG1.pdf](https://www.uqgoptics.com/wp-content/uploads/2019/08/UQG-Schott-UG1.pdf) 
 	- [https://www.edmundoptics.com/p/ug-1-uv-254mm-dia-colored-glass-bandpass-filter/6536/](https://www.edmundoptics.com/p/ug-1-uv-254mm-dia-colored-glass-bandpass-filter/6536/)
+
 
 - [x] Messung Julian - Abgabe: Anfang/Ende September abgeben - es muss angemeldet werden
 	- [x] Messungen mit und ohne optische Kopplung 
@@ -73,6 +75,9 @@ Lab:
 - [ ] Camera in the setup 
 - [ ] Calibration 
 - [ ] Monitor High Voltage on PMT
+- [x] Implement reference without WOM
+- [ ] Protection for the high voltage supply 
+- [ ] Mike - di
 Other stuff:
 - [ ] Sign up for a Spanish class with Jon 
  - [ ] lernen wie man CAD designs vernünftig macht - PCB
@@ -103,9 +108,9 @@ Other stuff:
 			- Wir fragen nur nach dem Vertex kandidat 
 				- nicht nach dem anderen Tracks
 	- Testbeam Analyse - Neue Daten  -
-		- [ ]  4-Cell Paper 
+		- [x]  4-Cell Paper 
 		- [x] Mit Horst Besprechen 
-		- [ ] Dafür Sorgen, dass wir das Paper zuende bringen
+		- [x] Dafür Sorgen, dass wir das Paper zuende bringen
 	- Monte Carlo Simulationen?
 	- Funding 
 		- SND project - Geld
