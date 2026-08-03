@@ -1,0 +1,1 @@
+In C++, the ****ternary**** or ****conditional operator ( ? : )**** is the shortest form of writing conditional statements. It can be used as an inline conditional statement in place of if-else to execute some conditional code.

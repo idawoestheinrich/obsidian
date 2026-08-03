@@ -1,0 +1,3 @@
+1 Stück 2527352 - VQ - Raspberry Pi® PI400DE-KIT Raspberry Pi® 400 4 GB 4 x 1.8 GHz inkl. Netzteil, inkl. Maus, inkl. HDMI™-Kabel, inkl. Noobs [https://www.conrad.de/de/p/raspberry-pi-pi400de-kit-raspberry-pi-400-4-gb-4-x-1-8-ghz-inkl-netzteil-inkl-maus-inkl-hdmi-kabel-inkl-noobs-2527352.html](https://www.conrad.de/de/p/raspberry-pi-pi400de-kit-raspberry-pi-400-4-gb-4-x-1-8-ghz-inkl-netzteil-inkl-maus-inkl-hdmi-kabel-inkl-noobs-2527352.html)
+
+1 Stück 417176 - VQ Intenso 32 GB Micro SDHC-Card microSDHC-Karte 32 GB Class 4 inkl. SD-Adapter [https://www.conrad.de/de/p/intenso-32-gb-micro-sdhc-card-microsdhc-karte-32-gb-class-4-inkl-sd-adapter-417176.html](https://www.conrad.de/de/p/intenso-32-gb-micro-sdhc-card-microsdhc-karte-32-gb-class-4-inkl-sd-adapter-417176.html)

@@ -1,0 +1,12 @@
+- Proposal - upload archive ? - Response to Jan Email
+- Can we directly implement fibers into the scintillator or are they disolved in the material?
+	- Gießen tested it - do the fibers disolve?
+	- Gießen is on vacation 
+- Glas capillary? What dimension? 
+	- Make them a bit shorter - we can not mill over, without breaking them
+	- How much shorter: 
+		- You insert the glas capillaries in the holding structure 
+ - Who updates the paper? New Proposal, rewriting
+	 - Focus more on an opaque version
+- We need to save Anubandhs work
+- 

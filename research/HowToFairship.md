@@ -1,0 +1,4 @@
+- https://github.com/ShipSoft/FairShip/blob/master/README.md
+- [[Generall points on FairShip]]
+-  [[lxplus]]
+- 

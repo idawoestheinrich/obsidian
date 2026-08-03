@@ -1,0 +1,31 @@
+Christopher Engel
+- Why do we need a purity system
+- ATLAS experiment uses Liquid Argon (lAG)
+- Purity crash course
+	- charged particles leave ionixation track creating elctrons and ions
+	- Recombination and electron attachment
+	- Recombination 
+	- Electron attachment
+- Basic Monitors
+	- well known energy deposites from two differnet radioactive sources
+		- depend differently on the purity 
+	- Two calulate ratio 
+	- Both signals read out at the same time - bismut signal is negative 
+- Current Front End Board
+	- Amplifies signal by a factor of 100
+- Negative voltage
+- new low voltage power supply - not negative anymore
+	- From 11V and -7V to 48V
+- Power distribution - current vs upgrade
+- Design Progress - Current
+	- 4 Layers
+	- Front and Back Plane are GND planes
+	- Signal split into two inner layers
+		- GND
+		- Signal
+		- Signal
+		- GND
+	- 6 layers
+	- Three GND planes 
+	- introducing two power planes
+	- Signal is routed on a single isolated layer

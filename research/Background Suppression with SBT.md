@@ -1,0 +1,23 @@
+Follow up on Anupama's GNN - Vervollständigen
+- Anupamas rekonstruktion
+- [[Cosmics Generator]]
+- Katharina
+- SBT interessant? 
+	- Das Geld lässt sich nicht hin und her schieben 
+	- Wenn SBT wegfällt, fällt auch das Geld der AGs weg.
+	- Viel Material, viel Background
+		- SBT muss mindestens den eigenen Hintergrund rausnehmen
+- Muon combinatorial background
+- Spil simuliert - statistic zu niedrig - Faktor 10
+- Falls das mit den Straws funktioniert - mit großem Detektor
+- SBT kann DIS von neutrinos sehen
+	- Einstellung von manchen *"Wir verstehen neutrino DIS"* wir brauchen SBT nicht
+- Hybride version/integration - strawtracker im SBT?
+- **Wir müssen beweisen, dass der SBT seinen eigenen Background rausfiltert!**
+- Erweiterterte Darkmatter modele und Neutrino DIS
+	- 23 events for partially reconstructes events - Katharina
+#### Weitere Probleme 
+- Combinatorials Cosmics 
+- Welche UBT strategie
+- Impact parameter schneidet beinah alles raus
+- Was ist ohne SBT?

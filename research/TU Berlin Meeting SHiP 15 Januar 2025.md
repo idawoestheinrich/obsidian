@@ -1,0 +1,86 @@
+- Heiko [[SHiP]] Vortrag
+- Santiago Technische Details
+- Annika Befüllung, Reinigung vom LAB mit Al2O3 PPO Reaktion mit Sauerstoff, 
+	- Chemische Kompabilität, Langzeit Messungen, BHT - kommt mit Warnhinweisen
+	- Reflektoren- Diffiuse und Spectular
+## Vorschläge
+#### Dip Coating
+- Oberflächenaktivierung - Dresden - Sauerstoffplasma, chemische Aktivierung, auch Reinigung, keine Änderung der [[PMMA]] Struktur - Expertise Ice Cube?
+	- Zeit zwischen Aktivierung und Beschichtung muss sehr kurz sein
+	- Plasmakammer, die groß genug ist
+	- Chemiker/Plasmaexperten
+- Automobilhersteller - Tauchbeschichtung Erfahrung
+- Abpumpen damit Toluol schneller verdampft
+- [[PMMA]] statt PEMA 
+	- Mit IceCube sprechen
+#### [[PMMA]] Vessel und [[WOM]]
+- Tolerance ansprüche? Wandstärke kein Problem, die Höhe der Röhre muss wohl definiert sein 
+	- Beim Spritzguss von [[PMMA]] Vessel
+	- Die Wände müssen alle schräg sein (Warum? 2.5 Grad- damit bei dem seitlichen die Luft rausgeht) 
+	- Steht unten im Keil 
+		- Schweisnäte haben oben nicht gehalten
+	- Halterung? 
+	- 3 Anbohrungen - Mechanischerstress Quantifizierung, Bedeutung für 20 Jahre
+	- Wie viel Spannung? Spannungsdoppelbrechung: 2 Polarisierte Folien
+- [[WOM]] an SiPMs Kleben, optischer Kleber 
+	- Problem Präzision von [[WOM]] und Vessel
+- Bezugsgeometrie 
+	- [[WOM]] wird nach dem [[PMMA]] Vessel ausgerichtet 
+	- Sollte frei hängen zukünftig 
+		- Kein Druck für den Behälter
+		- Luft unten für die Reflektion 
+		- Zu den SiPMs optisch gute Koppelung (Bisher Silicium Gel/ fett/ Transparenter Kleber)
+		- Klemschelle aus einem Material, dass einen extrem niedrigen Brechungsindex hat? Was hochreflektierendes bei 420nm?
+		- Ring würde wesentlich besser den Druck auf den [[WOM]] verteilen
+			- 5mm breite oder weniger (3mm)
+			- Ausrechnen wie viel es braucht um das Eigengewicht zu tragen.
+			- Beschichtung >95% Reflektivität bei 400 - 450nm, können wir die Beschichtung selbst machen? 
+			- Ring [[WOM]] und Platine zusammenhalten? 
+			- Problem: Andere SiPMs testen 
+				- [[WOM]] und SiPMs 3 mm 
+				- SiPMs etwas größer
+
+		- Könnte auch für das DipCoating verwendet werden
+			- QC wird dann schwieriger - größerer Abstand zur [[WOM]] 
+			- Oder QC direkt mit den SiPMs machen
+	- Drehmomentschlüssel, um mit homogenen Widerstand zu befestigen
+- Alterungsprozesse - Tests durchführen - da gibt es Standards für: -40 - 60 Grad + ändernde Atmosphäre
+	- Klima Kammer
+- Kleben 
+	- Nachteil austauschen [[WOM]] und SiPMs austauschen nur zusammen
+- Würde dieser Ring das Problem lösen, wie ändert sich die Reflektivität der Folie über die Zeit? 
+- Kontinuierlicher Austausch? Hoffentlich müssen wir nicht alles einmal austauschen
+- Optische Kopplung 
+	- SiPMs unterschiedlich hoch 
+	- Luft ist ein no go
+	- Kann man auf die SiPMs eine schützende Schicht auftragen und dann kleben? 
+- [[WOM]] muss nicht UV transparent sein, wenn die Beschichtung dick genug ist.
+- [[WOM]] Workshop mit IceCube
+- Unterschied Luft und Stickstoff, Photobleaching? 
+- Herstellen wie einen Eimer, alles in einem gießen
+#### Befüllung und Entleerung 
+- [[PMMA]] Vessel
+	- Entlüftung der [[PMMA]] Vessels oben auf dem SBT
+	- Wie bekommt man die Luft aus der Mitte des [[WOM]] Vessel
+	- Bei der Charite fallen diese Endoskope an, 800 Euro pro Stück, 15 am Tag, 
+	- Schlauch führt in den [[WOM]] Vessel, eine abzudichtende Schraube, wenn der Schlauch entfernt wird
+	- Wie bringen wir den Führungsschlauch ein?
+	- bleibt drin!
+	- Fest installierter schlauch - direkt eingebaut 
+		- Könnte auch unten die Lösung sein, damit [[PMMA]] Vessel beim Entleeren auch entleert werden
+	- Endoskop wäre so oder so gut... dann können wir in die Zelle reinschauen
+		- Schraubenöffnung irgendwo hin machen, Mebran, die siche hinterher wieder verschließt, Rohr nach oben 
+- Flüssig [[Scintillator]] Vessel entleeren
+	- Verdampfung ein Problem 
+	- Sollbruch stellen?
+	- Wie können wir schnell abpumpen, wenn die Halle brennt?
+	- Wie füllen wir? 
+	- KEINE Horizontalen
+## ToDos
+- Langzeittests mit den WOMs- unbeschichtete und beschichtete WOMs 
+	- Constantin, wie viele unbeschichtete haben wir noch? 
+	- Maße Klimaschrank? (Info von Herrn Oberschmidt)
+	- Herrn Oberschmidt schreibt Heiko bzgl. Beschichtung 
+	- Nicht über Elektronik gesprochen - Signale von SiPMs auslesen, Preamplifier, 500MHz/s 
+		- Kein schlüssiges Konzept - Horst schreibt Herrn Oberschmidt die nötigen Spezifikationen
+	

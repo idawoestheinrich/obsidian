@@ -1,0 +1,233 @@
+{
+  "main": {
+    "id": "0477629abe79c8ee",
+    "type": "split",
+    "children": [
+      {
+        "id": "20fdd39c07164b57",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b37f0bd25dad31d4",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "89d4d68173ff7125",
+    "type": "split",
+    "children": [
+      {
+        "id": "d3562f531307be3c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "744a0994f12edf37",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "f501f2eee4cb9242",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "bde695a122e0bb07",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "d0bf1696ab242f67",
+    "type": "split",
+    "children": [
+      {
+        "id": "11d0c26d96109367",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6df832cefdc1f39b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "28bd0fa1df1e0b57",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "721d15b29682c724",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "1565782c591e13ab",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "d1b8257a6fac79ff",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "b37f0bd25dad31d4",
+  "lastOpenFiles": [
+    "templates/Shell.md",
+    "templates/tpl-con-1-1-box.md",
+    "templates/Slide 2-1 box.md",
+    "templates/tpl-con-1-1-1-box.md",
+    "templates/Task template.md",
+    "templates/tpl-con-2-4-box.md",
+    "templates/Slide with data displayed in obsidian.md",
+    "templates/research.md",
+    "templates/Properties.md",
+    "templates/Slide 1- Box.md",
+    "templates/tpl-con-2-3-box.md",
+    "templates/tpl-con-1-box.md",
+    "templates/tpl-con-2-1-box.md",
+    "templates/Slide 1-1 Box horizontal.md",
+    "templates/HU Meeting template.md",
+    "templates/Slide 1-1 Box.md",
+    "templates/timeline note.md",
+    "templates/Slide 2x4 Box 1.md",
+    "templates/tpl-footer.md",
+    "templates/tpl-con-1-1-box-horizontal.md",
+    "templates/Slide 2x3 Box.md",
+    "templates/Footer.md",
+    "teaching/Grundpraktikum.md",
+    "teaching/M9 Reversionspendel.md",
+    "teaching/O6 Newtonsche Ringe.md",
+    "teaching/Klausuraufsichtsvorbereitung 2026.md",
+    "research/jasminweissGeometrySBT2026/image-6-x760-y859.png",
+    "research/jasminweissGeometrySBT2026/image-6-x54-y6.png",
+    "research/jasminweissGeometrySBT2026/image-3-x13-y361.png",
+    "research/jasminweissGeometrySBT2026",
+    "research/bickUpdatesStrawTracker2025/image-9-x318-y123.png",
+    "research/bickUpdatesStrawTracker2025/image-7-x254-y76.png",
+    "research/bickUpdatesStrawTracker2025/image-2-x7-y90.png",
+    "research/bickUpdatesStrawTracker2025/image-12-x21-y83.png",
+    "research/bickUpdatesStrawTracker2025/image-10-x297-y9.png",
+    "research/bickUpdatesStrawTracker2025",
+    "research/zachouParticleIdentificationBased",
+    "research/popovychDevelopmentPerformanceEvaluation2025/image-63-x110-y449.png",
+    "research/popovychDevelopmentPerformanceEvaluation2025/image-61-x111-y508.png",
+    "research/popovychDevelopmentPerformanceEvaluation2025",
+    "research/anokhinaMagnetisedTrackingCalorimeter2025a",
+    "research/ahdidaUpdateSHiPCharm2020",
+    "research/ozaReconstructionHeavyNeutral20260507",
+    "research/stefanschaeferScientificComputingActivities2025",
+    "research/gerardovasquezTimingDetectorStatus25",
+    "research/cattelanFrameworkUpdatesRobustness2025"
+  ]
+}

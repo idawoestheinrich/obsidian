@@ -1,0 +1,5 @@
+- List what needs to be done
+- What does the background look like without the SBT
+- Reconstruction and Digitization are most important?
+- What reaches the spectrometer and what are the energies
+- Electron background

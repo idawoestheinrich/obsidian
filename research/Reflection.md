@@ -1,0 +1,11 @@
+### Reflection 
+- If the angle of the outgoing light is greater than $\pi/2$ , the light only enters the second medium in the form of an evanescent wave with rapidly decreasing amplitude. Effectively, all the light has to return to medium one via reflection.
+	- total internal reflection for light - if light impings at an angle geater than the brewster angle 
+	- $\Theta_B = \sin^{-1}(\frac{n_2}{n_1})$
+		- with the index of the refraction inside the initial material $n_1$ and $n_2$ the refraction outside the initial material
+	- Incident light patialy reflected and transmitted at the interface - if light impings at an angle smaller than the brewster angle 
+		- this loss reduces the efficiency and energy resolution of the detector
+		- to reduce this effect, scintillators are usual surrounded by an external reflector, like reflective foil or in case of SBT cells, the fluid scintialltior is filled in reflactive boxes
+		- another option is to try to maximize the inner reflection by lowering the brewster angle by chossing a outer materal with a very low index of the refraction $n_2$, for example air. 
+		- with plastic scintillators, internal reflection is also facilitated by polishing the surface
+	- Both effects leed to a longer mean distance traveled by the photon and thereby the influance of the attenuation length on the detetection efficiency 

@@ -1,0 +1,6 @@
+- go to https://landb.cern.ch
+- log into CERN account
+- go to https://landb.cern.ch/portal/self-registration
+- accept computing rules
+- wait 
+-

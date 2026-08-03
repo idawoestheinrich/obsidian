@@ -1,0 +1,5 @@
+- [Bundeskonferenz der Frauen- und Gleichstellungsbeauftragtenan Hochschulen e.V.](https://bukof.de/ueber-die-bukof/netzwerke/)
+- [FIVE YEARS OF THE COMPLAINTS OFFICE, FIVE YEARS OF ACTIVISM AGAINST GENDER-BASED VIOLENCE: INTERVIEW WITH ANJA WIEDE](https://tu-dresden.de/tu-dresden/universitaetskultur/culture/artikel/interview-mit-anja-wiede)
+- PDF mit **Umfrage über geschlechtsbezogene Gewalt in 46 Hochschulen und** **Forschungseinrichtungen in Europa** - UniSAFE-press-release_survey-results_DE.pdf
+	- Von den Befragten, die geschlechtsbezogene Gewalt erlebten, meldeten dies nur 13 %. Fast die Hälfte der Betroffenen (47 %) erklärte, dass sie sich unsicher fühlten, ob das erlebte Verhalten schwerwiegend genug war, um es zu melden. Ein weiterer häufiger Grund, der von 31 % der Betroffenen angegeben wurde, ist, dass sie das übergriffige Verhalten zum Zeitpunkt des Vorfalls nicht als Gewalttat erkannt haben.
+- [Arbeitskreis Chancengleichheit](https://www.dpg-physik.de/vereinigungen/fachuebergreifend/ak/akc)

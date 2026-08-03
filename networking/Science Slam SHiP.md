@@ -1,0 +1,12 @@
+- WOM Karikaturen
+- Teilchen auf eine Wand schmeißen
+- "Goostparticles " Gruseln kann ich mich auch ohne ... irgendwas gruseliges
+- Sehr schweres teilchen vs. sehr wenig wechselwirkendes teilchen - Geist
+- Viele Geister, die durch den tunnel gehen 
+- Normale menschen/tiere, die durch den tunnel gehen werden abgelenkt 
+- nicht von irgendwas, dass die aufmerksamkeit auf sich lenkt (Ida winkt ) gehen Sie weiter hier gibt es nichts zu sehen
+- je langsamer desto mehr wird es amgelenkt gibt es ein analog?
+- Schiff, Gespenster, Ghostbusters
+- Pirates of the Caribbean
+- Eine Gespensterfalle bauen
+- Par-ship

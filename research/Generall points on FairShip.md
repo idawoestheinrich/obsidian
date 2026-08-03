@@ -1,0 +1,10 @@
+- use it on lxplus (ssh connection on your computer)
+- use Linux on your computer (Mac should also be okay according to Eduard}
+- to use lxplus you will need a CERN account
+- do and save plots in [[ROOT]]
+	- if you haven't worked with [[pyroot]] before, check out some tutorial
+		- e.g. https://github.com/root-project/student-course/
+- FairShip is **a lot** in the beginning, you will need some time to get into it:
+	- re-read tutorials from time to time whenever you need to, what might be overwhelming at first will get clearer over time
+	- talk to people, look at the code, try to understand what is happening and work from there
+	- never hesitate to ask

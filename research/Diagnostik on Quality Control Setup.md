@@ -1,0 +1,12 @@
+- 1 Position 
+- Mit einer kleineren Schrittweite eine stelle messen
+- Mit einem stift oder so per hand messen 
+- Kamera
+- 
+- Wie können wir die Messungen rekonstruierbarer machen
+	- Rotationsmotor
+- Messung an einem Phi - 5mal
+- Messung in einer Höhe - 5mal
+- WOM tube rotieren - Messen - zurück rotieren messen
+- Was passiert, wenn man dasselbe an mehreren Tagen misst? 
+- [ ] Mit Werkstatt über mögliche Verbesserungen des Setups sprechen 

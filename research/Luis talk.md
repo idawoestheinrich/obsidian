@@ -1,0 +1,7 @@
+- Cavity networks
+- Sun influences the clock? 
+- Slide 6 Rabi intereogation
+- Atomic constant, Aktually constant?
+- How can one distinguish between drift of constants and drift due to temperature?
+- Clock comparison 
+- 

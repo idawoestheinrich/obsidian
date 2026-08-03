@@ -1,0 +1,5 @@
+- [ ] Eigentlich brauchen wir einen Machanik Ingineur
+- [ ] Zellen Design Filling and Emptying 
+- Können wir uns den [Pythagoreischer Becher](https://de.wikipedia.org/wiki/Pythagoreischer_Becher) zu nutze machen?
+- Kiew? 
+- Masterarbeit System Design
