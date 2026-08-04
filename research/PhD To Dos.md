@@ -46,6 +46,7 @@ Quality Control and WOMs:
 - [ ] Protection for the high voltage supply 
 - [ ] Mike - dichte abdeckung für den PMT?
 - [ ] Heiko über Matthias Erfahrung mit [[FPGA chips]] berichten
+- [ ]  Webinterface
 
 ALPs
 - [ ] Paper lesen von Matei 
@@ -58,33 +59,29 @@ ALPs
 	- [ ] [github](https://github.com/ShipSoft)
 	- [ ] [Wie SBT implementiert ist](https://github.com/ShipSoft/Geometry/tree/main/subsystems/DecayVolume)
 Orga:
-- [ ] Neuer Computer Zotero Integration, Milena, Jule Tips
 - [ ] Physikerinnen Tagung 2026
 - [ ] Abrechnung Juli 2026
 
-
-
+18.06.2026
 Orga:
-- [ ] Ordner sortieren 
-
+- [x] Ordner sortieren 
 - [ ] Zeitplanung optimieren - nicht alles gleichzeitigmachen 
 	- [ ] Dokumentation mit einplanen
 - [ ] Write a Documentation in Obsidian ?
 
 
 - [ ] Neuen Computer einrichten
+	- [ ] Neuer Computer Zotero Integration, Milena, Jule Tips
 - [ ] Start to have a longterm time plan 
 - [ ] Safe stuff from notability and delete it - cancel the abbo
 - [ ] Work into Claude [[Tips for agentic coding 2026]] - get paid version?
-
 
 Other stuff:
 - [ ] Sign up for a Spanish class with Jon 
  - [ ] lernen wie man CAD designs vernünftig macht - PCB
  - [ ] Die Prasentation fur Beschleuniger nochmal bearbeiten?
- - [ ] Webinterface
-
 - [ ] Wenn ich Quality Control SetUp fertig habe
+
 	- Fairship - Signal Kanal analyse?
 		- Oliver - swiching to a different program
 		- Beam is 1.2 s 
@@ -126,8 +123,8 @@ Other stuff:
 ### **Communication**
 If you give a talk thank for the invertation and if you ask questions to a talk thank for the talk first!
 - [ ] Klima Kurs mit Jugendlichen
-- [ ] Neue Video Reihe mit Erklärvideos? 
-- [ ] Könnten wir eine Simulation in Fusion machen? - Teilchen durch SHiP folgen - Pablo Santos Diaz
+- [ ] Neue Video Reihe mit Erklärvideos? -[[Heikos Video Ideen]]
+- [x] Könnten wir eine Simulation in Fusion machen? - Teilchen durch SHiP folgen - Pablo Santos Diaz
 - [x] 28.05 Masterclass mit Heiko reden
 
 #### Possible participations: 
@@ -185,7 +182,7 @@ Hier werden Organisatorische ToDos festgehalten
 	- [ ] Style sheets mpl style  - python, Grid nach innen
 - [ ] Look into base to get overview \
 - [ ] Dataview anschauen
-- [ ] Community erweiterung "fit"
+- [x] Community erweiterung "fit"
 - [ ] Base anschauen 
 - [x] Excalidraw plug-in to draw with Apple Pencil 
 ### **Programmieren**
