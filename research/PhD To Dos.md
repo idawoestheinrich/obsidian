@@ -31,6 +31,16 @@ NTC kompensiert die Temperatur
 *Don't take on too many things at once. Prioritize well.*
 
 ### Notes
+04.08.2026
+Quality Control and WOMs:
+- [ ] Sicherung für den PMT, Abdeckung - Dicht - 3D gedruckt
+- [ ] Neuen PCB - Temperatur stabilisierte SiPMs
+- [ ] WOM coating lernen
+	- [ ] Neuen Kunstoffreihniger bestellen
+	- [ ] Neues Tolorol
+	- [ ] Irgendwann neue Komponenten für Farbe (reicht noch für ca. 2L)
+	- [ ] Coating speed aktuell 500mm
+
 18.06.2026
 - [x] Julian schreiben/maik schreiben bzgl. Des motors
 - [x] Tilman wegen dem Temperatur stabilisierten SiPMs PCB schreiben
