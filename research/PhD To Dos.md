@@ -50,6 +50,11 @@ Quality Control and WOMs:
 	- [ ] Evl. Filter hinzufüge- [https://www.uqgoptics.com/wp-content/uploads/2019/08/UQG-Schott-UG1.pdf](https://www.uqgoptics.com/wp-content/uploads/2019/08/UQG-Schott-UG1.pdf) 
 	- [https://www.edmundoptics.com/p/ug-1-uv-254mm-dia-colored-glass-bandpass-filter/6536/](https://www.edmundoptics.com/p/ug-1-uv-254mm-dia-colored-glass-bandpass-filter/6536/)
 - [ ] Table of WOMs - with what is similar and what was similar - measures tec.
+- [ ] Camera in the setup 
+- [ ] Calibration 
+- [ ] Monitor High Voltage on PMT
+- [ ] Protection for the high voltage supply 
+- [ ] Mike - dichte abdeckung für den PMT?
 
 ALPs
 - [ ] Paper lesen von Matei 
@@ -84,29 +89,17 @@ Orga:
 
 Orga:
 - [ ] Ordner sortieren 
-- [x] Korrekturen 
-	- [x] M9 
-		- [x] letzter Versuch
-		- [x] vorletzter Versuch
-	- [x] Einführungspraktikum korregieren
+
 - [ ] Zeitplanung optimieren - nicht alles gleichzeitigmachen 
 	- [ ] Dokumentation mit einplanen
 - [ ] Write a Documentation in Obsidian ?
-- [x] Paket nach Freiburg schicken
+
 
 - [ ] Neuen Computer einrichten
 - [ ] Start to have a longterm time plan 
 - [ ] Safe stuff from notability and delete it - cancel the abbo
 - [ ] Work into Claude [[Tips for agentic coding 2026]] - get paid version?
-Lab:
-- [ ] Was passiert, wenn wir Luft als optische Kopplung verwenden?
-	- [ ] Mit WOM11 3 Testmessungen aufnehmen
-- [ ] Camera in the setup 
-- [ ] Calibration 
-- [ ] Monitor High Voltage on PMT
-- [x] Implement reference without WOM
-- [ ] Protection for the high voltage supply 
-- [ ] Mike - dichte abdeckung für den PMT?
+
 
 Other stuff:
 - [ ] Sign up for a Spanish class with Jon 
@@ -137,10 +130,7 @@ Other stuff:
 			- Wenn einer der Tracks in die Umgebung der Träger zeigt ausschliesen
 			- Wir fragen nur nach dem Vertex kandidat 
 				- nicht nach dem anderen Tracks
-	- Testbeam Analyse - Neue Daten  -
-		- [x]  4-Cell Paper 
-		- [x] Mit Horst Besprechen 
-		- [x] Dafür Sorgen, dass wir das Paper zuende bringen
+
 	- Monte Carlo Simulationen?
 	- Funding 
 		- SND project - Geld
@@ -154,7 +144,7 @@ Other stuff:
 - [ ] Do [git lab tutorial](https://docs.gitlab.com/tutorials/)
 - [ ] Copy data to new directory 
 	- [ ] Simulation data
-- [x] Testbeam documentation digitatlization - to a PDF like the one from Andres - Horst dud this
+
 
 ### **Communication**
 If you give a talk thank for the invertation and if you ask questions to a talk thank for the talk first!

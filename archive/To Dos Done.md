@@ -1,6 +1,17 @@
 
 # April and Mai 2026
 ### Notes
+- [x] Korrekturen 
+	- [x] M9 
+		- [x] letzter Versuch
+		- [x] vorletzter Versuch
+	- [x] Einführungspraktikum korregieren
+- [x] Paket nach Freiburg schicken
+- [x]  4-Cell Paper 
+- [x] Mit Horst Besprechen 
+- [x] Dafür Sorgen, dass wir das Paper zuende bringen
+- [x] Testbeam documentation digitatlization - to a PDF like the one from Andres - Horst dud this
+- [ ] 
 01.06.2026
 - [x] Herr Friedrich Termin verschieben
 - [x] Safe Sport schreiben
