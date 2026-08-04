@@ -42,7 +42,9 @@ Quality Control and WOMs:
 	- [ ] Coating speed aktuell 500mm/min - einfach geraten nicht vertifiziert
 	- [ ] Untere Farbe entfernen - automatisiert - auch mit dem Dip coater?
 		- [ ] Deckel mit eingebauter schale - die ebenfalls einen Deckel hat
-	- [ ] 
+	- [ ] Dipcoating platte designen
+- [ ] Heatup config und 
+- [ ] Kalibrirung der 
 
 18.06.2026
 - [x] Julian schreiben/maik schreiben bzgl. Des motors
