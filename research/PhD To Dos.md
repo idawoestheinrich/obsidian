@@ -45,15 +45,18 @@ Quality Control and WOMs:
 	- [ ] Messungen mit verschiedenener HV PMT +- 10V 
 - [ ] Protection for the high voltage supply 
 - [ ] Mike - dichte abdeckung für den PMT?
+- [ ] Heiko über Matthias Erfahrung mit [[FPGA chips]] berichten
 
 ALPs
 - [ ] Paper lesen von Matei 
 	- [ ] [Detector performance at SHiP for cascade-produced long-lived particles](https://arxiv.org/pdf/2606.07743)
 	- [ ] [Dark fluxes from electromagnetic cascades](https://arxiv.org/pdf/2401.06843)
-	- [ ] Phlex
+- [ ] Phlex
 		- [ ] [Talks on Phlex](https://indico.cern.ch/event/1714340/contributions/7211279/attachments/3322331/5948592/Phlex-SHiP-2026-07-31.pdf)
 		- [ ] [github](https://github.com/Framework-R-D/phlex/releases#release-v0.3.2)
-
+- [ ] SHiPSoft - [Onboarding](https://shipsoft.github.io/Documentation/first-steps/)
+	- [ ] [github](https://github.com/ShipSoft)
+	- [ ] [Wie SBT implementiert ist](https://github.com/ShipSoft/Geometry/tree/main/subsystems/DecayVolume)
 Orga:
 - [ ] Neuer Computer Zotero Integration, Milena, Jule Tips
 - [ ] Physikerinnen Tagung 2026
