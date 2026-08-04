@@ -18,16 +18,6 @@ To find papers on [[SHiP]] go to [CERN document server](https://cds.cern.ch/sear
 
 Ask about uncertainties, look at coordinates of the plots
 
-
-
-Matthias: 
-FPGA chips - sprachen - vhdl oder verilook - nicht wahrnsinnig viel Erfahrung, aber hat sich das schon mal angeschaut - bitfile daraus erstellen 
-
-
-NTC kompensiert die Temperatur 
-
-
-- Messungen mit verschiedenener HV PMT +- 10V 
 *Don't take on too many things at once. Prioritize well.*
 
 ### Notes
@@ -35,6 +25,7 @@ NTC kompensiert die Temperatur
 Quality Control and WOMs:
 - [ ] Sicherung für den PMT, Abdeckung - Dicht - 3D gedruckt
 - [ ] Neuen PCB - Temperatur stabilisierte SiPMs
+	- NTC kompensiert die Temperatur 
 - [ ] WOM coating lernen
 	- [ ] Neuen Kunstoffreihniger bestellen
 	- [ ] Neues Tolorol
@@ -43,7 +34,6 @@ Quality Control and WOMs:
 	- [ ] Untere Farbe entfernen - automatisiert - auch mit dem Dip coater?
 		- [ ] Deckel mit eingebauter schale - die ebenfalls einen Deckel hat
 	- [ ] Dipcoating platte designen
-- [x] Heatup config und config mit ausgeschalteten PMs einbauen
 - [ ] Kalibrierung des PMTs und der SiPMs
 - [ ] wom_quality_control repository füllen
 - [ ] Konfiguration SiPMs und PCBs und Preamplefier optimieren
@@ -51,8 +41,8 @@ Quality Control and WOMs:
 	- [https://www.edmundoptics.com/p/ug-1-uv-254mm-dia-colored-glass-bandpass-filter/6536/](https://www.edmundoptics.com/p/ug-1-uv-254mm-dia-colored-glass-bandpass-filter/6536/)
 - [ ] Table of WOMs - with what is similar and what was similar - measures tec.
 - [ ] Camera in the setup 
-- [ ] Calibration 
 - [ ] Monitor High Voltage on PMT
+	- [ ] Messungen mit verschiedenener HV PMT +- 10V 
 - [ ] Protection for the high voltage supply 
 - [ ] Mike - dichte abdeckung für den PMT?
 
@@ -66,26 +56,10 @@ ALPs
 
 Orga:
 - [ ] Neuer Computer Zotero Integration, Milena, Jule Tips
+- [ ] Physikerinnen Tagung 2026
+- [ ] Abrechnung Juli 2026
 
 
-18.06.2026
-- [x] Julian schreiben/maik schreiben bzgl. Des motors
-- [x] Tilman wegen dem Temperatur stabilisierten SiPMs PCB schreiben
-- [x] Conntact anna about ship.cern / hiddenparticles.cern
-- [x] Contact collaboration to jump on board and share ideas and write text for our website - 
-- [x] Remind people to send materials
-- [x]  4-Cell Paper beenden
-- [x] Change in code the negative options 
-- [x] Julian: Wie verändert sich die Schichtdicke mit Abstand - WOM paper
-	- [x] Kann ich aus der Transmission auf die Schichtdicke rückschließen
-	- [x] Schichtdicke bestimmen
-	- [x] Referenzmessung ein unbeschichteter WOM
-
-
-- [x] Messung Julian - Abgabe: Anfang/Ende September abgeben - es muss angemeldet werden
-	- [x] Messungen mit und ohne optische Kopplung 
-	- [x] WOM11 - Systematiken Verstehen
-	- [x] Rotation 
 
 Orga:
 - [ ] Ordner sortieren 

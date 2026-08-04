@@ -1,6 +1,28 @@
 
-# April and Mai 2026
+
 ### Notes
+
+# June 2026
+- [x] Heatup config und config mit ausgeschalteten PMs einbauen
+18.06.2026
+- [x] Julian schreiben/maik schreiben bzgl. Des motors
+- [x] Tilman wegen dem Temperatur stabilisierten SiPMs PCB schreiben
+- [x] Conntact anna about ship.cern / hiddenparticles.cern
+- [x] Contact collaboration to jump on board and share ideas and write text for our website - 
+- [x] Remind people to send materials
+- [x]  4-Cell Paper beenden
+- [x] Change in code the negative options 
+- [x] Julian: Wie verändert sich die Schichtdicke mit Abstand - WOM paper
+	- [x] Kann ich aus der Transmission auf die Schichtdicke rückschließen
+	- [x] Schichtdicke bestimmen
+	- [x] Referenzmessung ein unbeschichteter WOM
+
+
+- [x] Messung Julian - Abgabe: Anfang/Ende September abgeben - es muss angemeldet werden
+	- [x] Messungen mit und ohne optische Kopplung 
+	- [x] WOM11 - Systematiken Verstehen
+	- [x] Rotation 
+	- [ ] 
 - [x] Korrekturen 
 	- [x] M9 
 		- [x] letzter Versuch
@@ -11,7 +33,9 @@
 - [x] Mit Horst Besprechen 
 - [x] Dafür Sorgen, dass wir das Paper zuende bringen
 - [x] Testbeam documentation digitatlization - to a PDF like the one from Andres - Horst dud this
-- [ ] 
+
+- [x] Testbeamorga (Schichten, Messungen, Buchungen, Abrechnung)
+
 01.06.2026
 - [x] Herr Friedrich Termin verschieben
 - [x] Safe Sport schreiben
@@ -31,6 +55,7 @@
 		- [x] Rotation one WOM - 0, 90, 180, 270 - normalized?
 	- [x] WOM response difference - over PMT distance and over transmission - Total light yield 
 - [x] Outreach strategy talk
+# April and Mai 2026
 20.05.2026
 - [x] Change nameing in integration files - remove `_int_` and move `_std_` to the back
 - [x] Change title of the plots in code
