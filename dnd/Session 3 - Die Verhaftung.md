@@ -52,7 +52,11 @@ Alle Waffen und Gegenstände werden konfisziert. Es werden Bilder von den Charak
 
 Jetzt sitzen sie mit zwei Fremden in einer Zelle. - [[Antimagic Field]]
 
-- Groll der Zerstörer und Marvins Halbling 
+- Gruul der Grausame 
+- Apollo Silbermond
+- Jakob
+- Der Wiesel 
+- Marvins Halbling 
 - Dr. Dannel wird nicht mit in die Zelle geführt 
 
 ---
