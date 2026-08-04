@@ -39,7 +39,10 @@ Quality Control and WOMs:
 	- [ ] Neuen Kunstoffreihniger bestellen
 	- [ ] Neues Tolorol
 	- [ ] Irgendwann neue Komponenten für Farbe (reicht noch für ca. 2L)
-	- [ ] Coating speed aktuell 500mm
+	- [ ] Coating speed aktuell 500mm/min - einfach geraten nicht vertifiziert
+	- [ ] Untere Farbe entfernen - automatisiert - auch mit dem Dip coater?
+		- [ ] Deckel mit eingebauter schale - die ebenfalls einen Deckel hat
+	- [ ] 
 
 18.06.2026
 - [x] Julian schreiben/maik schreiben bzgl. Des motors
