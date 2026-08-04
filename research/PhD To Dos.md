@@ -54,7 +54,10 @@ Quality Control and WOMs:
 ALPs
 - [ ] Paper lesen von Matei 
 	- [ ] [Detector performance at SHiP for cascade-produced long-lived particles](https://arxiv.org/pdf/2606.07743)
-	- [ ] [](https://arxiv.org/pdf/2401.06843)
+	- [ ] [Dark fluxes from electromagnetic cascades](https://arxiv.org/pdf/2401.06843)
+	- [ ] Phlex
+		- [ ] [Talks on Phlex](https://indico.cern.ch/event/1714340/contributions/7211279/attachments/3322331/5948592/Phlex-SHiP-2026-07-31.pdf)
+		- [ ] [github](https://github.com/Framework-R-D/phlex/releases#release-v0.3.2)
 
 Orga:
 - [ ] Neuer Computer Zotero Integration, Milena, Jule Tips
