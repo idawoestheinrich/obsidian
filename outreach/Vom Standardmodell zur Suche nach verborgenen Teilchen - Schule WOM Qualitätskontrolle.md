@@ -7,7 +7,7 @@
 
 Ihr habt gerade gehört, wie das Proton seine Masse bekommt – und dass 99 % davon aus der Bindungsenergie der Farbkraft stammen, also aus einem Wechselspiel von Quarks und Gluonen, das wir als Quantenchromodynamik beschreiben.
 
-Das Standardmodell ist eine unglaublich erfolgreiche Theorie. Es erklärt, woraus die Materie besteht und welche Kräfte zwischen den Teilchen wirken. Experimente stimmen mit seinen Vorhersagen auf viele Nachkommastellen überein.
+Das Standardmodell ist eine unglaublich erfolgreiche Theorie. Es erklärt, ~~woraus~~ die Materie besteht und welche Kräfte zwischen den Teilchen wirken. Experimente stimmen mit seinen Vorhersagen auf viele Nachkommastellen überein.
 
 **Aber:** Das Standardmodell ist nicht vollständig. Es gibt Dinge in der Natur, die es einfach nicht erklären kann.
 
