@@ -43,8 +43,22 @@ Quality Control and WOMs:
 	- [ ] Untere Farbe entfernen - automatisiert - auch mit dem Dip coater?
 		- [ ] Deckel mit eingebauter schale - die ebenfalls einen Deckel hat
 	- [ ] Dipcoating platte designen
-- [ ] Heatup config und 
-- [ ] Kalibrirung der 
+- [x] Heatup config und config mit ausgeschalteten PMs einbauen
+- [ ] Kalibrierung des PMTs und der SiPMs
+- [ ] wom_quality_control repository füllen
+- [ ] Konfiguration SiPMs und PCBs und Preamplefier optimieren
+	- [ ] Evl. Filter hinzufüge- [https://www.uqgoptics.com/wp-content/uploads/2019/08/UQG-Schott-UG1.pdf](https://www.uqgoptics.com/wp-content/uploads/2019/08/UQG-Schott-UG1.pdf) 
+	- [https://www.edmundoptics.com/p/ug-1-uv-254mm-dia-colored-glass-bandpass-filter/6536/](https://www.edmundoptics.com/p/ug-1-uv-254mm-dia-colored-glass-bandpass-filter/6536/)
+- [ ] Table of WOMs - with what is similar and what was similar - measures tec.
+
+ALPs
+- [ ] Paper lesen von Matei 
+	- [ ] [Detector performance at SHiP for cascade-produced long-lived particles](https://arxiv.org/pdf/2606.07743)
+	- [ ] [](https://arxiv.org/pdf/2401.06843)
+
+Orga:
+- [ ] Neuer Computer Zotero Integration, Milena, Jule Tips
+
 
 18.06.2026
 - [x] Julian schreiben/maik schreiben bzgl. Des motors
@@ -58,9 +72,6 @@ Quality Control and WOMs:
 	- [x] Kann ich aus der Transmission auf die Schichtdicke rückschließen
 	- [x] Schichtdicke bestimmen
 	- [x] Referenzmessung ein unbeschichteter WOM
-- [ ] Konfiguration SiPMs und PCBs und Preamplefier optimieren
-	- [ ] Evl. Filter hinzufüge- [https://www.uqgoptics.com/wp-content/uploads/2019/08/UQG-Schott-UG1.pdf](https://www.uqgoptics.com/wp-content/uploads/2019/08/UQG-Schott-UG1.pdf) 
-	- [https://www.edmundoptics.com/p/ug-1-uv-254mm-dia-colored-glass-bandpass-filter/6536/](https://www.edmundoptics.com/p/ug-1-uv-254mm-dia-colored-glass-bandpass-filter/6536/)
 
 
 - [x] Messung Julian - Abgabe: Anfang/Ende September abgeben - es muss angemeldet werden
@@ -79,7 +90,7 @@ Orga:
 	- [ ] Dokumentation mit einplanen
 - [ ] Write a Documentation in Obsidian ?
 - [x] Paket nach Freiburg schicken
-- [ ] Table of WOMs - with what is similar and what was similar - measures tec.
+
 - [ ] Neuen Computer einrichten
 - [ ] Start to have a longterm time plan 
 - [ ] Safe stuff from notability and delete it - cancel the abbo
@@ -140,14 +151,14 @@ Other stuff:
 - [ ] Do [git lab tutorial](https://docs.gitlab.com/tutorials/)
 - [ ] Copy data to new directory 
 	- [ ] Simulation data
-- [ ] Testbeam documentation digitatlization - to a PDF like the one from Andres
+- [x] Testbeam documentation digitatlization - to a PDF like the one from Andres - Horst dud this
 
 ### **Communication**
 If you give a talk thank for the invertation and if you ask questions to a talk thank for the talk first!
 - [ ] Klima Kurs mit Jugendlichen
 - [ ] Neue Video Reihe mit Erklärvideos? 
 - [ ] Könnten wir eine Simulation in Fusion machen? - Teilchen durch SHiP folgen - Pablo Santos Diaz
-- [ ] 28.05 Masterclass mit Heiko reden
+- [x] 28.05 Masterclass mit Heiko reden
 
 #### Possible participations: 
 - Humboldt Graduate School 
