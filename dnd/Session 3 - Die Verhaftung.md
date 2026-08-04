@@ -136,7 +136,7 @@ Kurze Pause.
 Claudus führt die Gruppe durch die Straßen bis zu einer kleinen Anwaltskanzlei.
 
 Ein Schild hängt über der Tür:
-> Venn & Marlowe – Handelsvermittlung
+> Venn & Marlowe – Handelsvermittlung und Anwaltskanslei
 
 Ihr geht eine schmale Treppe hoch
 Drinnen arbeiten Schreiber, Boten kommen und gehen, Bücher werden geführt.
