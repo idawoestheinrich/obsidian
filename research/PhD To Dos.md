@@ -47,7 +47,7 @@ Quality Control and WOMs:
 - [ ] Monitor High Voltage on PMT
 	- [ ] Messungen mit verschiedenener HV PMT +- 10V 
 - [ ] Protection for the high voltage supply 
-- [ ] Mike - dichte abdeckung für den PMT?
+- [x] Maik - dichte abdeckung für den PMT?
 - [ ] Heiko über Matthias Erfahrung mit [[FPGA chips]] berichten
 - [ ]  Webinterface
 - [ ] Bei Bestellung SMA stecker mitbestellen - 
