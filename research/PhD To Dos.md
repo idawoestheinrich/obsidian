@@ -48,6 +48,9 @@ Quality Control and WOMs:
 - [ ] Mike - dichte abdeckung für den PMT?
 - [ ] Heiko über Matthias Erfahrung mit [[FPGA chips]] berichten
 - [ ]  Webinterface
+- [ ] Bei Bestellung SMA stecker mitbestellen - 
+	- [https://www.reichelt.de/de/de/shop/produkt/sma-stecker_rg174_316_gerade_crimp-157321](https://www.reichelt.de/de/de/shop/produkt/sma-stecker_rg174_316_gerade_crimp-157321)  
+	- [https://www.reichelt.de/de/de/shop/produkt/adapter_sma-kupplung_auf_sma-kupplung-235616](https://www.reichelt.de/de/de/shop/produkt/adapter_sma-kupplung_auf_sma-kupplung-235616)
 
 ALPs
 - [ ] Paper lesen von Matei 
