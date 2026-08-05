@@ -35,6 +35,7 @@ Quality Control and WOMs:
 		- [ ] Deckel mit eingebauter schale - die ebenfalls einen Deckel hat
 	- [ ] Dipcoating platte designen
 - [ ] Kalibrierung des PMTs und der SiPMs
+- [ ] Matthias bitten die Widerstände von den Preamplifiern anzupassen.
 - [ ] wom_quality_control repository füllen
 - [ ] Konfiguration SiPMs und PCBs und Preamplefier optimieren
 	- [ ] Evl. Filter hinzufüge- [https://www.uqgoptics.com/wp-content/uploads/2019/08/UQG-Schott-UG1.pdf](https://www.uqgoptics.com/wp-content/uploads/2019/08/UQG-Schott-UG1.pdf) 
