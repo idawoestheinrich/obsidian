@@ -82,10 +82,10 @@ Orga:
 
 Other stuff:
 - [ ] Sign up for a Spanish class with Jon 
+- [ ] Improv theater with camilo
  - [ ] lernen wie man CAD designs vernünftig macht - PCB
  - [ ] Die Prasentation fur Beschleuniger nochmal bearbeiten?
 - [ ] Wenn ich Quality Control SetUp fertig habe
-
 	- Fairship - Signal Kanal analyse?
 		- Oliver - swiching to a different program
 		- Beam is 1.2 s 
