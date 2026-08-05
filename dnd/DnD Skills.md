@@ -13,7 +13,7 @@ date:
 | **Athletics**       | Athletik         | Strength (Stärke)            | Klettern, Schwimmen                    |
 | **Deception**       | Täuschung        | Charisma                     | Lügen                                  |
 | **History**         | Geschichte       | Intelligence                 | historische Ereignisse                 |
-| **Insight**         | Motiv erkennen   | Wisdom                       | jmd. durchschauen, Gefühle erkennen,   |
+| **Insight**         | Motiv erkennen   | Wisdom                       | jmd.durchschauen, Gefühle erkennen,    |
 | **Intimidation**    | Einschüchtern    | Charisma                     | Drohen                                 |
 | **Investigation**   | Nachforschungen  | Intelligence                 | Suchen, Hinweise kombinieren           |
 | **Medicine**        | Heilkunde        | Wisdom                       | Sterbende stabilisieren,               |
