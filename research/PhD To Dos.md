@@ -24,7 +24,9 @@ Ask about uncertainties, look at coordinates of the plots
 04.08.2026
 Quality Control and WOMs:
 - [ ] Sicherung für den PMT, Abdeckung - Dicht - 3D gedruckt
+	- [x] Maik fragen
 - [ ] Temperatur des Motors
+	- [x] Maik fragen
 - [x] Compute a temperature dependent heatup function
 	- [ ] Test this function
 - [ ] Neuen PCB - Temperatur stabilisierte SiPMs
