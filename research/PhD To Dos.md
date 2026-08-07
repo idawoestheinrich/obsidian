@@ -39,13 +39,16 @@ Quality Control and WOMs:
 	- [ ] Untere Farbe entfernen - automatisiert - auch mit dem Dip coater?
 		- [ ] Deckel mit eingebauter schale - die ebenfalls einen Deckel hat
 	- [ ] Dipcoating platte designen
-- [ ] Kalibrierung des PMTs und der SiPMs
 - [x] Matthias bitten die Widerstände von den Preamplifiern anzupassen.
 - [ ] wom_quality_control repository füllen
+	- [ ] Doku
+	- [ ] Heatmap
+	- [ ] Temperature Korrekturen implementieren
+	- [ ] Kalibrierung des PMTs und der SiPMs
 - [ ] Konfiguration SiPMs und PCBs und Preamplefier optimieren
 	- [ ] Evl. Filter hinzufüge- [https://www.uqgoptics.com/wp-content/uploads/2019/08/UQG-Schott-UG1.pdf](https://www.uqgoptics.com/wp-content/uploads/2019/08/UQG-Schott-UG1.pdf) 
 	- [https://www.edmundoptics.com/p/ug-1-uv-254mm-dia-colored-glass-bandpass-filter/6536/](https://www.edmundoptics.com/p/ug-1-uv-254mm-dia-colored-glass-bandpass-filter/6536/)
-- [ ] Table of WOMs - with what is similar and what was similar - measures tec.
+- [x] Table of WOMs - with what is similar and what was similar - measures tec.
 - [ ] Camera in the setup 
 - [ ] Monitor High Voltage on PMT
 	- [ ] Messungen mit verschiedenener HV PMT +- 10V 
