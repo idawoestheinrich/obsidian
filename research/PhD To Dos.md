@@ -21,6 +21,10 @@ Ask about uncertainties, look at coordinates of the plots
 *Don't take on too many things at once. Prioritize well.*
 
 ### Notes
+07.08.206
+- [ ] next step: - compute grouped_mean so that it can act on all the different qc.integrated data, etc. 
+- [ ] Apply for Physikerinnen Tagung 
+- [ ] Apply for Collaboration meeting? 
 04.08.2026
 Quality Control and WOMs:
 - [ ] Sicherung für den PMT, Abdeckung - Dicht - 3D gedruckt
@@ -42,7 +46,7 @@ Quality Control and WOMs:
 - [x] Matthias bitten die Widerstände von den Preamplifiern anzupassen.
 - [ ] wom_quality_control repository füllen
 	- [ ] Doku
-	- [ ] Heatmap
+	- [x] Heatup
 	- [ ] Temperature Korrekturen implementieren
 	- [ ] Kalibrierung des PMTs und der SiPMs
 - [ ] Konfiguration SiPMs und PCBs und Preamplefier optimieren
