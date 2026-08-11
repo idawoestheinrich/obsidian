@@ -48,6 +48,7 @@ Quality Control and WOMs:
 	- [ ] Doku
 	- [x] Heatup
 	- [ ] Temperature Korrekturen implementieren
+		- [x] Check if this was done correctly
 	- [ ] Kalibrierung des PMTs und der SiPMs
 - [ ] Konfiguration SiPMs und PCBs und Preamplefier optimieren
 	- [ ] Evl. Filter hinzufüge- [https://www.uqgoptics.com/wp-content/uploads/2019/08/UQG-Schott-UG1.pdf](https://www.uqgoptics.com/wp-content/uploads/2019/08/UQG-Schott-UG1.pdf) 
