@@ -29,7 +29,7 @@ Ask about uncertainties, look at coordinates of the plots
 Quality Control and WOMs:
 - [ ] Sicherung für den PMT, Abdeckung - Dicht - 3D gedruckt
 	- [x] Maik fragen
-- [ ] Temperatur des Motors
+- [x] Temperatur des Motors
 	- [x] Maik fragen
 - [x] Compute a temperature dependent heatup function
 	- [ ] Test this function
@@ -50,6 +50,7 @@ Quality Control and WOMs:
 	- [ ] Temperature Korrekturen implementieren
 		- [x] Check if this was done correctly
 	- [ ] Kalibrierung des PMTs und der SiPMs
+- [ ] Du könntest die Daten noch komprimieren, was bis zu 50% spart und nicht wirklich länger dauert: [https://numpy.org/devdocs/reference/generated/numpy.savez_compressed.html](https://numpy.org/devdocs/reference/generated/numpy.savez_compressed.html)
 - [ ] Konfiguration SiPMs und PCBs und Preamplefier optimieren
 	- [ ] Evl. Filter hinzufüge- [https://www.uqgoptics.com/wp-content/uploads/2019/08/UQG-Schott-UG1.pdf](https://www.uqgoptics.com/wp-content/uploads/2019/08/UQG-Schott-UG1.pdf) 
 	- [https://www.edmundoptics.com/p/ug-1-uv-254mm-dia-colored-glass-bandpass-filter/6536/](https://www.edmundoptics.com/p/ug-1-uv-254mm-dia-colored-glass-bandpass-filter/6536/)
