@@ -14,6 +14,10 @@
 - Phlex regenerate everything 
 
 
+- Problem of Communication 
+
+
+
 
 
 
