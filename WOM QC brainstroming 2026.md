@@ -1,9 +1,16 @@
-- Temperatur
+- Temperatur stabilität
 	- wie Spannungs isoliert aber nicht Wärme isolierung
 	- Erdung der Platte oben 
 - Neuer PCB
 - Schwankungen stärker als vom Gain erwartbar
 - Web interface
 - Dichtung des PMTs - verhindern, dass Glycerol unten rein läuft
-- Repository 
-- 
+	- Schutz vorrichtung
+- Repository - funktionen verschmalern 
+- PCB
+	- Gain stabilisieren
+	- Wärmeableitung  - sollte der PCB so heiß werden? 38 Grad?
+- Neuer Bachelorstudi 
+	- Systematik verstehen?
+	- 2mm vs. 3mm WOMs 
+	- Aging tests
