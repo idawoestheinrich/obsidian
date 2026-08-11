@@ -51,6 +51,7 @@ Quality Control and WOMs:
 		- [x] Check if this was done correctly
 	- [ ] Kalibrierung des PMTs und der SiPMs
 - [ ] Du könntest die Daten noch komprimieren, was bis zu 50% spart und nicht wirklich länger dauert: [https://numpy.org/devdocs/reference/generated/numpy.savez_compressed.html](https://numpy.org/devdocs/reference/generated/numpy.savez_compressed.html)
+- [ ] Und die ADC-Daten als short abspeichern (2 statt 4 bytes), das wären noch einmal 50% weniger
 - [ ] Konfiguration SiPMs und PCBs und Preamplefier optimieren
 	- [ ] Evl. Filter hinzufüge- [https://www.uqgoptics.com/wp-content/uploads/2019/08/UQG-Schott-UG1.pdf](https://www.uqgoptics.com/wp-content/uploads/2019/08/UQG-Schott-UG1.pdf) 
 	- [https://www.edmundoptics.com/p/ug-1-uv-254mm-dia-colored-glass-bandpass-filter/6536/](https://www.edmundoptics.com/p/ug-1-uv-254mm-dia-colored-glass-bandpass-filter/6536/)
