@@ -1,0 +1,9 @@
+- Temperatur
+	- wie Spannungs isoliert aber nicht Wärme isolierung
+	- Erdung der Platte oben 
+- Neuer PCB
+- Schwankungen stärker als vom Gain erwartbar
+- Web interface
+- Dichtung des PMTs - verhindern, dass Glycerol unten rein läuft
+- Repository 
+- 
