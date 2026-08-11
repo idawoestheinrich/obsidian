@@ -10,3 +10,13 @@
 	- Setup the system, do the analysis
 	- Electromagnetic debree 
 - Overlay with signal event SBT
+
+- Phlex regenerate everything 
+
+
+
+
+
+
+
+
