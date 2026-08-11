@@ -87,7 +87,7 @@ Orga:
 - [x] Ordner sortieren 
 - [ ] Zeitplanung optimieren - nicht alles gleichzeitigmachen 
 	- [ ] Dokumentation mit einplanen
-- [ ] Write a Documentation in Obsidian ?
+- [ ] Write a Documentation in Obsidian?
 
 
 - [ ] Neuen Computer einrichten
