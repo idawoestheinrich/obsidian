@@ -1,1 +1,7 @@
 ![[Screenshot 2026-08-11 at 12.04.05.png]]![[Screenshot 2026-08-11 at 12.04.40.png]]![[Screenshot 2026-08-11 at 12.05.33.png]]
+
+
+
+
+
+![[Screenshot 2026-08-11 at 12.06.36.png]]![[Screenshot 2026-08-11 at 12.06.36.png]]
