@@ -8,4 +8,5 @@
 	- Now with the old muon shield
 	- Not regenerate everything - use her scripts - 
 	- Setup the system, do the analysis
-	- 
+	- Electromagnetic debree 
+- Overlay with signal event SBT
