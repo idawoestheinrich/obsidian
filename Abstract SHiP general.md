@@ -1,15 +1,11 @@
-Search for Hidden Particles (SHiP/NA67) is a new general-purpose, high-intensity beam dump experiment at the CERN approved in 2024 designed to explore the largely undercharted domain of feebly interacting particles with masses in the $\mathcal{O}$(100 MeV) to few-GeV range.  
-By fully exploiting the intense 400 GeV proton beam of CERN’s Super Proton Synchrotron, delivering  $4×10^{19}$  protons on target per year, SHiP will provide leading sensitivity to most beyond Standard Model theories predicting particles within this range, like heavy neutral leptons, dark photons, axion-like particles and light dark matter. 
+Search for Hidden Particles (SHiP/NA67) is a new general-purpose, high-intensity beam dump experiment at CERN approved in 2024 designed to explore the largely uncharted domain of feebly interacting particles with masses in the $\mathcal{O}$(100 MeV) to few-GeV range.  
+By fully exploiting the intense 400 GeV proton beam of CERN’s Super Proton Synchrotron, SHiP will provide leading sensitivity to most beyond Standard Model theories predicting particles within this range, like heavy neutral leptons, dark photons, axion-like particles and light dark matter. 
 In addition, the intense flux of neutrinos of all flavours produced in the beam dump will enable a rich programme of Standard Model and neutrino physics.
-In the baseline configuration the SHiP experiment comprises two complementary detectors. The upstream detector targets light dark matter scattering and neutrino physics, including ($\nu_\tau$), using an approximately 8-tonne target with emulsion films and precision electronic tracking. The downstream detector searches for visible decays of feebly interacting particles in a nearly background-free environment. It features a 50 m-long vacuum decay volume followed by a spectrometer and particle identification system with a 5 m × 10 m acceptance.
-
-
-
 This contribution summerises the physics motivation, the experiment concept and detectors and outlines the expected sensitivity and timeline.
 
 
 
-
+In the baseline configuration the SHiP experiment comprises two complementary detectors following a hadron absorber and a magnetized muon shield. The upstream detector targets light dark matter scattering and neutrino physics, including ($\nu_\tau$), using an approximately 8-tonne target with emulsion films and precision electronic tracking. The downstream detector searches for visible decays of feebly interacting particles in a nearly background-free environment. It features a 50 m-long vacuum decay volume followed by a spectrometer and particle identification system with a 5 m × 10 m acceptance.
 
 
 
