@@ -1,8 +1,8 @@
 Search for Hidden Particles (SHiP/NA67) is a new general-purpose, high-intensity beam dump experiment at CERN approved in 2024 and designed to explore the largely uncharted domain of feebly interacting particles with masses from 100 MeV to a few GeV.
 These particles are predicted by a large number of theories beyond the Standard Model capable of explaining phenomena such as dark matter, neutrino oscillations, and the origin of the baryon asymmetry in the Universe.
 By fully exploiting the intense 400 GeV proton beam of CERN’s Super Proton Synchrotron, SHiP will provide leading sensitivity to most models predicting particles within this mass range, such as heavy neutral leptons, dark photons, axion-like particles and light dark matter. 
-In addition, the intense flux of neutrinos of all flavours produced in the beam dump will enable a rich programme of Standard Model and neutrino physics including the detection of millions of neutrinos over ∼15 years of operation and the potential first registration of tau anti neutrinos.
-This contribution summarises the physics motivation, the experimental concept and detectors and outlines the expected sensitivity and timeline.
+In addition, the intense flux of neutrinos of all flavours produced in the beam dump will enable a rich programme of Standard Model and neutrino physics with notably millions of neutrinos expected to be detected over approximately 15 years of operation and the potential first observation of tau antineutrinos.
+This contribution summarises the physics motivation, the experimental concept and the detectors systems and outlines the expected sensitivity and timeline.
 
 
 
