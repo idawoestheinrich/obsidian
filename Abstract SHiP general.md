@@ -1,33 +1,10 @@
+HiP (Search for Hidden Particles) is a newly approved general-purpose beam-dump experiment at CERN, designed to explore one of the most elusive frontiers in particle physics: long-lived, feebly interacting particles with masses from the MeV to GeV range. These hidden-sector particles—including Heavy Neutral Leptons, dark photons, dark scalars, and axion-like particles—are predicted by a wide range of extensions of the Standard Model, but remain largely unexplored experimentally.
 
+SHiP will operate at the intensity frontier, complementing searches at the energy and precision frontiers. A 400 GeV proton beam from the SPS will be dumped onto a dense target, producing unprecedented yields of charmed hadrons, tau leptons, and photons. A hadron absorber and magnetic muon shield will suppress backgrounds before the particles reach the detectors.
 
+The experiment comprises two complementary systems. The Scattering and Neutrino Detector will investigate neutrino interactions of all flavours and search for light dark matter, while the Hidden Sector Decay Spectrometer will target long-lived hidden particles. Its 50 m helium-filled decay volume, followed by precision tracking and particle-identification detectors, is designed to reconstruct displaced decays in an effectively background-free environment.
 
-
-Ship is a gerneal purpose experimen
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+With installation and commissioning planned for the dedicated SPS beam-dump facility ECN3 in 2032, SHiP will open a new window on hidden-sector physics. For several benchmark scenarios, it is expected to improve the reach in coupling by 2–4 orders of magnitude beyond current experimental limits, while extending the accessible mass range by up to 1–2 orders of magnitude. This talk will introduce the physics motivation, experimental concept, and discovery potential of SHiP, highlighting its unique role in the search for new physics.
 
 
 The SHiP/NA67 experiment at the ECN3 high-intensity beam facility at the CERN SPS
