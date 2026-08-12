@@ -3,52 +3,38 @@
 **Age:** Very young adult by Harengon standards  
 **Size:** Small  
 **Personality:** Charming, enthusiastic, naive, slightly clumsy, and _deeply_ convinced that she is much wiser than she actually is.
-
 ### The basic idea
-
 Lotte left her little home because she had heard that **Leo Löwenzahn** had gone to the big city.
-
 She has now been searching for him for **weeks**.
-
 She has asked guards, shopkeepers, sailors, beggars, children, tavern owners and at least one statue whether they have seen Leo.
-
 Nobody has.
-
 Then she found **Rob Hopel**, her great-great-great-grandfather.
-
 Unfortunately, Rob has developed a serious gambling problem.
 
 And after knowing Lotte for approximately **five minutes**, he handed her a lemon.
-
 > "Here. The Lemon Aider."
 
 Lotte has no idea what that means.
 
 Rob explained:
-
 > "The Lemon Sensay. I don't earn it anymore."
 
 Lotte immediately accepted this as perfectly normal.
 
 ---
-
 # Character Sheet
-
 ### Ability Scores
 
-|Ability|Score|Modifier|
-|---|---|---|
-|**STR**|10|+0|
-|**DEX**|16|**+3**|
-|**CON**|14|+2|
-|**INT**|8|-1|
-|**WIS**|10|**+0**|
-|**CHA**|15|**+2**|
-
+| Ability | Score | Modifier |
+| ------- | ----- | -------- |
+| **STR** | 10    | +0       |
+| **DEX** | 16    | **+3**   |
+| **CON** | 14    | +2       |
+| **INT** | 8     | -1       |
+| **WIS** | 10    | **+0**   |
+| **CHA** | 15    | **+2**   |
 This is deliberately a little unusual for a Monk: **Lotte is charming rather than wise.**
-
 She is not good at figuring things out.
-
 She is, however, **very good at convincing people that whatever she just did was intentional.**
 
 **Proficiency Bonus:** +2  
@@ -58,72 +44,51 @@ She is, however, **very good at convincing people that whatever she just did wa
 **Initiative:** +3
 
 ---
-
 # 🥋 Monk — Level 3
 
 ### Martial Arts
 
 Lotte fights with her little fists and feet.
-
 **Unarmed Strike:** +5 to hit  
 **Damage:** 1d6 + 3 bludgeoning
-
 Her monk weapon can be a **quarterstaff** or something similarly simple.
-
 **Quarterstaff:** +5 to hit  
 **Damage:** 1d6 + 3 bludgeoning
-
 She can also use Dexterity instead of Strength for attacks.
 
 ---
-
 ### Focus Points: 3
 
 This is the only resource the new player really needs to remember.
-
 **"I have 3 Focus. I can spend them to do cool monk things."**
 
 She can spend Focus to:
-
 - **Flurry of Blows** → make extra attacks
 - **Patient Defense** → become harder to hit
 - **Step of the Wind** → move around dramatically
 - **Darkness** → Lotte's Shadow Monk ability
 
 For a one-shot, I'd literally put three little carrot symbols on her sheet:
-
 🥕 🥕 🥕
-
 Cross one out whenever she spends a Focus Point.
 
 ---
-
 # 🌑 Warrior of Shadow
-
 This is where Lotte becomes surprisingly cool.
 
 ### Minor Illusion
-
 She can create a little illusion.
-
 This is perfect for her.
-
 Examples:
-
 - Make an illusion of Leo calling her name.
 - Create a giant carrot.
 - Make a guard think there is a suspicious noise behind them.
 - Create a tiny illusion of herself giving herself advice.
 - Make an illusion of Rob saying something embarrassing.
-
 ### Darkness
-
 She can spend **1 Focus Point** to create magical darkness.
-
 And because she's a Warrior of Shadow, **Lotte can see through the darkness she creates.**
-
 This creates a great comedic contrast:
-
 > Lotte: "Don't worry! I have a plan!"
 
 _Everything goes completely black._
@@ -135,47 +100,31 @@ _Everything goes completely black._
 # 🐇 Harengon Abilities
 
 ### Hare-Trigger
-
 Lotte adds her proficiency bonus to initiative.
-
 **Initiative: +5**
-
 This means she is often the first person to act.
-
 Which is dangerous.
-
 Because she usually has **no idea what she is going to do yet.**
 
 ---
-
 ### Lucky Footwork
-
 When Lotte fails a Dexterity saving throw, she can use her reaction to roll a d4 and add it to the result.
-
 Describe this as:
-
 > Lotte trips over her own foot, accidentally performs a perfect somersault, and lands safely.
 
 ---
-
 ### Rabbit Hop
-
 Lotte can make a spectacular rabbit jump without provoking opportunity attacks.
 
 This is one of the most fun abilities for a beginner because the answer to:
-
 **"How do I get over there?"**
-
 is frequently:
-
 **"YOU BUNNY-HOP."**
 
 ---
 
 # 💕 Skills
-
 I'd give her:
-
 - **Acrobatics +5**
 - **Persuasion +4**
 - **Performance +4**
@@ -183,31 +132,24 @@ I'd give her:
 - **Insight +2**
 
 Notice the important thing:
-
 **Persuasion is good. Insight is mediocre.**
 
 Lotte can convince people of things.
-
 She cannot reliably tell whether _they are lying to her._
-
 This is exactly the kind of character that produces funny roleplay.
 
 ---
-
 # 🎭 Personality
 
 ### Personality Trait
 
 > "I always assume people are basically good. Even when they are very obviously not."
-
 ### Ideal
 
 > **Family.** "If you lose someone, you don't give up looking for them."
-
 ### Bond
 
 > "I have to find Leo Löwenzahn. He wouldn't just disappear. Probably."
-
 ### Flaw
 
 > "I am extremely confident about things I don't understand."
@@ -215,13 +157,9 @@ This is exactly the kind of character that produces funny roleplay.
 ---
 
 # 🥕 Lotte's General Behaviour
-
 Lotte should have a very specific way of interacting with the world.
-
 ### She misunderstands things literally.
-
 Someone:
-
 > "This city is crawling with thieves."
 
 Lotte:
@@ -263,13 +201,9 @@ Lotte:
 ### She is charming enough that people tolerate it.
 
 That's the important part.
-
 She isn't annoying because she is **genuinely enthusiastic and kind**.
-
 If she makes a mistake, she immediately tries to fix it.
-
 If someone gets hurt, she worries about them.
-
 If someone is rude to her, she assumes they are probably having a bad day.
 
 ---
@@ -279,7 +213,6 @@ If someone is rude to her, she assumes they are probably having a bad day.
 I would make the lemon a **permanent character prop**.
 
 ### The Lemon Aider
-
 Rob gives it to her with complete seriousness.
 
 > "Take this."
@@ -299,17 +232,12 @@ Rob looks at her sadly.
 > "I don't earn it anymore."
 
 And then he walks away.
-
 Lotte is left holding the lemon.
-
 She assumes it is important.
 
 ### What Lotte believes
-
 She thinks the lemon is some sort of **ancient monk artifact**.
-
 She may ask the other PCs:
-
 > "Do you know what a Lemon Sensay is?"
 
 If they say no:
@@ -323,15 +251,12 @@ She has absolutely no idea either.
 # 👨‍👩‍👧 The Family Mystery
 
 I'd keep the connection between Lotte and Leo **deliberately vague**.
-
 Lotte knows:
 
 > "Leo is family."
 
 But she doesn't actually know exactly how.
-
 Her family tree has become somewhat... complicated.
-
 She has heard things like:
 
 - "Leo is your cousin."
@@ -345,7 +270,6 @@ And somewhere in the family tree is:
 **Rob Hopel → ??? → ??? → ??? → Lotte Karotte**
 
 Leo's exact relationship can be revealed later.
-
 That gives you a nice recurring joke where Lotte confidently tells people:
 
 > "Leo is my cousin."
