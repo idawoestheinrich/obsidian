@@ -1,17 +1,23 @@
 Search for Hidden Particles (SHiP/NA67) is a new general-purpose, high-intensity beam dump experiment approved in 2024 designed to explore the largely undercharted domain of feebly interacting particles with masses in the $\mathcal{O}$(100 MeV) to few-GeV range.  
-Taking full advantage of the available 4x10^19 protons per year at 400 GeV
-It will collect $6×10^{20}$ protons on target over ∼15 years of operation
+Taking full advantage of the available $4×10^{19}$ protons per year at 400 GeV, it will provide leading sensitivity to most beyond Standard Model theories predicting particles within this range, like heavy neutral leptons, dark photons, axion-like particles and light dark matter. 
+In addition, the intense flux of neutrinos of all flavours produced in the beam dump will enable a rich programme of Standard Model and neutrino physics.
 
-It will provide leading sensitivity to most Beyond Standard-Model theories predicting particles within this range, like heavy neutral leptons, dark photons, axion-like particles and light dark matter. 
+
+
+
+This contribution summerises the physics motivation, the experiment concept and detectors and outlines the expected sensitivity and timeline.
 
 
 potentially improving existing limits by several orders of magnitude
+
+
+
 
 explore one of the biggest open questions in particle physics: could there be new, very weakly interacting particles that have so far escaped detection? The experiment will search for long-lived “hidden sector” particles, such as heavy neutral leptons, dark photons, dark scalars and axion-like particles, with masses from the MeV to GeV range.
 
 SHiP will use an intense 400 GeV proton beam at CERN’s SPS, producing enormous numbers of particles in a beam dump. A dedicated detector will look for extremely rare signals, including the decay of hidden particles and interactions of neutrinos and possible light dark matter.
 
-With its unprecedented particle yields and a 50 m decay volume, SHiP will probe unexplored regions of parameter space, potentially improving existing limits by several orders of magnitude. In this talk, I will introduce the physics motivation behind SHiP, explain how the experiment works, and discuss what it could teach us about physics beyond the Standard Model.
+With its unprecedented particle yields and a 50 m decay volume, SHiP will probe unexplored regions of parameter space, potentially improving existing limits by several orders of magnitude. In this talk, This contribution summerises the physics motivation, the experiment concept and detectors and outlines the expected sensitivity and timeline.
 
 
 The SHiP/NA67 experiment at the ECN3 high-intensity beam facility at the CERN SPS
