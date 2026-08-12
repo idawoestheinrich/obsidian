@@ -14,3 +14,5 @@ worst_duration: "42"
 3. WOMs werden nach Freiburg geschickt (Transportbox)
 4. SiPM Array wird drauf geklebt 
 5. WOMs werden zum CERN transportiert (Transportbox)
+
+[[WOM documentation]]
