@@ -287,7 +287,6 @@ And eventually:
 # 🏙️ Why She Came to Waterdeep
 
 Lotte's entire understanding of Waterdeep is basically:
-
 > **"It's the big city where Leo is."**
 
 She has spent weeks looking for him.
