@@ -37,6 +37,8 @@ This is deliberately a little unusual for a Monk: **Lotte is charming rather th
 She is not good at figuring things out.
 She is, however, **very good at convincing people that whatever she just did was intentional.**
 
+8+16+13+18+12+8
+
 **Proficiency Bonus:** +2  
 **AC:** 15  
 **HP:** 24  
