@@ -2,7 +2,9 @@
 **Name:** Lotte Karotte  
 **Age:** Very young adult by Harengon standards  
 **Size:** Small  
-**Personality:** Charming, enthusiastic, naive, slightly clumsy, and _deeply_ convinced that she is much wiser than she actually is.
+**Personality:** Charming, enthusiastic, naive, slightly clumsy, and _deeply_
+convinced that she is much wiser than she actually is.
+![[Lotte.pdf]]
 ### The basic idea
 Lotte left her little home because she had heard that **Leo Löwenzahn** had gone to the big city.
 She has now been searching for him for **weeks**.
