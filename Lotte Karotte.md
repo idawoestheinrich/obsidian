@@ -22,125 +22,19 @@ Rob explained:
 > "The Lemon Sensay. I don't earn it anymore."
 
 Lotte immediately accepted this as perfectly normal.
+And then he walks away.
+Lotte is left holding the lemon.
+She assumes it is important.
 
----
-# Character Sheet
-### Ability Scores
+She thinks the lemon is some sort of **ancient monk artifact**.
+She may ask the other PCs:
+> "Do you know what a Lemon Sensay is?"
 
-| Ability | Score | Modifier |
-| ------- | ----- | -------- |
-| **STR** | 10    | +0       |
-| **DEX** | 16    | **+3**   |
-| **CON** | 14    | +2       |
-| **INT** | 8     | -1       |
-| **WIS** | 10    | **+0**   |
-| **CHA** | 17    | **+3**   |
-This is deliberately a little unusual for a Monk: **Lotte is charming rather than wise.**
-She is not good at figuring things out.
-She is, however, **very good at convincing people that whatever she just did was intentional.**
+If they say no:
 
+> "Oh. That's probably because you're not ready."
 
-
-**Proficiency Bonus:** +2  
-**AC:** 15  
-**HP:** 24  
-**Speed:** 40 ft.  
-**Initiative:** +3
-
----
-# 🥋 Monk — Level 3
-
-### Martial Arts
-
-Lotte fights with her little fists and feet.
-**Unarmed Strike:** +5 to hit  
-**Damage:** 1d6 + 3 bludgeoning
-Her monk weapon can be a **quarterstaff** or something similarly simple.
-**Quarterstaff:** +5 to hit  
-**Damage:** 1d6 + 3 bludgeoning
-She can also use Dexterity instead of Strength for attacks.
-
----
-### Focus Points: 3
-
-This is the only resource the new player really needs to remember.
-**"I have 3 Focus. I can spend them to do cool monk things."**
-
-She can spend Focus to:
-- **Flurry of Blows** → make extra attacks
-- **Patient Defense** → become harder to hit
-- **Step of the Wind** → move around dramatically
-- **Darkness** → Lotte's Shadow Monk ability
-
-For a one-shot, I'd literally put three little carrot symbols on her sheet:
-🥕 🥕 🥕
-Cross one out whenever she spends a Focus Point.
-
----
-# 🌑 Warrior of Shadow
-This is where Lotte becomes surprisingly cool.
-
-### Minor Illusion
-She can create a little illusion.
-This is perfect for her.
-Examples:
-- Make an illusion of Leo calling her name.
-- Create a giant carrot.
-- Make a guard think there is a suspicious noise behind them.
-- Create a tiny illusion of herself giving herself advice.
-- Make an illusion of Rob saying something embarrassing.
-### Darkness
-She can spend **1 Focus Point** to create magical darkness.
-And because she's a Warrior of Shadow, **Lotte can see through the darkness she creates.**
-This creates a great comedic contrast:
-> Lotte: "Don't worry! I have a plan!"
-
-_Everything goes completely black._
-
-> Lotte: "I forgot what the plan was."
-
----
-
-# 🐇 Harengon Abilities
-
-### Hare-Trigger
-Lotte adds her proficiency bonus to initiative.
-**Initiative: +5**
-This means she is often the first person to act.
-Which is dangerous.
-Because she usually has **no idea what she is going to do yet.**
-
----
-### Lucky Footwork
-When Lotte fails a Dexterity saving throw, she can use her reaction to roll a d4 and add it to the result.
-Describe this as:
-> Lotte trips over her own foot, accidentally performs a perfect somersault, and lands safely.
-
----
-### Rabbit Hop
-Lotte can make a spectacular rabbit jump without provoking opportunity attacks.
-
-This is one of the most fun abilities for a beginner because the answer to:
-**"How do I get over there?"**
-is frequently:
-**"YOU BUNNY-HOP."**
-
----
-
-# 💕 Skills
-I'd give her:
-- **Acrobatics +5**
-- **Persuasion +4**
-- **Performance +4**
-- **Perception +2**
-- **Insight +2**
-
-Notice the important thing:
-**Persuasion is good. Insight is mediocre.**
-
-Lotte can convince people of things.
-She cannot reliably tell whether _they are lying to her._
-This is exactly the kind of character that produces funny roleplay.
+She has absolutely no idea either.
 
 ---
 # 🎭 Personality
@@ -159,7 +53,6 @@ This is exactly the kind of character that produces funny roleplay.
 > "I am extremely confident about things I don't understand."
 
 ---
-
 # 🥕 Lotte's General Behaviour
 Lotte should have a very specific way of interacting with the world.
 ### She misunderstands things literally.
@@ -170,38 +63,13 @@ Lotte:
 
 > "Really? Are they very small?"
 
----
-
 Someone:
-
-> "Keep your eyes peeled."
-
-Lotte:
-
-> "Why would I peel my eyes?"
-
----
-
-Someone:
-
-> "That's a red flag."
-
-Lotte:
-
-> "Where?"
-
----
-
-Someone:
-
 > "We're going undercover."
 
 Lotte:
-
 > "But I don't have a blanket."
 
 ---
-
 ### She is charming enough that people tolerate it.
 
 That's the important part.
@@ -211,43 +79,7 @@ If someone gets hurt, she worries about them.
 If someone is rude to her, she assumes they are probably having a bad day.
 
 ---
-
-# 🍋 The Lemon
-
-I would make the lemon a **permanent character prop**.
-
-### The Lemon Aider
-Rob gives it to her with complete seriousness.
-> "Take this."
-> "What is it?"
-> "The Lemon Aider."
-> "The... lemon aider?"
-> "The Lemon Sensay."
-> "What's a Lemon Sensay?"
-
-Rob looks at her sadly.
-
-> "I don't earn it anymore."
-
-And then he walks away.
-Lotte is left holding the lemon.
-She assumes it is important.
-### What Lotte believes
-She thinks the lemon is some sort of **ancient monk artifact**.
-She may ask the other PCs:
-> "Do you know what a Lemon Sensay is?"
-
-If they say no:
-
-> "Oh. That's probably because you're not ready."
-
-She has absolutely no idea either.
-
----
-
 # 👨‍👩‍👧 The Family Mystery
-
-I'd keep the connection between Lotte and Leo **deliberately vague**.
 Lotte knows:
 > "Leo is family."
 
@@ -261,35 +93,8 @@ She has heard things like:
 - "Don't worry about it, Lotte."
 And somewhere in the family tree is:
 **Rob Hopel → ??? → ??? → ??? → Lotte Karotte**
-Leo's exact relationship can be revealed later.
-That gives you a nice recurring joke where Lotte confidently tells people:
+Leo's exact relationship can be revealed later.---
 
-> "Leo is my cousin."
-
-Then later:
-
-> "Actually, he's my uncle."
-
-And eventually:
-
-> "Well, technically he's my... something."
-
----
-
-# 🏙️ Why She Came to Waterdeep
-Lotte's entire understanding of Waterdeep is basically:
-> **"It's the big city where Leo is."**
-
-She has spent weeks looking for him.
-She has:
-- searched taverns
-- asked guards
-- checked the docks
-- asked random people
-- followed people who "looked like they might know Leo"
-- accidentally entered places she wasn't supposed to
-- slept in extremely questionable locations
-- gotten lost repeatedly
 
 And yet she is still cheerful.
 If someone asks:
