@@ -32,12 +32,12 @@ Lotte immediately accepted this as perfectly normal.
 | **CON** | 14    | +2       |
 | **INT** | 8     | -1       |
 | **WIS** | 10    | **+0**   |
-| **CHA** | 15    | **+2**   |
+| **CHA** | 17    | **+3**   |
 This is deliberately a little unusual for a Monk: **Lotte is charming rather than wise.**
 She is not good at figuring things out.
 She is, however, **very good at convincing people that whatever she just did was intentional.**
 
-8+16+13+18+12+8
+
 
 **Proficiency Bonus:** +2  
 **AC:** 15  
