@@ -23,7 +23,7 @@ Ask about uncertainties, look at coordinates of the plots
 ### Notes
 07.08.206
 - [ ] next step: - compute grouped_mean so that it can act on all the different qc.integrated data, etc. 
-- [ ] Apply for Physikerinnen Tagung 
+- [x] Apply for Physikerinnen Tagung 
 - [ ] Apply for Collaboration meeting? 
 - [ ] Test different WOMs form Freiburg and send it back
 04.08.2026
