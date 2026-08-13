@@ -358,21 +358,14 @@ For Lotte, I’d give her the **Urchin** background, but flavor it as a **“
 ### Background: Urchin — _The Little Wanderer_
 
 Lotte grew up in a small Harengon community far away from Waterdeep. Her family was loving, but also **very large, very confusing, and extremely bad at keeping track of exactly how everyone was related**.
-
 She spent most of her childhood hearing stories about **Leo Löwenzahn**, a mysterious relative who had left home and gone out into the world.
-
 At some point, Lotte decided:
-
 > "I'm going to find Leo!"
 
 Nobody was quite sure whether this was a good idea.
-
 Lotte packed a bag, took her first steps into the wider world, and eventually arrived in Waterdeep.
-
 Unfortunately, she had **no idea how cities worked**.
-
 She quickly discovered that:
-
 - People don't usually trust strangers who ask whether they've seen "Leo."
 - Taverns are not all secretly family meeting places.
 - Guards don't appreciate being asked whether they "know where the rabbit people live."
@@ -380,24 +373,19 @@ She quickly discovered that:
 - Finding one particular person is considerably harder than she expected.
 
 And so she became a little wanderer.
-
 ### Background Proficiencies
 
 I'd use the standard **Urchin** package:
-
 - **Skills:** Sleight of Hand, Stealth
 - **Tools:** Disguise Kit, Thieves' Tools
 - **Feature:** **City Secrets**
 - **Languages:** Common + one additional language
 
 However, for Lotte I'd rename **City Secrets** to:
-
 ### 🐇 "I Know a Shortcut!"
 
 Lotte has spent weeks wandering around Waterdeep, getting lost, finding weird little passages, and accidentally discovering shortcuts.
-
 She doesn't necessarily know _why_ a particular alley is useful.
-
 She just knows:
 
 > "Oh! We can go this way. I fell down there yesterday."
@@ -412,15 +400,12 @@ It gives the player **three easy roleplay hooks**:
 
 **1. "I need to find Leo."**  
 Whenever she doesn't know what to do, she can ask people about Leo.
-
 **2. "I've been everywhere!"**  
 Even though she's naive, she has actually spent weeks exploring Waterdeep.
-
 **3. "I can help!"**  
 Her charming personality means she naturally wants to get involved when the other PCs need something.
 
 And it creates a nice contrast:
-
 **Mechanically:** Stealthy little Monk who knows city shortcuts.  
 **Roleplay:** Tiny, cheerful rabbit who has absolutely no idea what she's doing.
 

@@ -25,6 +25,7 @@ Ask about uncertainties, look at coordinates of the plots
 - [ ] next step: - compute grouped_mean so that it can act on all the different qc.integrated data, etc. 
 - [ ] Apply for Physikerinnen Tagung 
 - [ ] Apply for Collaboration meeting? 
+- [ ] Test different WOMs form Freiburg and send it back
 04.08.2026
 Quality Control and WOMs:
 - [ ] Sicherung für den PMT, Abdeckung - Dicht - 3D gedruckt
@@ -32,7 +33,7 @@ Quality Control and WOMs:
 - [x] Temperatur des Motors
 	- [x] Maik fragen
 - [x] Compute a temperature dependent heatup function
-	- [ ] Test this function
+	- [x] Test this function
 - [ ] Neuen PCB - Temperatur stabilisierte SiPMs
 	- NTC kompensiert die Temperatur 
 - [ ] WOM coating lernen
