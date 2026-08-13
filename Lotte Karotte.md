@@ -8,7 +8,6 @@ convinced that she is much wiser than she actually is.
 **1. Hit something.** 🥋  
 **2. Jump somewhere.** 🐇  
 **3. Talk to someone.** 💕
-
 ### The great great grandfather
 And after knowing Lotte for approximately **five minutes**, he handed her a lemon.
 > "Here. The Lemon Aider."
