@@ -3,7 +3,7 @@
 **Age:** Very young adult by Harengon standards  
 **Personality:** Charming, enthusiastic, naive, slightly clumsy, and _deeply_
 convinced that she is much wiser than she actually is.
-![[Screenshot_2026-08-13_at_11.19.58.png|151]]
+![[Screenshot_2026-08-13_at_11.19.58.png|260]]
 ### When you don't know what to do:
 **1. Hit something.** 🥋  
 **2. Jump somewhere.** 🐇  
