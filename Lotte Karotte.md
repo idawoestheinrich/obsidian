@@ -214,17 +214,11 @@ I would make the lemon a **permanent character prop**.
 
 ### The Lemon Aider
 Rob gives it to her with complete seriousness.
-
 > "Take this."
-
 > "What is it?"
-
 > "The Lemon Aider."
-
 > "The... lemon aider?"
-
 > "The Lemon Sensay."
-
 > "What's a Lemon Sensay?"
 
 Rob looks at her sadly.
@@ -234,7 +228,6 @@ Rob looks at her sadly.
 And then he walks away.
 Lotte is left holding the lemon.
 She assumes it is important.
-
 ### What Lotte believes
 She thinks the lemon is some sort of **ancient monk artifact**.
 She may ask the other PCs:
@@ -252,23 +245,18 @@ She has absolutely no idea either.
 
 I'd keep the connection between Lotte and Leo **deliberately vague**.
 Lotte knows:
-
 > "Leo is family."
 
 But she doesn't actually know exactly how.
 Her family tree has become somewhat... complicated.
 She has heard things like:
-
 - "Leo is your cousin."
 - "No, he's your uncle."
 - "Technically he's your aunt's cousin."
 - "We're all related if you go back far enough."
 - "Don't worry about it, Lotte."
-
 And somewhere in the family tree is:
-
 **Rob Hopel → ??? → ??? → ??? → Lotte Karotte**
-
 Leo's exact relationship can be revealed later.
 That gives you a nice recurring joke where Lotte confidently tells people:
 
@@ -285,14 +273,11 @@ And eventually:
 ---
 
 # 🏙️ Why She Came to Waterdeep
-
 Lotte's entire understanding of Waterdeep is basically:
 > **"It's the big city where Leo is."**
 
 She has spent weeks looking for him.
-
 She has:
-
 - searched taverns
 - asked guards
 - checked the docks
@@ -303,21 +288,16 @@ She has:
 - gotten lost repeatedly
 
 And yet she is still cheerful.
-
 If someone asks:
-
 > "How long have you been here?"
 
 She answers:
-
 > "Three weeks!"
 
 Then, after thinking:
-
 > "...or four."
 
 Then:
-
 > "Maybe five."
 
 ---
@@ -325,14 +305,11 @@ Then:
 # 🎒 Equipment
 
 Keep this extremely simple.
-
 **Weapons**
-
 - Quarterstaff
 - 2 daggers
 
 **Other**
-
 - Traveler's clothes
 - Small backpack
 - Bedroll
@@ -341,90 +318,39 @@ Keep this extremely simple.
 - A notebook containing **"LEO SIGHTINGS"**
 - Family tree with several question marks
 - **The Lemon**
-
 ### Her notebook
-
 The Leo notebook is full of increasingly useless clues:
-
 > **DAY 3:** Someone said they saw a lion. It was actually a dog.
-
 > **DAY 7:** A man named Leon. NOT LEO.
-
 > **DAY 11:** Found a yellow flower. Not Leo.
-
 > **DAY 16:** Someone said "Leo" in a tavern. It was a card game.
-
 > **DAY 23:** Rob says Leo is "probably nearby." Rob was gambling.
 
 ---
-
 # ⭐ The three things the new player needs to know
 
 I'd actually put this at the very top of the physical sheet:
-
 ### When you don't know what to do:
-
 **1. Hit something.** 🥋  
 **2. Jump somewhere.** 🐇  
 **3. Talk to someone.** 💕
-
-And underneath:
-
-> **You don't need to know all your abilities. Tell the DM what Lotte wants to do, and we'll figure out how to roll it.**
-
-That will make her much less intimidating for a first-time player.
-
 ### Her combat cheat sheet
-
 **I want to attack:**  
 → +5, 1d6+3
-
 **I want to attack MORE:**  
 → Spend 1 Focus → Flurry of Blows
-
 **I want to get away:**  
 → Spend 1 Focus → Step of the Wind
-
 **I want to be harder to hit:**  
 → Spend 1 Focus → Patient Defense
-
 **I want to disappear / make darkness:**  
 → Spend 1 Focus → Darkness
-
 **I want to jump really far:**  
 → Rabbit Hop 🐇
-
 **I failed a DEX save:**  
 → Maybe use Lucky Footwork 🐇
 
 ---
-
-## One final character detail I'd strongly recommend
-
-Lotte should **not realize that she is actually quite good at being a Monk**.
-
-She thinks the things she does are completely normal.
-
-For example:
-
-> **DM:** "The guard swings his sword at you."
-
-> **Lotte's player:** "I jump over him."
-
-> **DM:** "Okay, roll Acrobatics."
-
-_Natural 20._
-
-> **DM:** "You leap over the guard, twist through the air, land behind him and somehow end up standing on one foot."
-
-Lotte:
-
-> "Oh! Is that difficult?"
-
-That makes her **silly and inexperienced without making her incompetent**—which I think is the perfect combination for a one-session character.
-
-Today 10:50 PM
-
 What is her background?
 
 For Lotte, I’d give her the **Urchin** background, but flavor it as a **“Country Rabbit Who Went to the Big City”** rather than a classic street urchin.

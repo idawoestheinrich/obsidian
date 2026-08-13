@@ -8,6 +8,10 @@ margin: 0
 maxScale: 6
 ---
 Say in the beginning of the meeting: My task is to ....  
+
+# Thursday 20260813
+
+- 
 # Thursday 20260625
 - Wuppertal joined SBT
 
