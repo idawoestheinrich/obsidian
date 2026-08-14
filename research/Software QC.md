@@ -1,6 +1,9 @@
 ### Normalization and gain correction
-
-
+- calculate gain
+- first correct all SiPM values with the gain 
+- Normalize SiPM values to the 999 measurement if it exists
+- Then normalize transmission and PMT to reference
+- 
 
 
 
