@@ -1,3 +1,9 @@
+### Normalization and gain correction
+
+
+
+
+
 ## Improvements of the code by using [[Python classes]]
 
 ``` python
