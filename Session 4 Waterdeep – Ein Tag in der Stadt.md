@@ -351,3 +351,16 @@ Der Wirt:
 > „Und warum sieht er aus wie ich?“
 
 > „Keine Ahnung.“
+
+# 💰 Random Shopping Mishaps
+
+Wenn sie shoppen wollen, kannst du gelegentlich würfeln:
+
+**1–2:** Etwas geht kaputt.
+**3–5:** Sie finden etwas Interessantes.
+**6:** Sie bekommen Rabatt.
+**7–8:** Verkäufer versucht, sie übers Ohr zu hauen.
+**9:** Sie treffen einen interessanten NPC.
+**10:** Etwas ist magisch.
+**11:** Sie hören ein Gerücht.
+**12:** Ein Gegenstand ist genau das, was sie gesucht haben.
