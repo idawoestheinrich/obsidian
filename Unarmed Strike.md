@@ -1,1 +1,1 @@
-d4 Schaden 
+d4+Str  Schaden 
