@@ -2,15 +2,15 @@
 
 # Updates 
 - Website
-	- Internal CERN - terminal based browser in lxplus
-	- EduVPN / LXTunnel 
-	- Post the website to the group
-		- Google doc - HAC and D
-	- Collect text and pictures 
-- Wikipedia 
+	- CERN remote desktop
+		- terminal based browser in lxplus works
+		- EduVPN / LXTunnel 
+	- Created a [doc](https://codimd.web.cern.ch/oFhfITFpQz-drERrcLbiQg) to collect content
+		- Collect text and pictures 
+- Wikipedia
+	- Now we are listed in Ship (disambiguation) in our own cathegory 
 	- We need a German Wikipedia Page
-	- 
-- CERN website - pictures/ text
+- [CERN website]() - pictures/ text
 	- Event display 
 - Color Scheme - set! 
 	- Check for Plots? 
