@@ -10,8 +10,10 @@
 - Wikipedia
 - CERN website - pictures/ text
 	- Event display 
-- Color Scheme - set? 
+- Color Scheme - set! 
+	- Check fiasablty for Plots? 
 
+[https://codimd.web.cern.ch/](https://codimd.web.cern.ch/)
 
 # Poster
 - 
