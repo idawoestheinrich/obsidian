@@ -17,6 +17,8 @@ aliases:
 10:00 zoom [[SHiP Physics Meetings]]
 	- [zoom link](https://cern.zoom.us/j/69456193926?pwd=RDlmVXV2Q0ZOeCt5bHd5bVIydDNnQT09)
 	- [indico link](https://indico.cern.ch/event/1544376/)
+11:00 zoom [[SHiP Outreach Meetings]]
+	- [zoom link](https://cern.zoom.us/j/67855613495?pwd=etZaNBbrob75oyGBkx336GyRfNMub5.1)
 12:00 2.427/zom [[HU Meetings|HU Analysis meeting]]
 	-  [zoom link](https://cern.zoom.us/j/66351165789?pwd=azdoNXNPZWlaUG5uSVBSTlFhcFliQT09)
 #### Wednesday

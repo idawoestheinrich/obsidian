@@ -27,6 +27,7 @@ Ask about uncertainties, look at coordinates of the plots
 - [ ] Apply for Collaboration meeting? 
 - [ ] Test different WOMs form Freiburg and send it back
 - [ ] Perform two longterm measurements with and without WOM
+- [ ] Ask Matthias about the high temperature in the setup 
 04.08.2026
 Quality Control and WOMs:
 - [ ] Sicherung für den PMT, Abdeckung - Dicht - 3D gedruckt
@@ -49,7 +50,7 @@ Quality Control and WOMs:
 - [ ] wom_quality_control repository füllen
 	- [ ] Doku
 	- [x] Heatup
-	- [ ] Temperature Korrekturen implementieren
+	- [x] Temperature Korrekturen implementieren
 		- [x] Check if this was done correctly
 	- [ ] Kalibrierung des PMTs und der SiPMs
 - [ ] Du könntest die Daten noch komprimieren, was bis zu 50% spart und nicht wirklich länger dauert: [https://numpy.org/devdocs/reference/generated/numpy.savez_compressed.html](https://numpy.org/devdocs/reference/generated/numpy.savez_compressed.html)
