@@ -20,7 +20,7 @@
 	- 20 of each 
 	- with SHiP logos
 	- Join the crew!
-- QR code - logo 
+- QR code - logo / Pink 
 - Large Stickers - for Computers - Anik
 - SHiP Corner - 
 - No merci for the standard model 
