@@ -29,6 +29,7 @@ Ask about uncertainties, look at coordinates of the plots
 - [ ] Perform two longterm measurements with and without WOM
 - [ ] Ask Matthias about the high temperature in the setup 
 - [ ] Infrared camera
+- [ ] Implement longer before measurement
 04.08.2026
 Quality Control and WOMs:
 - [ ] Sicherung für den PMT, Abdeckung - Dicht - 3D gedruckt
