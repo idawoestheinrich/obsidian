@@ -26,6 +26,7 @@ Ask about uncertainties, look at coordinates of the plots
 - [x] Apply for Physikerinnen Tagung 
 - [ ] Apply for Collaboration meeting? 
 - [ ] Test different WOMs form Freiburg and send it back
+- [ ] Perform two longterm measurements with and without WOM
 04.08.2026
 Quality Control and WOMs:
 - [ ] Sicherung für den PMT, Abdeckung - Dicht - 3D gedruckt
