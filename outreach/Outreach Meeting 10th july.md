@@ -53,7 +53,7 @@ other things
 setup of first page:
 banner including the logo, SHiP,  Bar 
 - links to old (internal website)
-- contact information to a deticated email (outreach@ship.ch, info@ship.ch, ...)
+- [x] contact information to a deticated email (outreach@ship.ch, info@ship.ch, ...)
 - "Discover" -> physics 
 - link to cern website 
 picture (long term: interactive display linking to physics and subdetector pages)

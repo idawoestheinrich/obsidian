@@ -38,7 +38,7 @@ Quality Control and WOMs:
 	- [x] Test this function
 - [ ] Neuen PCB - Temperatur stabilisierte SiPMs
 	- NTC kompensiert die Temperatur 
-- [ ] WOM coating lernen
+- [x] WOM coating lernen
 	- [ ] Neuen Kunstoffreihniger bestellen
 	- [ ] Neues Tolorol
 	- [ ] Irgendwann neue Komponenten für Farbe (reicht noch für ca. 2L)
