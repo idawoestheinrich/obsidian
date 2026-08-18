@@ -1,31 +1,30 @@
-- Matei, Oliver, Kathi, Florian, Hanae, Jasmin, Ida
-
+Matei, Oliver, Kathi, Florian, Hanae, Jasmin, Ida
 # Updates 
 - Website
 	- CERN remote desktop
 		- terminal based browser in lxplus works
 		- EduVPN / LXTunnel 
-	- Created a [doc](https://codimd.web.cern.ch/oFhfITFpQz-drERrcLbiQg) to collect content
+	- Created a doc [*https://codimd.web.cern.ch/oFhfITFpQz-drERrcLbiQg*](https://codimd.web.cern.ch/oFhfITFpQz-drERrcLbiQg) to collect content
 		- Collect text and pictures 
-- Wikipedia
-	- Now we are listed in Ship (disambiguation) in our own cathegory 
+- Wikipedia - [*https://en.wikipedia.org/wiki/Search_for_Hidden_Particles*](https://en.wikipedia.org/wiki/Search_for_Hidden_Particles)
+	- Now we are listed in [Ship (disambiguation)](https://en.wikipedia.org/wiki/Ship_(disambiguation)) in our own cathegory 
 	- We need a German Wikipedia Page
-- We need a picture for[CERN website](https://home.cern/science/experiments/) 
+- We need a picture for [CERN website](https://home.cern/science/experiments/) 
 	- CAD file?
 	- Event display 
 - Color Scheme - **set!** 
 	- Check for Plots?  - not high priority and not so easy 
 
 For shared docs codimd:
-	[https://codimd.web.cern.ch/](https://codimd.web.cern.ch/)
+- [*https://codimd.web.cern.ch/*](https://codimd.web.cern.ch/)
 
 CERN font
-	[https://ctan.org/pkg/classico)?lang=en](https://ctan.org/pkg/classico\)?lang=en)
+- [*https://ctan.org/pkg/classico)?lang=en*](https://ctan.org/pkg/classico\)?lang=en)
 
 For polls newdle
- - [https://newdle.cern.ch/](https://newdle.cern.ch/)
+ - [*https://newdle.cern.ch/*](https://newdle.cern.ch/)
 # Poster 
-- Matei can print posters from remaining budget:
+- Matei can print posters from remaining budget within the **next two weeks**:
 	- For internal use mostly 
 	- 20 of each scheme - detailed and not detailed
 	- with SHiP logos?
