@@ -1,4 +1,4 @@
-- Matei, Oliver, Ida
+- Matei, Oliver, Kathi, Florian, Hanae, Jasmin, Ida
 
 # Updates 
 - Website
@@ -20,7 +20,7 @@
 Fonts:
 [https://ctan.org/pkg/classico)?lang=en](https://ctan.org/pkg/classico\)?lang=en)
 
-
+- noodle
 # Poster
 - 20 Posters 
 	- 20 of each 
