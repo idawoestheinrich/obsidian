@@ -11,9 +11,15 @@
 - CERN website - pictures/ text
 	- Event display 
 - Color Scheme - set! 
-	- Check fiasablty for Plots? 
+	- Check for Plots? 
 
 [https://codimd.web.cern.ch/](https://codimd.web.cern.ch/)
 
 # Poster
+- 20 Posters 
+	- 20 of each 
+	- with SHiP logos
+	
+- Large Stickers - for Computers
+- SHiP Corner - Corridor
 - 
