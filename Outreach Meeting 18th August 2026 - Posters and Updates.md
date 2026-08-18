@@ -9,6 +9,7 @@
 	- Collect text and pictures 
 - Wikipedia
 - CERN website - pictures/ text
+	- Event display 
 - Color Scheme - set? 
 
 
