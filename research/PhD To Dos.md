@@ -28,6 +28,7 @@ Ask about uncertainties, look at coordinates of the plots
 - [ ] Test different WOMs form Freiburg and send it back
 - [ ] Perform two longterm measurements with and without WOM
 - [ ] Ask Matthias about the high temperature in the setup 
+- [ ] Infrared camera
 04.08.2026
 Quality Control and WOMs:
 - [ ] Sicherung für den PMT, Abdeckung - Dicht - 3D gedruckt
@@ -47,7 +48,8 @@ Quality Control and WOMs:
 		- [ ] Deckel mit eingebauter schale - die ebenfalls einen Deckel hat
 	- [ ] Dipcoating platte designen
 - [x] Matthias bitten die Widerstände von den Preamplifiern anzupassen.
-- [ ] wom_quality_control repository füllen
+- [x] wom_quality_control repository füllen
+	- [ ] WOMqc class aufteilen
 	- [ ] Doku
 	- [x] Heatup
 	- [x] Temperature Korrekturen implementieren
@@ -64,7 +66,7 @@ Quality Control and WOMs:
 	- [ ] Messungen mit verschiedenener HV PMT +- 10V 
 - [ ] Protection for the high voltage supply 
 - [x] Maik - dichte abdeckung für den PMT?
-- [ ] Heiko über Matthias Erfahrung mit [[FPGA chips]] berichten
+- [x] Heiko über Matthias Erfahrung mit [[FPGA chips]] berichten
 - [ ]  Webinterface
 - [ ] Bei Bestellung SMA stecker mitbestellen - 
 	- [https://www.reichelt.de/de/de/shop/produkt/sma-stecker_rg174_316_gerade_crimp-157321](https://www.reichelt.de/de/de/shop/produkt/sma-stecker_rg174_316_gerade_crimp-157321)  
@@ -85,7 +87,7 @@ ALPs
 	- [ ] [github](https://github.com/ShipSoft)
 	- [ ] [Wie SBT implementiert ist](https://github.com/ShipSoft/Geometry/tree/main/subsystems/DecayVolume)
 Orga:
-- [ ] Physikerinnen Tagung 2026
+- [x] Physikerinnen Tagung 2026
 - [ ] Abrechnung Juli 2026
 
 18.06.2026
@@ -97,7 +99,7 @@ Orga:
 
 
 - [ ] Neuen Computer einrichten
-	- [ ] Neuer Computer Zotero Integration, Milena, Jule Tips
+	- [x] Neuer Computer Zotero Integration, Milena, Jule Tips
 - [ ] Start to have a longterm time plan 
 - [ ] Safe stuff from notability and delete it - cancel the abbo
 - [ ] Work into Claude [[Tips for agentic coding 2026]] - get paid version?
