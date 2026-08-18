@@ -19,7 +19,8 @@
 - 20 Posters 
 	- 20 of each 
 	- with SHiP logos
-	
+	- Join the crew!
+- QR code
 - Large Stickers - for Computers
-- SHiP Corner - Corridor
+- SHiP Corner - 
 - 
