@@ -7,13 +7,19 @@
 	- Post the website to the group
 		- Google doc - HAC and D
 	- Collect text and pictures 
-- Wikipedia
+- Wikipedia 
+	- We need a German Wikipedia Page
+	- 
 - CERN website - pictures/ text
 	- Event display 
 - Color Scheme - set! 
 	- Check for Plots? 
 
 [https://codimd.web.cern.ch/](https://codimd.web.cern.ch/)
+
+Fonts:
+[https://ctan.org/pkg/classico)?lang=en](https://ctan.org/pkg/classico\)?lang=en)
+
 
 # Poster
 - 20 Posters 
