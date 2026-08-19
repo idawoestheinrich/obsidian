@@ -1,3 +1,5 @@
+- [Documentation](https://shipsoft.github.io/aegir/)
+
 **Aegir** is the simulation framework designed for CERN’s **SHiP** (Search for Hidden Particles) experiment. Its job is to simulate the full lifecycle of an experiment—from initial proton-target collisions to particle decays, detector interactions, and data storage—in a scalable, thread-safe pipeline.
 ### Core Components & Their Roles
 
