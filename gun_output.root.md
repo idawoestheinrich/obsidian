@@ -1,43 +1,20 @@
-Dataframe from datasource RNTupleDS
+This output gives you the **schema (blueprint)** of your simulation output and a **preview of the actual event data**.
 
-Property                Value
---------                -----
-Columns in total           11
-Columns from defines        0
-Event loops run             0
-Processing slots            1
+**1. `df.Describe().Print();` — The File Schema**
+This lists every data column available in `gun_output.root`:
 
-Column                          Type                                            Origin
-------                          ----                                            ------
-event_header                    SHiP::EventHeader                               Dataset
-event_header.original_event_id  std::int64_t                                    Dataset
-event_header.weight             double                                          Dataset
-mc_particles                    ROOT::VecOps::RVec<SHiP::MCParticle>            Dataset
-mc_particles.energy             ROOT::VecOps::RVec<double>                      Dataset
-mc_particles.momentum           ROOT::VecOps::RVec<ROOT::VecOps::RVec<double>>  Dataset
-mc_particles.motherId           ROOT::VecOps::RVec<std::int32_t>                Dataset
-mc_particles.pdgCode            ROOT::VecOps::RVec<std::int32_t>                Dataset
-mc_particles.status             ROOT::VecOps::RVec<std::int32_t>                Dataset
-mc_particles.time               ROOT::VecOps::RVec<double>                      Dataset
-mc_particles.vertex             ROOT::VecOps::RVec<ROOT::VecOps::RVec<double>>  Dataset
-root [3] df.Display()->Print();
-Info in <Print>: Only showing 5 columns out of 12
+- **`event_header`**: Metadata for the overall event (e.g., event weight and ID).
+- **`mc_particles`**: The simulated Monte Carlo particles generated in each event. Because one event can contain multiple particles, these are stored as arrays (`ROOT::VecOps::RVec`):
+    - **`mc_particles.pdgCode`**: The particle type identifier (e.g., `11` = electron, `13` = muon, `22` = photon, `211` = pion).
+    - **`mc_particles.energy`**: Energy of each particle in the event.
+    - **`mc_particles.momentum`**: 3D/4D momentum vector array (px​,py​,pz​).
+    - **`mc_particles.vertex`**: Creation coordinates (x,y,z) of each particle.
+    - **`mc_particles.motherId`**: Index of the parent particle that produced it.
+        
+**2. `df.Display()->Print();` — The Data Preview**
 
-+-----+-----------------+--------------------------------+---------------------+-----------------+-----+
-| Row | event_header    | event_header.original_event_id | event_header.weight | mc_particles    | ... | 
-+-----+-----------------+--------------------------------+---------------------+-----------------+-----+
-| 0   | @0x56531fb5db30 | -1                             | 1.000000            | @0x565320420390 | ... | 
-+-----+-----------------+--------------------------------+---------------------+-----------------+-----+
-| 1   | @0x56531fb5db30 | -1                             | 1.000000            | @0x565320420390 | ... | 
-+-----+-----------------+--------------------------------+---------------------+-----------------+-----+
-| 2   | @0x56531fb5db30 | -1                             | 1.000000            | @0x565320420390 | ... | 
-+-----+-----------------+--------------------------------+---------------------+-----------------+-----+
-| 3   | @0x56531fb5db30 | -1                             | 1.000000            | @0x565320420390 | ... | 
-+-----+-----------------+--------------------------------+---------------------+-----------------+-----+
-| 4   | @0x56531fb5db30 | -1                             | 1.000000            | @0x565320420390 | ... | 
-+-----+-----------------+--------------------------------+---------------------+-----------------+-----+
-root [4] 
-root [4] // Print specific variables for the first 10 events
-root [5] df.Display({"px", "py", "pz"}, 10)->Print();.q
-ROOT_prompt_5:1:45: error: expected expression
-df.Display({"px", "py", "pz"}, 10)->Print();.q
+This prints a table showing the first 5 rows (Events 0 through 4):
+- The `@0x56531...` values are memory addresses pointing to full C++ objects (`SHiP::EventHeader` and `ROOT::VecOps::RVec`).
+    
+- ROOT displays memory pointers here because full C++ structures cannot be rendered as simple text numbers in a flat table.
+
