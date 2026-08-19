@@ -15,6 +15,5 @@ This lists every data column available in `gun_output.root`:
 
 This prints a table showing the first 5 rows (Events 0 through 4):
 - The `@0x56531...` values are memory addresses pointing to full C++ objects (`SHiP::EventHeader` and `ROOT::VecOps::RVec`).
-    
 - ROOT displays memory pointers here because full C++ structures cannot be rendered as simple text numbers in a flat table.
 
