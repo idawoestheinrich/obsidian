@@ -3,3 +3,6 @@ log into lxplus an run in terminal
 aegir-setup
 ```
 
+```
+pixi run build
+```
