@@ -27,7 +27,7 @@ Ask about uncertainties, look at coordinates of the plots
 - [ ] Apply for Collaboration meeting? 
 - [ ] Test different WOMs form Freiburg and send it back
 - [ ] Perform two longterm measurements with and without WOM
-- [ ] Ask Matthias about the high temperature in the setup 
+- [x] Ask Matthias about the high temperature in the setup 
 - [ ] Infrared camera
 - [ ] Implement longer before measurement
 - [ ] First release of sea cucumber? The cool stuff that Alice does
