@@ -121,6 +121,7 @@ WOMqc -41 functions
 ├── Hardware - 9 functions
 │   ├── connect_hardware()
 │   ├── configure_scope()
+		cleanup()
 │   ├── write_read()
 │   ├── motor_on()
 │   ├── motor_off()
@@ -128,6 +129,7 @@ WOMqc -41 functions
 │   ├── step_down()
 │   ├── move_WOM_top()
 │   └── rotate_step()
+
 │
 ├── Acquisition - 8 functions
 │   ├── heatup()
@@ -149,7 +151,6 @@ WOMqc -41 functions
 │   ├── grouped_mean_std()
 │   ├── calculate_eventwise_ratios()
 │   ├── apply_sipm_corrections()
-
 │
 └── DataManager - 6 functions
     ├── save_metadata()
@@ -158,7 +159,6 @@ WOMqc -41 functions
     ├── read_metadata()
     ├── readbin()
     └── load()
-
 Plotter - 8 functions
 ├── init_plotting()
 ├── update_example_waveform()
