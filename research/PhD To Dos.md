@@ -31,7 +31,7 @@ Ask about uncertainties, look at coordinates of the plots
 - [ ] Infrared camera
 - [ ] Implement longer before measurement
 - [ ] First release of sea cucumber? The cool stuff that Alice does
-- [ ] 
+- [ ] Documentation with dates for weekly meetings? 
 04.08.2026
 Quality Control and WOMs:
 - [ ] Sicherung für den PMT, Abdeckung - Dicht - 3D gedruckt
