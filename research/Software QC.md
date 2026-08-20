@@ -4,7 +4,8 @@
 - Normalize SiPM values to the 999 measurement if it exists
 - Then normalize transmission and PMT to reference
 - 
-
+- [[WOMqc Class]]
+- 
 
 
 ## Improvements of the code by using [[Python classes]]

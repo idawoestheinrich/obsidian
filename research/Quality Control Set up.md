@@ -12,3 +12,5 @@ Two [[PCB]] with LEDs and [[Photosensor]] on in can be moved in the WOM tube. On
 A [[Linear moving system]] is used to move the PCBs in and out the WOM tube and do measurements in all possible positions of the WOM.
 
 
+- [[Software QC]]
+- 
