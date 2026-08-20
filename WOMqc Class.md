@@ -1,3 +1,4 @@
+
 ```python
 class WOMqc:
     def __init__(self, device_ip, WOMname, ni, nj, rep, pulsewidth_ch1, pulsewidth_ch2, voltage_range_PMT,  voltage_range_SiPM , rec_time_min, rec_time_max, int_window_min_PMT, int_window_max_PMT, int_window_min_SiPM, int_window_max_SiPM, frame_length_max, sipm_voltage = 40.7, heatup_roomtemp = False, heatupmin = False,  plot_waveform=False, plot_heatmap = False, PMsoff= False, dry_run=False, date= None):
@@ -119,4 +120,58 @@ class WOMqc:
     @classmethod
     def load()
     def run_longterm(self, darkcount = True):
-    def run(self):   
+    def run(self):  
+``` 
+Seperate in 
+WOMqc
+│
+├── Hardware
+│   ├── connect_hardware()
+│   ├── configure_scope()
+│   ├── write_read()
+│   ├── motor_on()
+│   ├── motor_off()
+│   ├── move_home()
+│   ├── step_down()
+│   ├── move_WOM_top()
+│   └── rotate_step()
+│
+├── Acquisition
+│   ├── heatup()
+│   ├── measurement_without_WOM()
+│   ├── getdata()
+│   ├── measure_position()
+│   ├── run_darkcount_scan()
+│   ├── run_scan()
+│   ├── run_longterm()
+│   └── run()
+│
+├── Analysis
+│   ├── riemann_sum_peak()
+│   ├── gaussian()
+│   ├── EMG()
+│   ├── correct_baseline_min()
+│   ├── gain()
+│   ├── create_baseline_data()
+│   ├── grouped_mean_std()
+│   ├── calculate_eventwise_ratios()
+│   ├── apply_sipm_corrections()
+│   └── ...
+│
+└── DataManager
+    ├── save_metadata()
+    ├── savecsv()
+    ├── savebin()
+    ├── read_metadata()
+    ├── readbin()
+    └── load()
+
+Plotter
+├── init_plotting()
+├── update_example_waveform()
+├── plot_temperature_over_time()
+├── plot_integral_over_time()
+├── heatmap_WOM()
+├── light_yield_1dim()
+├── charge_spectrum()
+└── plot_waveforms_position()
