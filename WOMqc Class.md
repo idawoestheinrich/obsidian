@@ -82,11 +82,8 @@ class WOMqc:
     def step_down(self):                     
     def move_WOM_top(self):
     def rotate_step(self):
-	@staticmethod
     def riemann_sum_peak():
-    @staticmethod
     def gaussian():
-    @staticmethod
     def EMG(): #Exponential modified Gaussian distribution
     def heatup():
     def measurement_without_WOM(self):
@@ -95,13 +92,13 @@ class WOMqc:
     def run_darkcount_scan(self, darkcount, e
     def run_scan(self):
     def save_metadata(self):
-    def savecsv(self, name = "integrated_data"):#save in different format
+    def savecsv(self, name = "integrated_data"):# format
     def savebin(self, name = "waveforms"):
     def cleanup(self):
-    def create_baseline_data():#should maybe not save everything
+    def create_baseline_data():#not save everything
     def init_plotting(self):
-    def grouped_mean_std(self, value_col, group_col) #should also be able to work on not eventwise data
-    def calculate_eventwise_ratios(self):#should maybe not save everything in files
+    def grouped_mean_std(self, value_col, group_col) #not 
+    def calculate_eventwise_ratios(self):#not save in files
     def update_example_waveform(
     def plot_temperature_over_time(self):
     def plot_integral_over_time(self, PM):
@@ -109,23 +106,19 @@ class WOMqc:
     def light_yield_1dim()
     def charge_spectrum()
     def plot_waveforms_position()
-    @staticmethod
-    def correct_baseline_min(waveform, window, sigma, smooth_method):
-    @staticmethod
+    def correct_baseline_min(
     def gain(T, Vset, dVset, dT):
     def apply_sipm_corrections(self, Vset, dVset, dT):
-    @classmethod
     def read_metadata(cls, folder):
     def readbin(self, i = 1, name="waveforms"):
-    @classmethod
     def load()
     def run_longterm(self, darkcount = True):
     def run(self):  
 ``` 
 Seperate in 
-WOMqc
+WOMqc -41 functions
 │
-├── Hardware
+├── Hardware - 9 functions
 │   ├── connect_hardware()
 │   ├── configure_scope()
 │   ├── write_read()
@@ -136,7 +129,7 @@ WOMqc
 │   ├── move_WOM_top()
 │   └── rotate_step()
 │
-├── Acquisition
+├── Acquisition - 8 functions
 │   ├── heatup()
 │   ├── measurement_without_WOM()
 │   ├── getdata()
@@ -146,7 +139,7 @@ WOMqc
 │   ├── run_longterm()
 │   └── run()
 │
-├── Analysis
+├── Analysis - 9 functions
 │   ├── riemann_sum_peak()
 │   ├── gaussian()
 │   ├── EMG()
@@ -156,9 +149,9 @@ WOMqc
 │   ├── grouped_mean_std()
 │   ├── calculate_eventwise_ratios()
 │   ├── apply_sipm_corrections()
-│   └── ...
+
 │
-└── DataManager
+└── DataManager - 6 functions
     ├── save_metadata()
     ├── savecsv()
     ├── savebin()
@@ -166,7 +159,7 @@ WOMqc
     ├── readbin()
     └── load()
 
-Plotter
+Plotter - 8 functions
 ├── init_plotting()
 ├── update_example_waveform()
 ├── plot_temperature_over_time()
