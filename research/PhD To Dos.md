@@ -7,7 +7,7 @@ tags:
 aliases:
 priority: 5/10
 ---
-# PhD 
+e# PhD 
 - **[[Prioritätenliste PHD]]** 
 - [[PhD Content]]
 To find papers on [[SHiP]] go to [CERN document server](https://cds.cern.ch/search?ln=de&sc=1&p=SHiP&action_search=Suchen&op1=a&m1=a&p1=&f1=&c=Articles+%26+Preprints&c=Books+%26+Proceedings&c=Presentations+%26+Talks&c=Periodicals+%26+Progress+Reports&c=Multimedia+%26+Outreach&c=International+Collaborations)
