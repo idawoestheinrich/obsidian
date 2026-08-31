@@ -22,12 +22,15 @@ Ask about uncertainties, look at coordinates of the plots
 
 ### Notes
 21.08.2026
-Concerning the puzzle that we see more LY with the uncoated WOM than w/o any WOM: The SiPMs in use (S14160) have a hole wire bonding (HWB), which means in the centre of the SiPM there is (small) dead area. The following questions might be relevant: 1. Compared to the size of the light spot, what is the fraction of light not detected because of the HWB blind spot? 2. What are the sizes of the light spots on the SiPMs in all the cases and Is the position of the light spot always within the full acceptance of the SiPM? 3. Is the position of the light spot on the SiPMs with and without the WOM tube always the same?
+Concerning the puzzle that we see more LY with the uncoated WOM than w/o any WOM: The SiPMs in use (S14160) have a hole wire bonding (HWB), which means in the centre of the SiPM there is (small) dead area. The following questions might be relevant: 
+1. Compared to the size of the light spot, what is the fraction of light not detected because of the HWB blind spot? 
+2. What are the sizes of the light spots on the SiPMs in all the cases and Is the position of the light spot always within the full acceptance of the SiPM? 
+3. Is the position of the light spot on the SiPMs with and without the WOM tube always the same?
 
 07.08.206
 - [ ] next step: - compute grouped_mean so that it can act on all the different qc.integrated data, etc. 
 - [x] Apply for Physikerinnen Tagung 
-- [ ] Apply for Collaboration meeting? 
+- [x] Apply for Collaboration meeting? 
 - [ ] Test different WOMs form Freiburg and send it back
 - [ ] Perform two longterm measurements with and without WOM
 - [x] Ask Matthias about the high temperature in the setup 
@@ -49,7 +52,7 @@ Quality Control and WOMs:
 	- [ ] Neuen Kunstoffreihniger bestellen
 	- [ ] Neues Tolorol
 	- [ ] Irgendwann neue Komponenten für Farbe (reicht noch für ca. 2L)
-	- [ ] Coating speed aktuell 500mm/min - einfach geraten nicht vertifiziert
+	- Coating speed aktuell 500mm/min - einfach geraten nicht vertifiziert
 	- [ ] Untere Farbe entfernen - automatisiert - auch mit dem Dip coater?
 		- [ ] Deckel mit eingebauter schale - die ebenfalls einen Deckel hat
 	- [ ] Dipcoating platte designen
