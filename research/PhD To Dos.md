@@ -99,7 +99,7 @@ ALPs
 	- [ ] [Wie SBT implementiert ist](https://github.com/ShipSoft/Geometry/tree/main/subsystems/DecayVolume)
 Orga:
 - [x] Physikerinnen Tagung 2026
-- [ ] Abrechnung Juli 2026
+- [x] Abrechnung Juli 2026
 
 18.06.2026
 Orga:
