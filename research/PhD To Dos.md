@@ -33,6 +33,8 @@ Concerning the puzzle that we see more LY with the uncoated WOM than w/o any WOM
 - [x] Apply for Collaboration meeting? 
 - [ ] Test different WOMs form Freiburg and send it back
 - [ ] Perform two longterm measurements with and without WOM
+	- [ ] Without WOM
+	- [ ] With WOM (Monday 31.08 - afternoon)
 - [x] Ask Matthias about the high temperature in the setup 
 - [ ] Infrared camera
 - [ ] Implement longer before measurement
