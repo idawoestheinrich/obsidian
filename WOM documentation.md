@@ -1,1 +1,2 @@
-- [Google docs](https://docs.google.com/spreadsheets/d/10ww-aOiFALShiBhOhexhOHCj1qeKmhqHUmBwvUTQB8A/edit?pli=1&gid=0#gid=0)
+- [Google docs](https://docs.google.com/spreadsheets/d/10ww-aOiFALShiBhOhexhOHCj1qeKmhqHUmBwvUTQB8A/edit?gid=0#gid=0)
+- 
