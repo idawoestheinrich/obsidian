@@ -12,7 +12,7 @@
 	- Slide Designs
 	- Lets sell it a bit: 
 	- Pink - Ocean/ Sunrise/ 
-	- Colorbilnd friendly 
+	- Colorblind friendly 
 	- Black and white 
 
 
