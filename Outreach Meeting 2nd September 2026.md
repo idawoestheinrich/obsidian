@@ -23,7 +23,8 @@ Repository - ship outreach CERN account
 - Git Repository - How much space
 - CERN box? 
 - Pixi 
-- 
+- CIs - push pdfs to a cernbox 
+
 
 
 
