@@ -15,5 +15,5 @@
 	- Colorblind friendly 
 	- Black and white 
 
-
+- Reach out to them - CERN courier - article
 - Contact the georgian group
