@@ -1,0 +1,8 @@
+- we have the ship.cern and the hiddenparticles.cern domain
+- we have the wikipedia - english and german - big thanks to Matei, Kathi and Oliver
+- Sketch
+- Posters
+- Color Scheme - how to present this to the collaboration?
+	- Slide Designs
+- Website - probably won't be done - but maybe show the idea
+- 
