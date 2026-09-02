@@ -5,7 +5,11 @@
 - we have the wikipedia - english and german - big thanks to Matei, Kathi and Oliver
 - Sketch
 - Posters
-- Color Scheme - how to present this to the collaboration?
+- Color Scheme - for outreach purposes 
+	- how to present this to the collaboration?
 	- Slide Designs
+	- Lets sell it a bit: 
+	- Pink - Ocean/ Sunrise/ 
+	- Color
 
 - contact the georgian group
