@@ -51,7 +51,8 @@
 	- Kritisch Denken
 - Willkomenspaket für die Vermittler - TutorInnen? Schlüsselband
 - Wiki - Titel können nicht verändert werden 
-- 
+- Flyer
+- Vermittlerinnen Seiten durchschauen und verbesseren?
 
 
 
