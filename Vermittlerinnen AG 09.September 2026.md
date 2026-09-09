@@ -39,7 +39,15 @@
 	- Apps?
 	- Poster session? 
 	- Stellt eure sachen vor 
-- 
+	- Eins in Presents Anfang Februar - vor der DPG
+	- Zeuthen/Hamburg/Wuppertal
+- DESYUM
+- Schlüsselbänder
+- Diana Haas 
+- Email an die Standort Kontakte
+- Im Oktober einen SchülerInnen Kongress 
+	- 50 Jugentliche - bisher nur 12 Anmeldungen
+	- Vort¨
 
 
 
