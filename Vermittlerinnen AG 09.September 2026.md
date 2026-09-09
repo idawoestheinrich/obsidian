@@ -1,0 +1,10 @@
+- Spotlite on 
+- Muon detectoren - Bohn
+	- Cosmic Watch 
+	- Cosmic detectore selber bauen
+- https://www.physik-astro.uni-bonn.de/netzwerk-teilchenwelt/de/copy_of_diy-teilchendetektoren
+	- Mehrere Tage
+	- Kleineren Detektor 3 Stunden
+- Julian und Sebastian kommen zu besuch
+- Wuppertal steigt mit ein?
+	- 
