@@ -28,8 +28,18 @@
 - Mainzer auch mit betüdeln 
 	- Lea Schlickmann ist alleine auf einer stelle für 3
 - IceCube Gen2
-- Teilchenphysik
-	- 
+- Teilchenphysik, Urknall Unterwegs
+- VR brille von ALICE 
+	- Eher nach hinten
+	- Münster - Christian und David
+	- VR nach Münster abgewandert
+- IceCube spiel
+- Spotlite on über VR?
+- Standort treffen 
+	- Apps?
+	- Poster session? 
+	- Stellt eure sachen vor 
+- 
 
 
 
