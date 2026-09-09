@@ -54,7 +54,7 @@
 - Flyer
 - Vermittlerinnen Seiten durchschauen und verbesseren?
 - Flyer https://teilchenwelt.de/wp-content/uploads/2026/06/Flyer-Vermittler-2026.pdf
-- 
+- 5 November 10:30 
 
 
 
