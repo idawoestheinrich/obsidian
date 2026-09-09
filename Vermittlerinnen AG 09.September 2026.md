@@ -47,7 +47,19 @@
 - Email an die Standort Kontakte
 - Im Oktober einen SchülerInnen Kongress 
 	- 50 Jugentliche - bisher nur 12 Anmeldungen
-	- Vort¨
+	- Vortänge und Nebelkammern
+	- Kritisch Denken
+- Willkomenspaket für die Vermittler - TutorInnen? Schlüsselband
+- Wiki - Titel können nicht verändert werden 
+- 
+
+
+
+
+
+
+
+
 
 
 
