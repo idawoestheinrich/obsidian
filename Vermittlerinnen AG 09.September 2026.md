@@ -22,7 +22,14 @@
 - 3 Standorte für die CMS Masterclass 
 - International Cosmic Day
 	- Fragen und zeigen was es alles so gibt 
-	- Registrierung bis 25 Oktober - 19
+	- Registrierung bis 25 Oktober - 19.November ist zu eng
+	- Mai/Juni 2027 Planung 
+	Alle Pushen und schauen wer als erstes Fertig ist
+- Mainzer auch mit betüdeln 
+	- Lea Schlickmann ist alleine auf einer stelle für 3
+- IceCube Gen2
+- Teilchenphysik
+	- 
 
 
 
