@@ -12,4 +12,21 @@
 - App vom Teilchenuniversum
 - VR Brillen zu ALICE 
 - CM3 Net 
-- 
+	- beim IPOG Meeting testing
+	- Erlangen
+- Quantencomputing 
+	- wenn IPOG dann teilchenphysik
+- Gravitationswellen Masterclass
+- Es muss immer ins Wiki
+- Best3 - 4 Standorte
+- 3 Standorte für die CMS Masterclass 
+- International Cosmic Day
+	- Fragen und zeigen was es alles so gibt 
+	- Registrierung bis 25 Oktober - 19
+
+
+
+
+
+
+	
