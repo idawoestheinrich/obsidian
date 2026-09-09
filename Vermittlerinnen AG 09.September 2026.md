@@ -7,4 +7,9 @@
 	- Kleineren Detektor 3 Stunden
 - Julian und Sebastian kommen zu besuch
 - Wuppertal steigt mit ein?
-	- 
+- CMS als Thema? 
+	- Masterclasses?
+- App vom Teilchenuniversum
+- VR Brillen zu ALICE 
+- CM3 Net 
+- 
