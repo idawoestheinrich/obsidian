@@ -1,2 +1,0 @@
-Spotlite on, 
-Muon Detektoren 
