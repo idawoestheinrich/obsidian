@@ -25,7 +25,7 @@ Ask about uncertainties, look at coordinates of the plots
 - Coat WOM Tube - Fast and slower 
 - Decide if you want to go and if you are allowed to go to [WISPP 2027](https://indico.cern.ch/event/1683986/)
 - Apply for funding for the next collaboration meeting - ask if it is possible to go to the next collaboration meeting 
-- 
+- Check on Maiks and Matthias Process
 - 
 21.08.2026
 Concerning the puzzle that we see more LY with the uncoated WOM than w/o any WOM: The SiPMs in use (S14160) have a hole wire bonding (HWB), which means in the centre of the SiPM there is (small) dead area. The following questions might be relevant: 
