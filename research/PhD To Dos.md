@@ -29,7 +29,7 @@ Ask about uncertainties, look at coordinates of the plots
 	- Maik needs CAD files
 	- Matthias will order and then need a week
 - [ ] SHiP outreach talk - today 
-- [ ] CAD files for Maik - today 
+- [x] CAD files for Maik - today 
 - [ ] Talk on SHiP for Physikerinnen Tagung
 - [ ] Videos 
 
