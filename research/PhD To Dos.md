@@ -32,6 +32,7 @@ Ask about uncertainties, look at coordinates of the plots
 - [x] CAD files for Maik - today 
 - [ ] Talk on SHiP for Physikerinnen Tagung
 - [ ] Videos 
+- [ ] Jakobs Arbeit mit PMMA slides sollte wiederholt werden 
 
 21.08.2026
 Concerning the puzzle that we see more LY with the uncoated WOM than w/o any WOM: The SiPMs in use (S14160) have a hole wire bonding (HWB), which means in the centre of the SiPM there is (small) dead area. The following questions might be relevant: 
