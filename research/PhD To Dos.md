@@ -23,7 +23,7 @@ Ask about uncertainties, look at coordinates of the plots
 ### Notes
 14.09.2026 
 - Coat WOM Tube - Fast and slower 
-- 
+- Deside 
 21.08.2026
 Concerning the puzzle that we see more LY with the uncoated WOM than w/o any WOM: The SiPMs in use (S14160) have a hole wire bonding (HWB), which means in the centre of the SiPM there is (small) dead area. The following questions might be relevant: 
 1. Compared to the size of the light spot, what is the fraction of light not detected because of the HWB blind spot? 
