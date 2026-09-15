@@ -6,7 +6,7 @@
 - We have the wikipedia - english and german - big thanks to Matei, Kathi and Oliver
 - Sketch
 - Posters
-- Video Game
+- Video Game - VR 
 - Color Scheme - for outreach purposes 
 	- how to present this to the collaboration?
 	- Slide Designs
@@ -14,6 +14,7 @@
 	- Pink - Ocean/ Sunrise/ 
 	- Colorblind friendly 
 	- Black and white 
+
 
 - Reach out to them - CERN courier - article
 - Contact the georgian group
