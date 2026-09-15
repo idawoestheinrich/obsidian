@@ -39,7 +39,7 @@ Ask about uncertainties, look at coordinates of the plots
 	- [ ] Maik fragen? 
 	- [ ] Labor Nachschauen
 	- [ ] Freiburg fragen? 
-	- [ ] Plättchen nehmen
+	- [ ] Plättchen nehmen, die casted sind und auch extruded 
 - [ ] Heidi Antworten - 15. September
 - [ ] Code zum laufen bringen 
 - [ ] Prepare Teaching Optic Tutorien
