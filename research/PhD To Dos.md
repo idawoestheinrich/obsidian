@@ -34,17 +34,18 @@ Ask about uncertainties, look at coordinates of the plots
 - [ ] Talk on SHiP for Physikerinnen Tagung
 - [ ] Videos 
 - [ ] Jakobs Arbeit mit PMMA slides sollte wiederholt werden - 
-	- [ ] Von wem wurde das Spektrometer verwendet? - nicht in Jakobs Arbeit 
+	- [x] Von wem wurde das Spektrometer verwendet? - nicht in Jakobs Arbeit - PerkinElmer Lambda 950 spectrometer used in UV-Vis-NIR spectroscopy in the the SALSA Application lab at the HU which is supervised by Dr. Thomas Schmid
 	- [ ] Haben wir noch unbeschichtete PMMA slides? 
 	- [ ] Maik fragen? 
 	- [ ] Labor Nachschauen
 	- [ ] Freiburg fragen? 
 	- [ ] Plättchen nehmen, die casted sind und auch extruded 
-- [ ] Heidi Antworten - 15. September
-- [ ] Code zum laufen bringen 
+- [x] Heidi Antworten - 15. September
+- [x] Code zum laufen bringen 
 - [ ] Prepare Teaching Optic Tutorien
-- [ ] Look at logterm Measurement with vs without WOM
-- [ ] Collaborationmeeting Slides hochladen
+- [ ] Look at longterm Measurement with vs without WOM
+- [ ] at the measurements with covered reference and without collimator
+- [x] Collaborationmeeting Slides hochladen
 
 21.08.2026
 Concerning the puzzle that we see more LY with the uncoated WOM than w/o any WOM: The SiPMs in use (S14160) have a hole wire bonding (HWB), which means in the centre of the SiPM there is (small) dead area. The following questions might be relevant: 
