@@ -6,7 +6,8 @@
 - We have the wikipedia - english and german - big thanks to Matei, Kathi and Oliver
 - Sketch
 - Posters
-- Video Game - VR 
+- Video Game 
+- VR 
 - Color Scheme - for outreach purposes 
 	- how to present this to the collaboration?
 	- Slide Designs
@@ -15,9 +16,11 @@
 	- Colorblind friendly 
 	- Black and white 
 
-
-- Reach out to them - CERN courier - article
-- Contact the georgian group
+- Up next
+	- Article in CERN courier
+	- 
+- [x] Reach out to them - CERN courier - article
+- [x] Contact the georgian group
 
 
 Repository - ship outreach CERN account 
