@@ -34,7 +34,7 @@ Ask about uncertainties, look at coordinates of the plots
 - [ ] Talk on SHiP for Physikerinnen Tagung
 - [ ] Videos 
 - [ ] Jakobs Arbeit mit PMMA slides sollte wiederholt werden - 
-	- [ ] Von wem wurde das Spektrometer verwendet
+	- [ ] Von wem wurde das Spektrometer verwendet? - nicht in Jakobs Arbeit 
 	- [ ] Haben wir noch unbeschichtete PMMA slides? 
 	- [ ] Maik fragen? 
 	- [ ] Labor Nachschauen
