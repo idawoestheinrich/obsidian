@@ -37,6 +37,7 @@ Ask about uncertainties, look at coordinates of the plots
 - [ ] Heidi Antworten - 15. September
 - [ ] Code zum laufen bringen 
 - [ ] Prepare Teaching Optic Tutorien
+- [ ] Look at logterm Measurement with vs without WOM
 
 21.08.2026
 Concerning the puzzle that we see more LY with the uncoated WOM than w/o any WOM: The SiPMs in use (S14160) have a hole wire bonding (HWB), which means in the centre of the SiPM there is (small) dead area. The following questions might be relevant: 
