@@ -26,6 +26,7 @@ Ask about uncertainties, look at coordinates of the plots
 - [ ] Decide if you want to go and if you are allowed to go to [WISPP 2027](https://indico.cern.ch/event/1683986/)
 - [ ] Apply for funding for the next collaboration meeting - ask if it is possible to go to the next collaboration meeting 
 - [ ] Apply for Frauenförderung 
+- [ ] Löschen des Alten Ordners im SBT meeting
 - [x] Check on Maiks and Matthias Process
 	- Maik needs CAD files
 	- Matthias will order and then need a week
