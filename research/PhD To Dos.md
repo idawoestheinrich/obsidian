@@ -22,7 +22,7 @@ Ask about uncertainties, look at coordinates of the plots
 
 ### Notes
 Till end of September: 
-- [ ] Bring Code to an end: 
+- [ ] Bring Code (an) to an end: 
 	- [ ] Look at longterm Measurement with vs without WOM - 16.09.2026
 	- [ ] at the measurements with covered reference and without collimator - 16.09.2026
 	- [ ] Test different WOMs form Freiburg and send it back
@@ -30,6 +30,8 @@ Till end of September:
 		- [ ] Without WOM
 		- [ ] With WOM (Monday 31.08 - afternoon)
 	- [ ] next step: - compute grouped_mean so that it can act on all the different qc.integrated data, etc. 
+	- [ ] Infrared camera
+	- [ ] Implement longer before measurement
 14.09.2026 
 - [ ] Coat WOM Tube - Fast and slower 
 - [ ] Decide if you want to go and if you are allowed to go to [WISPP 2027](https://indico.cern.ch/event/1683986/)
@@ -62,7 +64,7 @@ Till end of September:
 Concerning the puzzle that we see more LY with the uncoated WOM than w/o any WOM: The SiPMs in use (S14160) have a hole wire bonding (HWB), which means in the centre of the SiPM there is (small) dead area. The following questions might be relevant: 
 1. Compared to the size of the light spot, what is the fraction of light not detected because of the HWB blind spot? 
 2. What are the sizes of the light spots on the SiPMs in all the cases and Is the position of the light spot always within the full acceptance of the SiPM? 
-3. Is the position of the light spot on the SiPMs with and without the WOM tube always the same?
+3. Is the position of the light spot on the SiPMs with and without the WOM tube always the same? - It looks like yes
 
 07.08.206
 
@@ -70,8 +72,7 @@ Concerning the puzzle that we see more LY with the uncoated WOM than w/o any WOM
 - [x] Apply for Collaboration meeting? 
 
 - [x] Ask Matthias about the high temperature in the setup 
-- [ ] Infrared camera
-- [ ] Implement longer before measurement
+
 - [x] First release of sea cucumber? The cool stuff that Alice does
 - [ ] Documentation with dates for weekly meetings? 
 04.08.2026
