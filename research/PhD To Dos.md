@@ -21,12 +21,16 @@ Ask about uncertainties, look at coordinates of the plots
 *Don't take on too many things at once. Prioritize well.*
 
 ### Notes
+Till end of September: 
+- [ ] Bring Code to an end: 
+- [ ] 
 14.09.2026 
 - [ ] Coat WOM Tube - Fast and slower 
 - [ ] Decide if you want to go and if you are allowed to go to [WISPP 2027](https://indico.cern.ch/event/1683986/)
 - [ ] Apply for funding for the next collaboration meeting - ask if it is possible to go to the next collaboration meeting 
 - [ ] Apply for Frauenförderung 
 - [ ] Löschen des Alten Ordners im SBT meeting besprechen
+- [ ] Feedback on SHiP Website
 - [x] Check on Maiks and Matthias Process
 	- Maik needs CAD files
 	- Matthias will order and then need a week
@@ -100,14 +104,13 @@ Quality Control and WOMs:
 	- [ ] Evl. Filter hinzufüge- [https://www.uqgoptics.com/wp-content/uploads/2019/08/UQG-Schott-UG1.pdf](https://www.uqgoptics.com/wp-content/uploads/2019/08/UQG-Schott-UG1.pdf) 
 	- [https://www.edmundoptics.com/p/ug-1-uv-254mm-dia-colored-glass-bandpass-filter/6536/](https://www.edmundoptics.com/p/ug-1-uv-254mm-dia-colored-glass-bandpass-filter/6536/)
 - [x] Table of WOMs - with what is similar and what was similar - measures tec.
-- [ ] Camera in the setup 
 - [ ] Monitor High Voltage on PMT
 	- [ ] Messungen mit verschiedenener HV PMT +- 10V 
 - [ ] Protection for the high voltage supply 
 - [x] Maik - dichte abdeckung für den PMT?
 - [x] Heiko über Matthias Erfahrung mit [[FPGA chips]] berichten
 - [ ]  Webinterface
-- [ ] Bei Bestellung SMA stecker mitbestellen - 
+- [x] Bei Bestellung SMA stecker mitbestellen - 
 	- [https://www.reichelt.de/de/de/shop/produkt/sma-stecker_rg174_316_gerade_crimp-157321](https://www.reichelt.de/de/de/shop/produkt/sma-stecker_rg174_316_gerade_crimp-157321)  
 	- [https://www.reichelt.de/de/de/shop/produkt/adapter_sma-kupplung_auf_sma-kupplung-235616](https://www.reichelt.de/de/de/shop/produkt/adapter_sma-kupplung_auf_sma-kupplung-235616)
 
