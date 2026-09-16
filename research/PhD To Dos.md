@@ -66,7 +66,7 @@ Concerning the puzzle that we see more LY with the uncoated WOM than w/o any WOM
 - [x] Ask Matthias about the high temperature in the setup 
 - [ ] Infrared camera
 - [ ] Implement longer before measurement
-- [ ] First release of sea cucumber? The cool stuff that Alice does
+- [x] First release of sea cucumber? The cool stuff that Alice does
 - [ ] Documentation with dates for weekly meetings? 
 04.08.2026
 Quality Control and WOMs:
