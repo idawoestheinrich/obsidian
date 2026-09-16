@@ -7,7 +7,7 @@ tags:
 aliases:
 priority: 5/10
 ---
-e# PhD 
+# PhD 
 - **[[Prioritätenliste PHD]]** 
 - [[PhD Content]]
 To find papers on [[SHiP]] go to [CERN document server](https://cds.cern.ch/search?ln=de&sc=1&p=SHiP&action_search=Suchen&op1=a&m1=a&p1=&f1=&c=Articles+%26+Preprints&c=Books+%26+Proceedings&c=Presentations+%26+Talks&c=Periodicals+%26+Progress+Reports&c=Multimedia+%26+Outreach&c=International+Collaborations)
@@ -23,7 +23,13 @@ Ask about uncertainties, look at coordinates of the plots
 ### Notes
 Till end of September: 
 - [ ] Bring Code to an end: 
-- [ ] 
+	- [ ] Look at longterm Measurement with vs without WOM - 16.09.2026
+	- [ ] at the measurements with covered reference and without collimator - 16.09.2026
+	- [ ] Test different WOMs form Freiburg and send it back
+	- [ ] Perform two longterm measurements with and without WOM
+		- [ ] Without WOM
+		- [ ] With WOM (Monday 31.08 - afternoon)
+	- [ ] next step: - compute grouped_mean so that it can act on all the different qc.integrated data, etc. 
 14.09.2026 
 - [ ] Coat WOM Tube - Fast and slower 
 - [ ] Decide if you want to go and if you are allowed to go to [WISPP 2027](https://indico.cern.ch/event/1683986/)
@@ -42,15 +48,14 @@ Till end of September:
 - [ ] Jakobs Arbeit mit PMMA slides sollte wiederholt werden - 
 	- [x] Von wem wurde das Spektrometer verwendet? - nicht in Jakobs Arbeit - PerkinElmer Lambda 950 spectrometer used in UV-Vis-NIR spectroscopy in the the SALSA Application lab at the HU which is supervised by Dr. Thomas Schmid
 	- [ ] Haben wir noch unbeschichtete PMMA slides? 
-	- [ ] Maik fragen? 
-	- [ ] Labor Nachschauen
+	- Ja haben wir - Maik hat welche und im Labor sind noch welche - sowohl casted als auch extruded
+	- [x] Maik fragen? 
+	- [x] Labor Nachschauen
 	- [ ] Freiburg fragen? 
 	- [ ] Plättchen nehmen, die casted sind und auch extruded 
 - [x] Heidi Antworten - 15. September
 - [x] Code zum laufen bringen 
 - [ ] Prepare Teaching Optic Tutorien
-- [ ] Look at longterm Measurement with vs without WOM - 16.09.2026
-- [ ] at the measurements with covered reference and without collimator - 16.09.2026
 - [x] Collaborationmeeting Slides hochladen
 
 21.08.2026
@@ -60,13 +65,10 @@ Concerning the puzzle that we see more LY with the uncoated WOM than w/o any WOM
 3. Is the position of the light spot on the SiPMs with and without the WOM tube always the same?
 
 07.08.206
-- [ ] next step: - compute grouped_mean so that it can act on all the different qc.integrated data, etc. 
+
 - [x] Apply for Physikerinnen Tagung 
 - [x] Apply for Collaboration meeting? 
-- [ ] Test different WOMs form Freiburg and send it back
-- [ ] Perform two longterm measurements with and without WOM
-	- [ ] Without WOM
-	- [ ] With WOM (Monday 31.08 - afternoon)
+
 - [x] Ask Matthias about the high temperature in the setup 
 - [ ] Infrared camera
 - [ ] Implement longer before measurement
