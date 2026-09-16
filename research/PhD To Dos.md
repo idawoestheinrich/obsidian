@@ -26,12 +26,13 @@ Ask about uncertainties, look at coordinates of the plots
 - [ ] Decide if you want to go and if you are allowed to go to [WISPP 2027](https://indico.cern.ch/event/1683986/)
 - [ ] Apply for funding for the next collaboration meeting - ask if it is possible to go to the next collaboration meeting 
 - [ ] Apply for Frauenförderung 
-- [ ] Löschen des Alten Ordners im SBT meeting
+- [ ] Löschen des Alten Ordners im SBT meeting besprechen
 - [x] Check on Maiks and Matthias Process
 	- Maik needs CAD files
 	- Matthias will order and then need a week
-- [ ] SHiP outreach talk - 15. September
-- [x] CAD files for Maik - today 
+- [x] SHiP outreach talk - 15. September
+- [x] CAD files for Maik - 14. September
+- [ ] Collaboration Meeting 14.-18.September
 - [ ] Talk on SHiP for Physikerinnen Tagung
 - [ ] Videos 
 - [ ] Jakobs Arbeit mit PMMA slides sollte wiederholt werden - 
@@ -44,8 +45,8 @@ Ask about uncertainties, look at coordinates of the plots
 - [x] Heidi Antworten - 15. September
 - [x] Code zum laufen bringen 
 - [ ] Prepare Teaching Optic Tutorien
-- [ ] Look at longterm Measurement with vs without WOM
-- [ ] at the measurements with covered reference and without collimator
+- [ ] Look at longterm Measurement with vs without WOM - 16.09.2026
+- [ ] at the measurements with covered reference and without collimator - 16.09.2026
 - [x] Collaborationmeeting Slides hochladen
 
 21.08.2026
