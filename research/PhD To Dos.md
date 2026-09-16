@@ -22,7 +22,7 @@ Ask about uncertainties, look at coordinates of the plots
 
 ### Notes
 Till end of September: 
-- [ ] Bring Code (an) to an end: 
+- [ ] Bring Code (and setup till end of October) to an end: 
 	- [ ] Look at longterm Measurement with vs without WOM - 16.09.2026
 	- [ ] at the measurements with covered reference and without collimator - 16.09.2026
 	- [ ] Test different WOMs form Freiburg and send it back
@@ -30,8 +30,19 @@ Till end of September:
 		- [ ] Without WOM
 		- [ ] With WOM (Monday 31.08 - afternoon)
 	- [ ] next step: - compute grouped_mean so that it can act on all the different qc.integrated data, etc. 
+	- [ ] Monitor High Voltage on PMT
+		- [ ] Messungen mit verschiedenener HV PMT +- 10V 
 	- [ ] Infrared camera
 	- [ ] Implement longer before measurement
+	- [ ] Du könntest die Daten noch komprimieren, was bis zu 50% spart und nicht wirklich länger dauert: [https://numpy.org/devdocs/reference/generated/numpy.savez_compressed.html](https://numpy.org/devdocs/reference/generated/numpy.savez_compressed.html)
+	- [ ] Und die ADC-Daten als short abspeichern (2 statt 4 bytes), das wären noch einmal 50% weniger
+	- [ ] wom_quality_control repository füllen
+		- [x] WOMqc class aufteilen
+		- [ ] Doku
+		- [x] Heatup
+		- [x] Temperature Korrekturen implementieren
+			- [x] Check if this was done correctly
+		- [ ] Kalibrierung des PMTs und der SiPMs
 14.09.2026 
 - [ ] Coat WOM Tube - Fast and slower 
 - [ ] Decide if you want to go and if you are allowed to go to [WISPP 2027](https://indico.cern.ch/event/1683986/)
@@ -67,17 +78,15 @@ Concerning the puzzle that we see more LY with the uncoated WOM than w/o any WOM
 3. Is the position of the light spot on the SiPMs with and without the WOM tube always the same? - It looks like yes
 
 07.08.206
-
 - [x] Apply for Physikerinnen Tagung 
 - [x] Apply for Collaboration meeting? 
-
 - [x] Ask Matthias about the high temperature in the setup 
-
 - [x] First release of sea cucumber? The cool stuff that Alice does
 - [ ] Documentation with dates for weekly meetings? 
 04.08.2026
 Quality Control and WOMs:
 - [ ] Sicherung für den PMT, Abdeckung - Dicht - 3D gedruckt
+	- [ ] Protection for the high voltage supply 
 	- [x] Maik fragen
 - [x] Temperatur des Motors
 	- [x] Maik fragen
@@ -94,22 +103,12 @@ Quality Control and WOMs:
 		- [ ] Deckel mit eingebauter schale - die ebenfalls einen Deckel hat
 	- [ ] Dipcoating platte designen
 - [x] Matthias bitten die Widerstände von den Preamplifiern anzupassen.
-- [x] wom_quality_control repository füllen
-	- [x] WOMqc class aufteilen
-	- [ ] Doku
-	- [x] Heatup
-	- [x] Temperature Korrekturen implementieren
-		- [x] Check if this was done correctly
-	- [ ] Kalibrierung des PMTs und der SiPMs
-- [ ] Du könntest die Daten noch komprimieren, was bis zu 50% spart und nicht wirklich länger dauert: [https://numpy.org/devdocs/reference/generated/numpy.savez_compressed.html](https://numpy.org/devdocs/reference/generated/numpy.savez_compressed.html)
-- [ ] Und die ADC-Daten als short abspeichern (2 statt 4 bytes), das wären noch einmal 50% weniger
-- [ ] Konfiguration SiPMs und PCBs und Preamplefier optimieren
-	- [ ] Evl. Filter hinzufüge- [https://www.uqgoptics.com/wp-content/uploads/2019/08/UQG-Schott-UG1.pdf](https://www.uqgoptics.com/wp-content/uploads/2019/08/UQG-Schott-UG1.pdf) 
+- [x] Konfiguration SiPMs und PCBs und Preamplefier optimieren
+	- [x] Evl. Filter hinzufüge- [https://www.uqgoptics.com/wp-content/uploads/2019/08/UQG-Schott-UG1.pdf](https://www.uqgoptics.com/wp-content/uploads/2019/08/UQG-Schott-UG1.pdf) 
 	- [https://www.edmundoptics.com/p/ug-1-uv-254mm-dia-colored-glass-bandpass-filter/6536/](https://www.edmundoptics.com/p/ug-1-uv-254mm-dia-colored-glass-bandpass-filter/6536/)
 - [x] Table of WOMs - with what is similar and what was similar - measures tec.
-- [ ] Monitor High Voltage on PMT
-	- [ ] Messungen mit verschiedenener HV PMT +- 10V 
-- [ ] Protection for the high voltage supply 
+
+
 - [x] Maik - dichte abdeckung für den PMT?
 - [x] Heiko über Matthias Erfahrung mit [[FPGA chips]] berichten
 - [ ]  Webinterface
@@ -238,12 +237,11 @@ Hier werden Organisatorische ToDos festgehalten
 ### **Labor und Analyse**
 - #### [[Lab To Dos]]
 - Alles als PDF speichern
-- [ ] I also still need to write the calibration for the PMT
-- [ ] Constellation anschauen
+
+- [x] Constellation anschauen
 - [ ] Webinterface QC
 - [ ] Christians calibration methode anschauen
 	- [ ] Umsetzen mit [wavecatcher methoden](https://github.com/cscharf-hub/wavecatcher-analysis/blob/master/examples/cosmics-fit.ipynb), [PMT funktion](https://mattermost.web.cern.ch/ship/pl/8e81asgustnmxb5fp8n5zj9gkw)?
-
 - [ ] Holdingrings measurements and analysis 
 - [ ] Homogenity of the PMT 
 
@@ -259,7 +257,6 @@ Hier werden Organisatorische ToDos festgehalten
 - [ ] Base anschauen 
 - [x] Excalidraw plug-in to draw with Apple Pencil 
 ### **Programmieren**
--
 - [x] [Testbeam Analysis](https://gitlab.cern.ch/ship/ship-sbt/testbeam-analysis) with Hannes
 	- [ ] Does a change in position of 3cm make a difference
 	- Use Fairhurst Color scheme
