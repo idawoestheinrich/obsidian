@@ -23,7 +23,7 @@ Ask about uncertainties, look at coordinates of the plots
 ### Notes
 Till end of September: 
 - [ ] Bring Code (and setup till end of October) to an end: 
-	- [ ] Look at longterm Measurement with vs without WOM - 16.09.2026
+	- [x] Look at longterm Measurement with vs without WOM - 16.09.2026
 	- [ ] at the measurements with covered reference and without collimator - 16.09.2026
 	- [ ] Test different WOMs form Freiburg and send it back
 	- [ ] Perform two longterm measurements with and without WOM
