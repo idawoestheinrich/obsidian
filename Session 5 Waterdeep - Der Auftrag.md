@@ -31,11 +31,7 @@ Er kramt fünf Minuten in seiner Tasche und findet:
 - einen zweiten Umschlag
 
 > „Ah! Hier. Genau der richtige.“
-> 
 > _Er reicht ihnen den Umschlag._
-> 
 > „Bitte auf keinen Fall öffnen. Das wäre ein schwerer Verstoß gegen die Geheimhaltung.“
-> 
 > _Pause._
-> 
 > „Außer natürlich, ihr seid die Empfänger. Dann wäre es vermutlich sinnvoll.“
