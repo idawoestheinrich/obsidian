@@ -1,5 +1,7 @@
 Erste Session mit Chrissi 
 
+-
+
 Der Auftraggeber:
 ### 🪙 NPC: Finnegan „Finn“ Goldknopf
 **Spezies:** Halbling  
