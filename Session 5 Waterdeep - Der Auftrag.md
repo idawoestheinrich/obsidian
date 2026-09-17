@@ -13,13 +13,10 @@ Der Auftraggeber:
 **Sein Auftritt:**
 
 > „Ah! Da seid ihr ja! Hervorragend. Ich habe eine Nachricht. Eine äußerst wichtige Nachricht. Von höchster Diskretion.“
-> 
 > _Er schaut sich verschwörerisch um._
-> 
 > „Also... falls ihr nicht zufällig die Personen seid, denen ich die Nachricht geben soll.“
-> 
 > _Er zieht einen versiegelten Umschlag hervor._
-> 
+>
 > „Moment. Nein. Das ist meine Einkaufsliste.“
 
 Er kramt fünf Minuten in seiner Tasche und findet:
