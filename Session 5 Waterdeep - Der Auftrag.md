@@ -1,5 +1,4 @@
 Erste Session mit Chrissi 
-
 - 
 
 Der Auftraggeber:
