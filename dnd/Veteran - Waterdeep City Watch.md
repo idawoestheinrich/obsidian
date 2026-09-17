@@ -1,5 +1,6 @@
 Warrior Veteran
-- [[Waterdeep City Wat]]
+- [[Waterdeep City Watch]]
+
 MM'25
 p320
 Small or Medium Humanoid, Neutral
