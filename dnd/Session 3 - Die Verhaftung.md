@@ -12,7 +12,7 @@ Sie untersucht ihn schnell - und versucht ihn in die große Kristalltruhe einzus
 Dann 
 > "Im Namen der Fürstin von Waterdeep! Keine Bewegung!"
 
-10 Stadtwachen ([[Veteran]]) stürmen von beiden Seiten in die Gasse 
+10 Stadtwachen ([[Veteran - Waterdeep City Watch]]) stürmen von beiden Seiten in die Gasse 
 Oben auf dem Dach von dem Museum landet zwei Greife ([[Griffon]]). 
 Dazu ein Magier [[Mage]] der Watchful Order.
 

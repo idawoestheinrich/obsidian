@@ -1,4 +1,5 @@
 Warrior Veteran
+- [[Waterdeep City Wat]]
 MM'25
 p320
 Small or Medium Humanoid, Neutral

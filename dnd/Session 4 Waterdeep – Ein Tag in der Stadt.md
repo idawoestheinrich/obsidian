@@ -214,25 +214,16 @@ Natürliche 1:
 **„Lucky“ Ludo**
 
 Ein menschlicher Mann mit absurd großem Schnurrbart.
-
 Er gewinnt ständig.
-
 Wenn die Charaktere ihn beobachten:
 
 > Würfel.
-> 
 > **20.**
-> 
 > „Ha!“
-> 
 > Nächster Wurf.
-> 
 > **19.**
-> 
 > „Ha!“
-> 
 > Nächster.
-> 
 > **20.**
 
 Er ist tatsächlich nicht besonders gut.
@@ -242,9 +233,7 @@ Er benutzt einfach einen **verzauberten Würfel**.
 Wenn die Spieler ihn erwischen:
 
 > „Was? Betrügen?“
-> 
 > „Nein.“
-> 
 > „Ich würde es eher **kreative Wahrscheinlichkeit** nennen.“
 
 
@@ -259,19 +248,13 @@ Der Yawning Portal ist die ikonische Taverne Waterdeeps und gleichzeitig der bek
 Wenn sie dort trinken:
 
 > Ein Seil verschwindet in der Dunkelheit des riesigen Brunnens in der Mitte des Raumes.
-
 > Ihr könnt nicht sehen, wie tief er geht.
-
 > Ihr könnt aber hören, wie jemand unten schreit.
-
 > Eine Sekunde später:
-
 > **„ICH BIN OKAY!“**
- 
 > Jubel.
  
 > Jemand stellt einen Drink auf den Tisch.
-
 > **„Noch einen?“**
 
 # 🍺 „The Three-Fingered Goat“
@@ -321,15 +304,10 @@ Wenn sie fragen, woher sie das weiß:
 # 🍺 „The Broken Tankard“
 
 Eine typische Abenteurertaverne.
-
 An der Wand hängen Steckbriefe.
-
 Einige sind uralt.
-
 Einer zeigt **einen der PCs**.
-
 Natürlich nicht wirklich sie.
-
 Aber das Bild sieht ihnen **erschreckend ähnlich**.
 
 Der Wirt:
