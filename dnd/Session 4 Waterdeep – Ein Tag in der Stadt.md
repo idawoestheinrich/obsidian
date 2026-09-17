@@ -164,19 +164,14 @@ Er verkauft hauptsächlich:
 Er behauptet:
 
 > „Ich habe diesen Laden seit 73 Jahren.“
-> 
 > „In dieser Statue?“
-> 
 > „Natürlich.“
-> 
 > „Wie kommt man rein und raus?“
-> 
 > „Tür.“
 
 Wenn sie fragen, wem die Statue gehört:
 
 > „Der Statue?“
-
 ---
 
 # 🎲 Glücksspiel
@@ -184,15 +179,12 @@ Wenn sie fragen, wem die Statue gehört:
 ## 🍻 „The Lucky Coin“
 
 Eine kleine Taverne im Trades Ward.
-
 Hier gibt es kein großes Casino — stattdessen sitzen überall Leute an kleinen Spieltischen.
 
 ### Spiele
 
 **Three Dragons Ante**
-
 Perfekt für D&D.
-
 Oder ein einfaches Würfelspiel:
 
 ### „Higher or Lower“
