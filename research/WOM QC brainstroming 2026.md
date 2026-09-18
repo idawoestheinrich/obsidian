@@ -1,14 +1,15 @@
+Status des Setups: 
+- Matthias arbeitet an dem PCB, aber wird noch ein paar Wochen dauern
+- Maik macht heute die neue Halterung fertig, die einen Größeren Abstand zwischen Collimator und LED hat - 1cm 
+- Ich habe he
+
+
 Dip Coating:
 Im Chemie Labor müssen innerhalb des nächsten Jahres mehrere Chemikalien bestellt werden. 
-
 Daher macht es Sinn diese Bestellungen strategisch anzugehen - je nach Budget.
-
 Was wir aktuell noch da haben reicht laut Constantin ca. 2L Farbe. Das heißt wir benötigen
-
 - Toluol (mehrere Liter)
-
 - Paraloid® B 72 ([https://www.kremer-pigmente.com/de/shop/mal-binde-klebemittel/67400-paraloid-b-72.html](https://www.kremer-pigmente.com/de/shop/mal-binde-klebemittel/67400-paraloid-b-72.html))
-
 - Pigmente (bis-MSB 13280-61-0, p-Terphenyl 92-94-4) 
 
 - Antistatischer Kunststoffreiniger- und Pfleger 500 ml([https://www.hygiene-shop.com/glasreiniger-photovoltaikreiniger/antistatischer-kunststoffreiniger-und-pfleger-500-ml](https://www.hygiene-shop.com/glasreiniger-photovoltaikreiniger/antistatischer-kunststoffreiniger-und-pfleger-500-ml))
