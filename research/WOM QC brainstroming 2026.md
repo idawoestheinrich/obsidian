@@ -3,25 +3,40 @@
 - Maik macht heute die neue Halterung fertig, die einen Größeren Abstand zwischen Collimator und LED hat - 1cm 
 - Ich habe heute mit dem Coating weiterer WOMs begonnen
 	- WOMs mit unterschiedlichen Geschwindigkeiten coaten um zu schauen, wie sich das auswirkt 
-- Maik und ich versuchen außerdem einen Schutz für den PCB zu kontruieren, damit Glycerol nicht unbemerkt hineinfließen kann
-- 
+- Maik und ich versuchen außerdem einen Schutz für den PCB zu kontruieren, damit Glycerol nicht unbemerkt hinein fließen kann
+- Es gibt noch einige gegossene PCB platten bei Maik - noch original Verpackt aber schon alt. 3mm und 5mm 
+- Im Labor gibt es auch noch einge Plättchen - extruded auf jeden fall. 
+	- Die codierten Plätchen sind jetzt gelb
 
 ## Mechanische Dinge, die noch anstehen, damit Maik früher gehen kann: 
 
 ### Dipcoating und Aging
-- Wir müssen außerdem eine neuen Dipcoatingplatte Designen und fertigen lassen. In dem Zuge sollten wir auch eine platte Designen, die in die Klimakammer eingehängt werden kann. 
-- Ich würde auch gerne den Mechanismus, mit dem die Farbe unten an der WOM entfernt wird automatisieren
- - evl. auch mit dem Dip coater?
--  denkbar, wäre z.B. ein Deckel für die Zylinder, die die Farbe enthalten mit einer eingebauten Schale, in die Tulol gefüllt werden kann, dann könnte man den  DipCoater so einstellen, dass die WOMs nur so 1mm in die Farbe eingetaucht werden.
-
+- Wir müssen eine neuen Dipcoatingplatte designen und fertigen lassen. 
+- Außerdem eine Platte, die in die Klimakammer eingehängt werden kann. 
+	- Sollten die dieselbe sein? Oder
+- Ich würde auch gerne den Mechanismus,dmit dem die Farbe unten an der WOM entfernt wird automatisieren
+	 - evl. auch mit dem Dip coater?
+	-  denkbar, wäre z.B. ein Deckel für die Zylinder, die die Farbe enthalten mit einer eingebauten Schale, in die Tulol gefüllt werden kann, dann könnte man den  DipCoater so einstellen, dass die WOMs nur so 1mm in die Farbe eingetaucht werden.
 ### Quality control 
 - Zwei Kleine Kameras für die Platzierung der WOMs im Aufbau - wie sollten die am besten Positioniert und betrieben werden?
 ##### Temperatur stabilität
 - Ein geeigneter Belüftungsmeachnismus, damit es sich nicht so aufheizt?
 	- Evl. den Driver auslagern 
-- wie Spannungs isoliert aber nicht Wärme isolierung
+- Können wir die PCBs mit einem Material befestigen, dass wärme aber nicht Strom leitend ist?
 - Erdung der Platte oben 
 
+
+
+## Weiteres: 
+###
+- Machte es Sinn jetzt über einen Möglichen Standard zu sprechen? (z.B. Gesamt Light Yield über die gesamte Messung über einem bestimmten Wert und Standardabweichung unterhalb von einem bestimmten Wert?)
+
+- Was ist unser Ziel? 
+
+Was soll der neue Bachelorstudi untersuchen? 
+- Systematik verstehen
+- 2mm vs. 3mm WOMs 
+- Aging tests
 
 Dip Coating:
 Im Chemie Labor müssen innerhalb des nächsten Jahres mehrere Chemikalien bestellt werden. 
@@ -34,8 +49,6 @@ Was wir aktuell noch da haben reicht laut Constantin ca. 2L Farbe. Das heißt wi
 
 
 
-  
-
 Qualitätskontrolle:
 
 Es gibt hier ja noch einige Rätsel: 
@@ -44,7 +57,6 @@ Es gibt hier ja noch einige Rätsel: 
     - Erdung der Platte oben? 
 - Schwankungen der SiPM Antwort stärker als von der Gain-Temperaturabhängigkeit erwartbar?
 - Warum ist die Transmission an der WOM von Innen nach Außen größer, als ohne WOM
-
 Und noch eine andere Verbesserungsmöglichkeiten:
 - Dichtung des PMTs - verhindern, dass Glycerol unten rein läuft
 - Neuer PCB
@@ -53,13 +65,6 @@ Und noch eine andere Verbesserungsmöglichkeiten:
 
 
 
-- Machte es Sinn jetzt über einen möglichen Standard zu sprechen? (z.B. Gesamt Light Yield über die gesamte Messung über einem bestimmten Wert und Standardabweichung unterhalb von einem bestimmten Wert?)
-
-
-Was soll der neue Bachelorstudi untersuchen? 
-- Systematik verstehen
-- 2mm vs. 3mm WOMs 
-- Aging tests
 
 Evl. Müssen auch hier noch ein paar Teile bestellt werden:
 - ein paar teile für eine Neue Platine und die Temperatur Stabilisierung der SiPM Spannung
