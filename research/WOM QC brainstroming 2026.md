@@ -23,12 +23,11 @@
 - Ein geeigneter Belüftungsmeachnismus, damit es sich nicht so aufheizt?
 	- Evl. den Driver auslagern 
 - Können wir die PCBs mit einem Material befestigen, dass wärme aber nicht Strom leitend ist?
-- Erdung der Platte oben 
-
+- Erdung der Platte oben
 
 
 ## Weiteres: 
-###
+#### Qualitätskontrolle
 - Machte es Sinn jetzt über einen Möglichen Standard zu sprechen? (z.B. Gesamt Light Yield über die gesamte Messung über einem bestimmten Wert und Standardabweichung unterhalb von einem bestimmten Wert?)
 
 - Was ist unser Ziel? 
@@ -38,7 +37,7 @@ Was soll der neue Bachelorstudi untersuchen? 
 - 2mm vs. 3mm WOMs 
 - Aging tests
 
-Dip Coating:
+#### Dip Coating:
 Im Chemie Labor müssen innerhalb des nächsten Jahres mehrere Chemikalien bestellt werden. 
 Daher macht es Sinn diese Bestellungen strategisch anzugehen - je nach Budget.
 Was wir aktuell noch da haben reicht laut Constantin ca. 2L Farbe. Das heißt wir benötigen
@@ -48,6 +47,7 @@ Was wir aktuell noch da haben reicht laut Constantin ca. 2L Farbe. Das heißt wi
 - Antistatischer Kunststoffreiniger- und Pfleger 500 ml([https://www.hygiene-shop.com/glasreiniger-photovoltaikreiniger/antistatischer-kunststoffreiniger-und-pfleger-500-ml](https://www.hygiene-shop.com/glasreiniger-photovoltaikreiniger/antistatischer-kunststoffreiniger-und-pfleger-500-ml))
 
 
+--- 
 
 Qualitätskontrolle:
 
