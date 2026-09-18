@@ -8,13 +8,19 @@
 
 ## Mechanische Dinge, die noch anstehen, damit Maik früher gehen kann: 
 
-### Dipcoating un
+### Dipcoating und Aging
 - Wir müssen außerdem eine neuen Dipcoatingplatte Designen und fertigen lassen. In dem Zuge sollten wir auch eine platte Designen, die in die Klimakammer eingehängt werden kann. 
 - Ich würde auch gerne den Mechanismus, mit dem die Farbe unten an der WOM entfernt wird automatisieren
  - evl. auch mit dem Dip coater?
 -  denkbar, wäre z.B. ein Deckel für die Zylinder, die die Farbe enthalten mit einer eingebauten Schale, in die Tulol gefüllt werden kann, dann könnte man den  DipCoater so einstellen, dass die WOMs nur so 1mm in die Farbe eingetaucht werden.
 
-
+### Quality control 
+- Zwei Kleine Kameras für die Platzierung der WOMs im Aufbau - wie sollten die am besten Positioniert und betrieben werden?
+##### Temperatur stabilität
+- Ein geeigneter Belüftungsmeachnismus, damit es sich nicht so aufheizt?
+	- Evl. den Driver auslagern 
+- wie Spannungs isoliert aber nicht Wärme isolierung
+- Erdung der Platte oben 
 
 
 Dip Coating:
