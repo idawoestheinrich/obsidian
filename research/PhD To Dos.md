@@ -46,6 +46,7 @@ Till end of September:
 		- [ ] Kalibrierung des PMTs und der SiPMs
 14.09.2026 
 - [ ] Coat WOM Tube - Fast and slower 
+- [ ] Prepare Teaching Optic Tutorien
 - [ ] Decide if you want to go and if you are allowed to go to [WISPP 2027](https://indico.cern.ch/event/1683986/)
 - [ ] Apply for funding for the next collaboration meeting - ask if it is possible to go to the next collaboration meeting 
 - [ ] Apply for Frauenförderung 
@@ -61,7 +62,7 @@ Till end of September:
 - [ ] Videos 
 - [ ] Jakobs Arbeit mit PMMA slides sollte wiederholt werden - 
 	- [x] Von wem wurde das Spektrometer verwendet? - nicht in Jakobs Arbeit - PerkinElmer Lambda 950 spectrometer used in UV-Vis-NIR spectroscopy in the the SALSA Application lab at the HU which is supervised by Dr. Thomas Schmid
-	- [ ] Haben wir noch unbeschichtete PMMA slides? 
+	- [x] Haben wir noch unbeschichtete PMMA slides? 
 	- Ja haben wir - Maik hat welche und im Labor sind noch welche - sowohl casted als auch extruded
 	- [x] Maik fragen? 
 	- [x] Labor Nachschauen
@@ -69,7 +70,6 @@ Till end of September:
 	- [ ] Plättchen nehmen, die casted sind und auch extruded 
 - [x] Heidi Antworten - 15. September
 - [x] Code zum laufen bringen 
-- [ ] Prepare Teaching Optic Tutorien
 - [x] Collaborationmeeting Slides hochladen
 
 21.08.2026
