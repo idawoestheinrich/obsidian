@@ -20,7 +20,15 @@
 
 - Ich würde auch gerne den Mechanismus,dmit dem die Farbe unten an der WOM entfernt wird automatisieren
 	 - evl. auch mit dem Dip coater?
-	-  denkbar, wäre z.B. ein Deckel für die Zylinder, die die Farbe enthalten mit einer eingebauten Schale, in die Tulol gefüllt werden kann, dann könnte man den  DipCoater so einstellen, dass die WOMs nur so 1mm in die Farbe eingetaucht werden.
+	-  denkbar, wäre z.B. ein Deckel für die Zylinder, die die Farbe enthalten mit einer eingebauten Schale, in die Tulol gefüllt werden kann, dann könnte man den  DipCoater so einstellen, dass die WOMs nur so 1mm in die Farbe eingetaucht werden. - Dip Coater 
+	- 12 WOMs gecoated - Testbeam 
+- Testbeam im Oktober - Timing 
+- Ab April - gehen wir die Production an
+- Vorher Testen 
+
+
+	- Kameras Set Up 
+- Deckel für die Zylinder,
 ### Quality control 
 - Zwei Kleine Kameras für die Platzierung der WOMs im Aufbau - wie sollten die am besten Positioniert und betrieben werden?
 
