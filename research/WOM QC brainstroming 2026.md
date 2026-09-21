@@ -15,7 +15,7 @@
 - Außerdem eine Platte, die in die Klimakammer eingehängt werden kann. 
 	- Sollten die dieselbe sein? Oder
 - Tempering vor Beschichtung 
-- Lagerung 
+- Lagerung - Struktur an den Aluringen aufgehängt sein unter dem Abzug 
 
 
 - Ich würde auch gerne den Mechanismus,dmit dem die Farbe unten an der WOM entfernt wird automatisieren
