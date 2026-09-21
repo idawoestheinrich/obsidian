@@ -20,9 +20,9 @@
 ### Quality control 
 - Zwei Kleine Kameras für die Platzierung der WOMs im Aufbau - wie sollten die am besten Positioniert und betrieben werden?
 ##### Temperatur stabilität
-- Ein geeigneter Belüftungsmechnismus, damit es sich nicht so aufheizt?
+- Ein geeigneter Belüftungsmechnismus, damit es sich nicht so aufheizt? - Christian - fragen 
 	- Evl. den Driver auslagern 
-- Können wir die PCBs mit einem Material befestigen, dass wärme aber nicht Strom leitend ist? 
+- Können wir die PCBs mit einem Material befestigen, dass wärme aber nicht Strom leitend ist? - Grounding/ Rest des Aufbaus braucht auch ein Grounding - von einander getrennt - 
 - Erdung der Platte oben
 
 Emil list Kartoquill 
