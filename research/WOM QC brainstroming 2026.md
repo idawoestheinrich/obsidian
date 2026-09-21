@@ -6,7 +6,7 @@
 - Maik und ich versuchen außerdem einen Schutz für den PCB zu kontruieren, damit Glycerol nicht unbemerkt hinein fließen kann
 - Es gibt noch einige gegossene PMMA platten bei Maik - noch original Verpackt aber schon alt. 3mm und 5mm 
 - Im Labor gibt es auch noch einge Plättchen - extruded auf jeden fall. 
-	- Die codierten Plätchen sind jetzt gelb
+	- Die codierten Plättchen sind jetzt gelb
 
 ## Mechanische Dinge, die noch anstehen, damit Maik früher gehen kann: 
 
@@ -25,7 +25,8 @@
 - Können wir die PCBs mit einem Material befestigen, dass wärme aber nicht Strom leitend ist?
 - Erdung der Platte oben
 
-
+Emil list Kartoquill 
+WOM SBT Paper mit dem Desy paper
 ## Weiteres: 
 #### Qualitätskontrolle
 - Machte es Sinn jetzt über einen Möglichen Standard zu sprechen? (z.B. Gesamt Light Yield über die gesamte Messung über einem bestimmten Wert und Standardabweichung unterhalb von einem bestimmten Wert?)
