@@ -24,11 +24,11 @@
 	- 12 WOMs gecoated - Testbeam 
 - Testbeam im Oktober - Timing 
 - Ab April - gehen wir die Production an
+
 - Vorher Testen 
-
-
-	- Kameras Set Up 
-- Deckel für die Zylinder,
+	- Kameras Set Up / Belüftung 
+	- Deckel für die Zylinder - Material - Möglichst viel in die Werkstatt 
+	- 
 ### Quality control 
 - Zwei Kleine Kameras für die Platzierung der WOMs im Aufbau - wie sollten die am besten Positioniert und betrieben werden?
 
@@ -98,6 +98,7 @@ Evl. Müssen auch hier noch ein paar Teile bestellt werden:
 - PCB
 	- Gain stabilisieren
 	- Wärmeableitung  - sollte der PCB so heiß werden? 38 Grad?
+
 - Neuer Bachelorstudi 
 	- Systematik verstehen?
 	- 2mm vs. 3mm WOMs 
