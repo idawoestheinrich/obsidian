@@ -4,7 +4,7 @@
 - Ich habe heute mit dem Coating weiterer WOMs begonnen
 	- WOMs mit unterschiedlichen Geschwindigkeiten coaten um zu schauen, wie sich das auswirkt 
 - Maik und ich versuchen außerdem einen Schutz für den PCB zu kontruieren, damit Glycerol nicht unbemerkt hinein fließen kann
-- Es gibt noch einige gegossene PCB platten bei Maik - noch original Verpackt aber schon alt. 3mm und 5mm 
+- Es gibt noch einige gegossene PMMA platten bei Maik - noch original Verpackt aber schon alt. 3mm und 5mm 
 - Im Labor gibt es auch noch einge Plättchen - extruded auf jeden fall. 
 	- Die codierten Plätchen sind jetzt gelb
 
