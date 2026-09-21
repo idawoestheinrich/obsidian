@@ -53,13 +53,13 @@ Till end of September:
 - [ ] Löschen des Alten Ordners im SBT meeting besprechen
 - [ ] Feedback on SHiP Website
 - [x] Check on Maiks and Matthias Process
-	- Maik needs CAD files
-	- Matthias will order and then need a week
+	- [x] Maik needs CAD files
+	- [ ] Matthias will order and then need a week
 - [x] SHiP outreach talk - 15. September
 - [x] CAD files for Maik - 14. September
-- [ ] Collaboration Meeting 14.-18.September
+- [x] Collaboration Meeting 14.-18.September
 - [ ] Talk on SHiP for Physikerinnen Tagung
-- [ ] Videos 
+- [ ] Videos - on SHiP 
 - [ ] Jakobs Arbeit mit PMMA slides sollte wiederholt werden - 
 	- [x] Von wem wurde das Spektrometer verwendet? - nicht in Jakobs Arbeit - PerkinElmer Lambda 950 spectrometer used in UV-Vis-NIR spectroscopy in the the SALSA Application lab at the HU which is supervised by Dr. Thomas Schmid
 	- [x] Haben wir noch unbeschichtete PMMA slides? 
