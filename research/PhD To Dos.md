@@ -46,6 +46,7 @@ Till end of September:
 		- [ ] Kalibrierung des PMTs und der SiPMs
 14.09.2026 
 - [ ] Coat WOM Tube - Fast and slower 
+	- What if the thickness of the coat it best if f.e. velocity down is 200mm/min and velosity up is 500mm/min 
 - [ ] Prepare Teaching Optic Tutorien
 - [ ] Decide if you want to go and if you are allowed to go to [WISPP 2027](https://indico.cern.ch/event/1683986/)
 - [ ] Apply for funding for the next collaboration meeting - ask if it is possible to go to the next collaboration meeting 
