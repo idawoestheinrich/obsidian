@@ -26,7 +26,8 @@
 - Ab April - gehen wir die Production an
 
 - Vorher Testen 
-	- Kameras Set Up / Belüftung 
+	- Kameras Set Up / Belüftung - In anderen Gruppen Fragen? 
+		- Vielleicht aus Zeuthen 
 	- Deckel für die Zylinder - Material - Möglichst viel in die Werkstatt 
 	- 
 ### Quality control 
@@ -39,6 +40,7 @@
 - Erdung der Platte oben
 
 Emil list Kartoquill 
+Iris gebäude 
 WOM SBT Paper mit dem Desy paper
 ## Weiteres: 
 #### Qualitätskontrolle
