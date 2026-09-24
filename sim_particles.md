@@ -1,0 +1,3 @@
+**`sim_particles` (The "Geant4 Simulation Tracks"):** This contains the **full particle cascade** recorded during the Geant4 passage through detector material.
+- When a primary particle hits material, it creates secondaries (showering, bremsstrahlung, ionization, hadronic interactions, decays).
+- Includes spatial info like `sim_particles.endpoint` (where the particle stopped or decayed) and `sim_particles.creatorProcess`(the physics process that generated it, e.g., pair production or Compton scattering).
