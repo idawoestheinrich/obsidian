@@ -49,6 +49,7 @@ Till end of September:
 			- [x] Check if this was done correctly
 		- [ ] Kalibrierung des PMTs und der SiPMs
 14.09.2026 
+
 - [ ] Coat WOM Tube - Fast and slower 
 	- What if the thickness of the coat it best if f.e. velocity down is 200mm/min and velosity up is 500mm/min 
 - [ ] Prepare Teaching Optic Tutorien
