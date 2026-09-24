@@ -67,17 +67,51 @@ Bei Fehlschlag ist das Opfer **gelähmt**.
 Dann nimmt der Barde Geld und Wertgegenstände und verschwindet.
 
 ---
-
-### Kampfverhalten
-
-Er möchte **nicht kämpfen**.
-
-Wenn _Hold Person_ funktioniert:
-
-> „Siehst du? Viel einfacher, wenn wir uns verstehen.“
-
 Er nimmt das Geld und benutzt anschließend **Invisibility**, um abzuhauen.
 
-Wenn _Hold Person_ scheitert, flieht er möglichst schnell. Bei mehreren Gegnern benutzt er **Fear**, um die Verfolger auseinanderzutreiben.
+### Ablauf des Hinterhalts
+**1. Der Barde nähert sich allein**
+Er wirkt harmlos, vielleicht leicht betrunken oder wie ein Straßenkünstler.
+> „Verzeiht, Freunde. Ein paar Münzen für einen armen Musiker?“
+Er versucht zunächst **Charm Person**. Wenn die Charaktere darauf eingehen, lässt er sich das Geld geben.
+Wenn sie ablehnen oder misstrauisch werden:
+> „Schade. Dann müssen wir es wohl anders machen.“
 
-**Wichtig:** _Charm Person_ macht das Opfer nicht zu einem willenlosen Diener. Es behandelt ihn lediglich als freundlichen Bekannten; die konkrete Herausgabe von Geld sollte der DM weiterhin über die Situation bzw. einen passenden sozialen Check entscheiden.
+Er wirkt _Hold Person_ auf einen Charakter.
+
+**2. Das ist das Signal**
+Sobald _Hold Person_ wirkt – oder sobald die Charaktere aggressiv werden – pfeift der Barde laut.
+Aus den umliegenden Gassen kommen die anderen Räuber.
+
+**→ Initiative für alle.**
+
+Dadurch fühlt es sich nicht wie ein zufälliger Kampf an, sondern wie ein **geplanter Überfall**.
+
+### Die Verstärkung
+
+Zusätzlich zum Barden würde ich für 6 Level-3-Charaktere etwa nehmen:
+- **1 Anführer** – kontrolliert den Überfall
+- **3 Nahkämpfer** – halten die Gruppe beschäftigt
+- **2 Armbrustschützen** – Dächer/Fenster
+- **1 Barde** – kontrolliert und manipuliert
+
+Also insgesamt **7 Gegner**.
+
+Der Barde selbst bleibt möglichst hinten. Sein Ziel ist nicht, Schaden zu machen, sondern **einen Charakter auszuschalten und die Gruppe zu destabilisieren**.
+### Schöner Moment für den Hinterhalt
+
+Nachdem die Gruppe den Barden vielleicht für einen gewöhnlichen Straßenräuber hält:
+
+> Der Barde lächelt plötzlich.
+> 
+> „Danke.“
+> 
+> Er schnippt mit den Fingern.
+> 
+> Von oben fällt ein Netz zwischen euch auf die Straße.
+> 
+> Gleichzeitig hört ihr hinter euch das Geräusch gezogener Klingen.
+> 
+> „Jetzt!“
+
+Und dann kommen die anderen Räuber aus den Seitengassen.
