@@ -9,3 +9,9 @@ go into the aegir file and run
 pixi run build
 ```
 
+```
+git clone https://github.com/ShipSoft/aegir.git
+cd aegir
+pixi run build
+pixi run phlex -c workflows/pythia8_mt.jsonnet
+```
