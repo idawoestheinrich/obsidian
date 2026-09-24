@@ -137,9 +137,7 @@ Wenn _Hold Person_ erfolgreich war, versucht ein Schläger, den gelähmten Cha
 Jetzt sollte die Gruppe merken:
 **Das sind keine gewöhnlichen Straßenräuber.**
 Rask konzentriert seine Leute auf einen Charakter.
-
 Der Barde nutzt weiterhin Kontrolle statt Schaden.
-
 Wenn die Gruppe einen Armbrustschützen erreicht, zieht dieser sich zurück.
 
 ---
