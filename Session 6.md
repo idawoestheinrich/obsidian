@@ -1,9 +1,5 @@
-
-
 ### 🪙 NPC: Finnegan „Finn“ Goldknopf
-
-
-
+Versucht seinen Fehler zu berichtigen
 
 
 
