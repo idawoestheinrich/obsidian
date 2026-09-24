@@ -37,7 +37,7 @@ Dr. Dannel hört nicht auf
 > Okay keine Metzchen mehr ergebt euch!
 
 - erst Warnung
-- dann [[Hold Person]]
+- dann [[dnd/Hold Person]]
 - [[Sleep]]
 - [[Netze]]
 - nicht tödliche Gewalt
