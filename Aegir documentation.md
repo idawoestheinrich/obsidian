@@ -1,3 +1,0 @@
-- https://shipsoft.github.io/Documentation/simulation/
-- https://shipsoft.github.io/aegir/
-- https://github.com/ShipSoft/aegir#building-with-pixi-recommended
