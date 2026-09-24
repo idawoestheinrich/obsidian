@@ -1,4 +1,4 @@
-
+- [git repository](https://gitlab.cern.ch/ship/outreach)
 - 2 weeks a head a document
 - Stakeholders
 
