@@ -39,5 +39,3 @@ aliases:
 	- [[CheapCal]] 
 15:00 SHiP Software weekly
 	- [zoom link](https://cern.zoom.us/j/69112571387?pwd=VFdObHY4N1I0UFRIM00zTU1zNTkydz09)
-	- 
-
