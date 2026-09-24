@@ -49,9 +49,12 @@ Till end of September:
 			- [x] Check if this was done correctly
 		- [ ] Kalibrierung des PMTs und der SiPMs
 14.09.2026 
-
-- [ ] Coat WOM Tube - Fast and slower 
-	- What if the thickness of the coat it best if f.e. velocity down is 200mm/min and velosity up is 500mm/min 
+- [ ] Will ich hier mitmachen? :
+	- [ ] Die Humboldt-Universität zu Berlin, das Forschungsnetzwerk IGAFA e. V. und die WISTA Management GmbH laden alle Promovierenden und Postdocs herzlich ein, bei der **Posterschau des [Adlershofer Forschungsforums (AFF)](https://www.adlershof.de/forschungsforum)** dabei zu sein.  
+	**Wann?** 11. November 2026, 9:30 – 16:00 Uhr  
+	**Wo?**       Erwin Schrödinger-Zentrum
+- [x] Coat WOM Tube - Fast and slower 
+	- [x] What if the thickness of the coat it best if f.e. velocity down is 200mm/min and velosity up is 500mm/min 
 - [ ] Prepare Teaching Optic Tutorien
 - [ ] Decide if you want to go and if you are allowed to go to [WISPP 2027](https://indico.cern.ch/event/1683986/)
 - [ ] Apply for funding for the next collaboration meeting - ask if it is possible to go to the next collaboration meeting 
