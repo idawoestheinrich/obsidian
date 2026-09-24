@@ -3,128 +3,81 @@ Versucht seinen Fehler zu berichtigen
 
 
 
-## 🎭 Level 3 Bard – Basic Sheet
 
-**Name:** Robert
-**Species:** Mensch  
-**Klasse:** Bard 3  
-**Subclass:** College of Lore  
-**Background:** Entertainer  
-**Proficiency Bonus:** +2
-### Attribute
 
-|Attribut|Wert|Mod.|
-|---|---|---|
-|STR|8|−1|
-|DEX|16|+3|
-|CON|14|+2|
-|INT|10|+0|
-|WIS|12|+1|
-|CHA|17|+3|
+## 🎭 Straßenräuber-Barde – Level 5
 
-**HP:** 24  
-**AC:** 14 _(Leather Armor + DEX)_  
-**Initiative:** +3  
-**Speed:** 9 m  
-**Hit Dice:** 3d8
+**Medium Humanoid, Bard 5**  
+**RK:** 14 (Leather Armor)  
+**TP:** 38  
+**Bewegung:** 9 m  
+**PB:** +3
 
----## Rettungswürfe
-- STR −1
-- **DEX +5** ⭐
-- CON +2
-- INT +0
-- WIS +1
-- **CHA +5** ⭐
+**STR** 10 (+0) | **DEX** 16 (+3) | **CON** 14 (+2) | **INT** 10 (+0) | **WIS** 12 (+1) | **CHA** 17 (+3)
 
-Barden sind nach den 2024-Regeln in **Dexterity und Charisma** proficient. 
----
+### Wichtige Werte
 
-## Skills
-- **Persuasion +7** ⭐ Expertise
-- **Performance +7** ⭐ Expertise
-- Deception +5
-- Stealth +5
-- Perception +3
-- Insight +3
-Die beiden +7 kommen durch Expertise: Der Bard erhält auf Level 2 Expertise in zwei Skill-Proficiencies. 
-### Jack of All Trades
-Bei einem Ability Check, bei dem du **nicht proficient** bist, bekommst du zusätzlich **+1**.
+- **Zauber-SG:** 14
+- **Zauberangriff:** +6
+- **Bardic Inspiration:** d8, 4×/Long Rest
+- **Rapier:** +6 Angriff, 1d8+3 Stichschaden
 
----
+### Zauber
 
-# 🎵 Bardic Inspiration
-**4 Anwendungen pro Long Rest**
-**Bardic Inspiration: d6**
-Als **Bonus Action** kannst du einer Kreatur innerhalb von 60 ft / 18 m, die dich sehen oder hören kann, einen d6 geben.
-Wenn sie innerhalb der nächsten Stunde einen D20-Test nicht schafft, kann sie den d6 würfeln und das Ergebnis addieren. 
+**Cantrips**
+
+- _Vicious Mockery_
+
+**1. Grad**
+
+- **Charm Person**
+- _Healing Word_
+
+**2. Grad**
+
+- **Hold Person**
+- _Invisibility_
+
+**3. Grad**
+
+- _Fear_
+
+### Sein Vorgehen
+
+**1. Charm Person**
+
+Er spricht das Opfer freundlich an und versucht, es davon zu überzeugen, ihm Geld zu geben.
+
+> „Ach, kommt schon. Ihr seht doch aus wie jemand, der einem armen Künstler ein wenig aushelfen kann.“
+
+Das Opfer macht den **WEIS-Save gegen SG 14**.
+
+Bei Erfolg merkt es, dass etwas nicht stimmt, und der Barde versucht weiterzureden oder verschwindet.
+
+Bei Fehlschlag ist die Person für ihn **Charmiert**.
 
 ---
-### Cutting Words
-**Reaction**
-Wenn eine Kreatur, die du innerhalb von 18 m sehen kannst, einen **Angriffswurf, Ability Check oder Damage Roll**macht, kannst du eine Bardic Inspiration ausgeben.
-Du würfelst deinen **d6** und ziehst das Ergebnis von ihrem Wurf ab.
-Beispiel:
-> Bandit würfelt Angriff: **17**  
-> Bard: „Ich glaube, du solltest das noch einmal überdenken.“  
-> Cutting Words: **−5**  
-> Angriff wird zu **12**.
+**2. Opfer gibt kein Geld heraus**
+Wenn das Opfer trotz _Charm Person_ kein Geld herausgibt oder sich weigert, es ihm zu geben:
 
-Das kann einen Treffer in einen Fehlschlag verwandeln oder Schaden reduzieren. 
----
+**Hold Person** → **WEIS-Save SG 14**
 
-# ✨ Zauber
-**Spellcasting Ability:** Charisma  
-**Spell Attack:** +5  
-**Spell Save DC:** 13
-**Cantrips:** 2  
-**Vorbereitete Zauber:** 6  
-**Spell Slots:** 4 × Level 1, 2 × Level 2. 
-### Cantrips
-**Vicious Mockery**  
-→ Gegner macht WIS Save, bei Fehlschlag 1d6 Psychic Damage und Disadvantage auf seinen nächsten Angriff.
-**Mage Hand**  
-→ Für Türen, Gegenstände, Hebel, kleine Tricks usw.
+Bei Fehlschlag ist das Opfer **gelähmt**.
 
-### Level 1
-**Healing Word** ⭐  
-→ Bonus Action-Heilung aus der Entfernung.
-**Dissonant Whispers** ⭐  
-→ Sehr guter Kampfzauber; Psychic Damage und zwingt den Gegner zur Bewegung.
-**Faerie Fire** ⭐  
-→ Gegner im Bereich werden sichtbar hervorgehoben und Angriffe gegen sie bekommen Advantage.
-**Charm Person**  
-→ Für soziale Situationen.
-### Level 2
-**Suggestion** ⭐  
-→ Einer der stärksten Utility-Zauber des Barden.
-**Invisibility** ⭐  
-→ Für Infiltration, Flucht oder einen Überraschungsangriff.
+Dann nimmt der Barde Geld und Wertgegenstände und verschwindet.
 
 ---
 
-## ⚔️ Angriffe
+### Kampfverhalten
 
-### Rapier
-**+5 to hit**
-**1d8 + 3** Piercing Damage
-### Dagger
-**+5 to hit**
-**1d4 + 3** Piercing Damage
-### Vicious Mockery
-**WIS Save DC 13**
-**1d6 Psychic Damage**
+Er möchte **nicht kämpfen**.
 
----
-# 🎒 Equipment
-- Leather Armor
-- Rapier
-- 2 Daggers
-- Lute
-- Entertainer's Pack
-- Backpack
-- Bedroll
-- 10 Torches
-- 10 Tage Rationen
-- Waterskin
-- Disguise Kit
-- 15 GP
+Wenn _Hold Person_ funktioniert:
+
+> „Siehst du? Viel einfacher, wenn wir uns verstehen.“
+
+Er nimmt das Geld und benutzt anschließend **Invisibility**, um abzuhauen.
+
+Wenn _Hold Person_ scheitert, flieht er möglichst schnell. Bei mehreren Gegnern benutzt er **Fear**, um die Verfolger auseinanderzutreiben.
+
+**Wichtig:** _Charm Person_ macht das Opfer nicht zu einem willenlosen Diener. Es behandelt ihn lediglich als freundlichen Bekannten; die konkrete Herausgabe von Geld sollte der DM weiterhin über die Situation bzw. einen passenden sozialen Check entscheiden.
