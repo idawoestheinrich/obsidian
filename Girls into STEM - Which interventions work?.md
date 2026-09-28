@@ -5,7 +5,7 @@ During the past decades, researchers have identified many factors crucial for th
 - Find out what helped?
 	- Was there a person who was different?
 	- Easier for queer people to overcome sterotypes
-- Perceived fit
+#### Perceived fit
 	- Abilities - subjective might be the problem
 		- Growth mindsets - you can deveop
 	- Motivation - will I belong in this culture? computer science/physics tec.
@@ -16,5 +16,18 @@ During the past decades, researchers have identified many factors crucial for th
 	- Role models help or hinder - 
 		- Very complicated 
 
-Role-models interventions
+#### Role-models interventions
 - Admired role models preclude stereotypes threat
+- Female mentors help.
+- Short interventions often have only shorted-lived effects
+	- but can change development paths
+- heterogeneous effects
+
+#### Female mentors
+- Building pairs is not a sufficient conditon
+- Best-practice guidelines
+- Mentor gender is only sometimes relevent
+- evaluations not highest standards
+- Mentoring phases - Fun-  learning skills - superior
+#### Success Factors and Pitfalse
+- Mentoring 1:1 - Drop in comm
