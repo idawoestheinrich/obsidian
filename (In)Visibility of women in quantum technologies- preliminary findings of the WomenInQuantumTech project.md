@@ -8,7 +8,8 @@ This talk presents the initial findings of the BMFTR-funded “WomenInQuantumTec
 #### Methodological Approach
 - Qualitative Interviews
 - Participaratory reasearch approach 
-- Ethnogrphic observationa
+- Ethnogrphic observationl
+- Who are allies? 
 #### Cluster of Excellence
 - Speakers? - also the leaders
 - Distribution of PIs in cooperating clusters
@@ -25,3 +26,5 @@ This talk presents the initial findings of the BMFTR-funded “WomenInQuantumTec
 #### Hypervisiblity 
 - Not a lot of space 
 ![[IMG_1341.jpg]]
+
+
