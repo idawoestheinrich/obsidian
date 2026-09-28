@@ -12,3 +12,8 @@ This talk presents the initial findings of the BMFTR-funded “WomenInQuantumTec
 #### Cluster of Excellence
 - Speakers? - also the leaders
 - Distribution of PIs in cooperating clusters
+
+#### Do I need a strategy for internal visiblity 
+- active and stategic approach for visility is needed to be sucessfull/ to get into a leadership position 
+- Young postdocs dont' think much about visibility 
+- Hypervisiblity 
