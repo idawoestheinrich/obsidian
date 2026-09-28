@@ -13,3 +13,14 @@ This contribution seeks to provide an introduction to the physics identity frame
 Female students in advanced physics courses in school - no change
 
 At the final round of national physics wettbewerbe - no in the last round
+
+#### Educational justification for physics education 
+148500 Labor shortage in STEM occupations
+
+- support high achiving / and all 
+#### Causes of the Gender Gap 
+- Individual factors
+- Attribute their success to outside factor
+"Growth Mindset"
+
+Cultural Structures - How does a Physisist look like?
