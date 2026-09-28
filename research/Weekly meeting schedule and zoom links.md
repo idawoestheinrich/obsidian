@@ -5,6 +5,7 @@ tags:
 aliases:
 ---
 #### Monday
+10:00 Editorial Meeting
 11:00 SHiP Software meeting (for developers and users!)
 15:00 [[Background Taskforce]]
 	- zoom: 
