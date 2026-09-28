@@ -7,5 +7,14 @@ During the past decades, researchers have identified many factors crucial for th
 	- Easier for queer people to overcome sterotypes
 - Perceived fit
 	- Abilities - subjective might be the problem
+		- Growth mindsets - you can deveop
 	- Motivation - will I belong in this culture? computer science/physics tec.
-	- 
+	- When being a girl matters less? Only girls class helps in 8th Grade
+	- Programming might help - or not
+	- Change occupational sterotypes
+	- Ambient belonging 
+	- Role models help or hinder - 
+		- Very complicated 
+
+Role-models interventions
+- Admired role models preclude stereotypes threat
