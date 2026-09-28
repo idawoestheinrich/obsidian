@@ -11,4 +11,9 @@ Mit diesem Beitrag stellen wir Euch den Arbeitskreis Chancengleichheit (AKC) vor
 - Ziele des AKC
 	- Förderung des weiblichen Nachwuchses in der Physik
 - Manchmal ist es ein bisschen trostlos, aber es hat viel Spaß gemacht 
-- Andere Wissenschaften
+- Andere Wissenschaften - WIS - Women in Science - Tag 
+- Zeitmanagement, Entrepreneurship, Vereinbarkeit von Beruf und Familie
+- *Hertha-Sponer-Preis* - Maria Azhar
+- Lise-Meithner-Lectures - Vortrag in Deutschland und Österreich 
+	- Anne 'Huilier und Donna Strickland
+	- 2026 Michele Heurs 
