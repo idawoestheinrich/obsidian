@@ -6,6 +6,8 @@ aliases:
 ---
 #### Monday
 10:00 Editorial Meeting
+	- [Zoom](https://cern.zoom.us/j/66593711639?pwd=apXjSHVCXh8lpAIQXLlq5FYptzSu6f.1#success)
+
 11:00 SHiP Software meeting (for developers and users!)
 15:00 [[Background Taskforce]]
 	- zoom: 
