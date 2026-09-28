@@ -40,4 +40,8 @@ Physics identity
 
 What conditions does physics identity change?
 #### Overdeterminded design 
-You-Scie-MINT - Theory - based 
+You-Scie-MINT - Theory - based design
+- inquiry-based learning
+	- develop your own reaserach project
+- Survey before directly after and 3 weeks after
+- 
