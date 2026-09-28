@@ -14,6 +14,8 @@ Mit diesem Beitrag stellen wir Euch den Arbeitskreis Chancengleichheit (AKC) vor
 - Andere Wissenschaften - WIS - Women in Science - Tag 
 - Zeitmanagement, Entrepreneurship, Vereinbarkeit von Beruf und Familie
 - *Hertha-Sponer-Preis* - Maria Azhar
-- Lise-Meithner-Lectures - Vortrag in Deutschland und Österreich 
+- Lise-Meithner-Lectures - Vorträge seit 2008 in Deutschland und Österreich 
 	- Anne 'Huilier und Donna Strickland
 	- 2026 Michele Heurs 
+2025 Das Jahr der Quantenphysik - Portrais von Quantenphysikerinnen
+Faszination Wissenschaft 
