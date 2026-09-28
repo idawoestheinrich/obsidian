@@ -17,3 +17,11 @@ This talk presents the initial findings of the BMFTR-funded “WomenInQuantumTec
 - active and stategic approach for visility is needed to be sucessfull/ to get into a leadership position 
 - Young postdocs dont' think much about visibility 
 - Hypervisiblity 
+
+#### External Visiblity 
+- Tendency to do a lot of visibility stuff for others
+- Some female reaserchers in leasdership positions rate external visiblity as valueable
+
+#### Hypervisiblity 
+- Not a lot of space 
+![[IMG_1341.jpg]]
