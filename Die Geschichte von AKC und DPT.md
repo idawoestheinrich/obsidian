@@ -19,3 +19,5 @@ Mit diesem Beitrag stellen wir Euch den Arbeitskreis Chancengleichheit (AKC) vor
 	- 2026 Michele Heurs 
 2025 Das Jahr der Quantenphysik - Portrais von Quantenphysikerinnen
 Faszination Wissenschaft 
+- Bias aus stellenbesetzungen nehmen - morgen nachmittag 
+- Physikerin der Woche 
