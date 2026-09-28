@@ -30,4 +30,16 @@ During the past decades, researchers have identified many factors crucial for th
 - evaluations not highest standards
 - Mentoring phases - Fun-  learning skills - superior
 #### Success Factors and Pitfalse
-- Mentoring 1:1 - Drop in comm
+- Mentoring 1:1 - Drop in communication 
+- Group Mentoring - lower communication decreases - STEM realated talk dropped
+- Group Mentoring  + topics
+
+#### Multi-factor intervention
+- female 12 year olds - STEM summer camps
+- think about your values, role model (how she a value brought her into science)
+- Movie about differnet role models
+- Most important: Future belonging 
+
+#### Meta-analysis
+- 21,000 articles 
+
