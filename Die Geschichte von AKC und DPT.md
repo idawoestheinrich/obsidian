@@ -7,4 +7,8 @@ Mit diesem Beitrag stellen wir Euch den Arbeitskreis Chancengleichheit (AKC) vor
 - 1. DPT Deutsche Physikerinnentagung - nicht von der DPG 
 	- In England der Frauenanteil sehr viel Größer
 - 1998 Arbeitskreis Chancengleichheit (AKT) - seit dem Mitglied bei der DPG
-- 
+- 1. DPG- Studie zur Sotation von Physiker:innen - Endlich Zahlen - "keine Gefühle"
+- Ziele des AKC
+	- Förderung des weiblichen Nachwuchses in der Physik
+- Manchmal ist es ein bisschen trostlos, aber es hat viel Spaß gemacht 
+- Andere Wissenschaften
