@@ -1,3 +1,5 @@
+- Agnes Sandner
+
 Entwickung der Zahlen- zuganglich auf der website
 	- 0.7% auf 14% Professorinnen
 - weiblichen Nachwuchs und Frauen in Fuehringspositionen
@@ -6,7 +8,7 @@ Entwickung der Zahlen- zuganglich auf der website
 - DPT 2026 Kaiserslautern 
 - Lise-Meithner-Lectures
 - Herha-Sponer-Preis
-- DPG Preise - maximal 30 % bei den meiisten weniger als 10% - visibility of women 
+- DPG Preise - maximal 30 % bei den meisten weniger als 10% - visibility of women 
 
 **Visibility, invisibility and hypervisibility of women in quantum technologies**
 - [[(In)Visibility of women in quantum technologies- preliminary findings of the WomenInQuantumTech project]]
