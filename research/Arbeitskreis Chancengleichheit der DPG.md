@@ -9,12 +9,14 @@ Entwickung der Zahlen- zuganglich auf der website
 - DPG Preise - maximal 30 % bei den meiisten weniger als 10% - visibility of women 
 
 **Visibility, invisibility and hypervisibility of women in quantum technologies**
+- [[(In)Visibility of women in quantum technologies- preliminary findings of the WomenInQuantumTech project]]
+Tamar Grosz
 - WomenInQuantumTech
 - Willingness to fufill career requirements is more likely to be *attributed* to men than women
 - Attributed less competent
 - **Everyone has that bias**
 - Social Backround has an impact on women’s career success
-- **Women of color** - on the role pf religion and ethnicity - **intersectionality**
+- **Women of color** - on the role of religion and ethnicity - **intersectionality**
 - Hypervisibility
 ![[FullSizeRender.jpeg]]
 - Women stand out - the only women somewhere - Always representative of all women - Greater Observation
