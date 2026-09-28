@@ -41,5 +41,8 @@ During the past decades, researchers have identified many factors crucial for th
 - Most important: Future belonging 
 
 #### Meta-analysis
-- 21,000 articles 
+- 21,000 articles - analysis with AI
+
+#### Sterotypes of the profession
+
 
