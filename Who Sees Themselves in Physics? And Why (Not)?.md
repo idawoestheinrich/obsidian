@@ -32,6 +32,12 @@ Physics Indentity?
 Intersectionsl , context dependend, constructed through language
 
 Individual factors
-
 - opens up this space between structure and agency 
-- 
+
+Physics identity 
+- Interest, recognition, Sense of belonging, self efficiency 
+- Autonomy, Support
+
+What conditions does physics identity change?
+#### Overdeterminded design 
+You-Scie-MINT - Theory - based 
