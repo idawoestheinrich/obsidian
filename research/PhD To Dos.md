@@ -37,7 +37,7 @@ Till end of September:
 	- [ ] next step: - compute grouped_mean so that it can act on all the different qc.integrated data, etc. 
 	- [ ] Monitor High Voltage on PMT
 		- [ ] Messungen mit verschiedenener HV PMT +- 10V 
-	- [ ] Infrared camera
+	- [x] Infrared camera - next Year
 	- [ ] Implement longer before measurement
 	- [ ] Du könntest die Daten noch komprimieren, was bis zu 50% spart und nicht wirklich länger dauert: [https://numpy.org/devdocs/reference/generated/numpy.savez_compressed.html](https://numpy.org/devdocs/reference/generated/numpy.savez_compressed.html)
 	- [ ] Und die ADC-Daten als short abspeichern (2 statt 4 bytes), das wären noch einmal 50% weniger
@@ -58,7 +58,7 @@ Till end of September:
 - [ ] Prepare Teaching Optic Tutorien
 - [ ] Decide if you want to go and if you are allowed to go to [WISPP 2027](https://indico.cern.ch/event/1683986/)
 - [ ] Apply for funding for the next collaboration meeting - ask if it is possible to go to the next collaboration meeting 
-- [ ] Apply for Frauenförderung 
+- [x] Apply for Frauenförderung 
 - [ ] Löschen des Alten Ordners im SBT meeting besprechen
 - [ ] Feedback on SHiP Website
 - [x] Check on Maiks and Matthias Process

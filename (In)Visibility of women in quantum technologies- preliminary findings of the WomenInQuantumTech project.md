@@ -5,4 +5,10 @@ Research about disciplinary culture in the field of gender studies in STEM shows
 This talk presents the initial findings of the BMFTR-funded “WomenInQuantumTech”. The research focuses on investigating the mechanisms that influence the visibility and participation of women in quantum technologies and developing strategies to improve their visibility, in collaboration with female researchers.
 
 - [[Arbeitskreis Chancengleichheit der DPG]]
-- 
+#### Methodological Approach
+- Qualitative Interviews
+- Participaratory reasearch approach 
+- Ethnogrphic observationa
+#### Cluster of Excellence
+- Speakers? - also the leaders
+- Distribution of PIs in cooperating clusters
