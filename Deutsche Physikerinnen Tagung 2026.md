@@ -5,7 +5,7 @@
 
 # Tuesday 29th September 2026
 - [[Ultrasound-mediated Optical Tomography of Biomedical Samples]]
-- 
+- Women in 
 
 
 ![[IMG_1340.jpg]]
