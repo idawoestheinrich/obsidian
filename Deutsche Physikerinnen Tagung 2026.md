@@ -15,6 +15,10 @@
 - From Lab to Life: Evidence-Based Insights into Building an Inclusive Quantum Innovation Ecosystem
 - Equity Lens: A Transparency Tool for Bias-Aware Selection in Physics
 
+Gender Paygab - Women in Germany earned 18% less per hour
+Women spend ~30h/week on unpaid work, men ~21h 43,8%
+In physics and engineering 
+
 
 ![[IMG_1340.jpg]]
 
