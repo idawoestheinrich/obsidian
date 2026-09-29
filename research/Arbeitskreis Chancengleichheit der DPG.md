@@ -7,7 +7,6 @@
 
 # DPG 2026
 - Agnes Sandner
-
 Entwickung der Zahlen- zuganglich auf der website
 	- 0.7% auf 14% Professorinnen
 - weiblichen Nachwuchs und Frauen in Fuehringspositionen
