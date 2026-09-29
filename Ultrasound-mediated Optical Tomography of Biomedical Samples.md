@@ -45,4 +45,8 @@ It is not entirely independet of the size
 - Optical Diffraction Tomography 
 	- The missing cone
 - You will lose any information on if the objext is on the inside or outside
-- 
+- larges we got 100 micro meters - approx 100 cells
+Sono optical force tomography (SOFT)
+- increase forces 
+- pressure
+- and stretch the samples
