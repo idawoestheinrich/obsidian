@@ -1,6 +1,9 @@
 
 # DPT 2026
--
+- Physikinnen der Woche
+- Klein Boesing vorschlagen?
+- Cigdem Vorschlagen
+- Marzieh vorschlagen
 
 # DPG 2026
 - Agnes Sandner
