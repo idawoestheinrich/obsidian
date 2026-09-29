@@ -3,6 +3,10 @@
 - [[Who Sees Themselves in Physics? And Why (Not)?]]
 - [[Die Geschichte von AKC und DPT]]
 
+# Tuesday 29th September 2026
+- [[Ultrasound-mediated Optical Tomography of Biomedical Samples]]
+
+
 
 ![[IMG_1340.jpg]]
 
