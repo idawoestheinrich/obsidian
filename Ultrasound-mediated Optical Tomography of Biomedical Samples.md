@@ -12,4 +12,10 @@ Trapp between two spots - add acousitic forces to optical forces
 Sveral trapping planes 
 Best of both worlds:
 	- acoustic trap - does the heavy lifting
-	- flex
+	- optical rap - flexible and precise
+
+- Optical trapping - change in linear momentum is a force
+- Particle refractive index vs the refactive index of the sourroundings
+- Acoustic trapping works over mechanical pressure
+
+Chip charakterization with 'active matter'
