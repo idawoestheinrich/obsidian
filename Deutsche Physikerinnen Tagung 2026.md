@@ -5,7 +5,12 @@
 
 # Tuesday 29th September 2026
 - [[Ultrasound-mediated Optical Tomography of Biomedical Samples]]
-- Women in 
+- Women in physiks breakfast - Marburg University 
+	- Mehr (für) Physikstentinnen*
+	- Create a safe space
+- How did you start?
+- [atominnen]() - Innsbruck 
+- 
 
 
 ![[IMG_1340.jpg]]
