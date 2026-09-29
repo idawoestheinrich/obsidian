@@ -19,3 +19,10 @@ Best of both worlds:
 - Acoustic trapping works over mechanical pressure
 
 Chip charakterization with 'active matter'
+
+Scan - move - scan - move or videos
+
+Reorientation vs. sustained rotation of sples by acoustic torques
+- scoustic restoring torque
+- acoustic spinning torque
+	- acoustic field that contains angular momentum
