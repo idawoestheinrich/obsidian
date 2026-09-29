@@ -12,7 +12,8 @@
 - [atominnen](https://atominnen.at/inform/statistics) - Innsbruck 
 - Female Professors Program 
 	- Build up a working group of women 
-
+- From Lab to Life: Evidence-Based Insights into Building an Inclusive Quantum Innovation Ecosystem
+- 
 
 
 ![[IMG_1340.jpg]]
