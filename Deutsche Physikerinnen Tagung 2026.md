@@ -13,7 +13,7 @@
 - Female Professors Program 
 	- Build up a working group of women 
 - From Lab to Life: Evidence-Based Insights into Building an Inclusive Quantum Innovation Ecosystem
-- 
+- Equity Lens: A Transparency Tool for Bias-Aware Selection in Physics
 
 
 ![[IMG_1340.jpg]]
