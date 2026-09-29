@@ -26,3 +26,16 @@ Reorientation vs. sustained rotation of sples by acoustic torques
 - scoustic restoring torque
 - acoustic spinning torque
 	- acoustic field that contains angular momentum
+
+It is not entirely independet of the size
+
+- big problem for the reconstruction - viewing angles not a priori known 
+- need to be interferred with an accuracy with a few %
+
+- reflectivity
+- attenuation maps
+- refractive index maps
+
+### reconstruction algorith 
+- tried NNLs - Physics informed stochastic gradient descent search
+- 
