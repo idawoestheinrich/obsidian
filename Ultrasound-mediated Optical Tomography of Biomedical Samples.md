@@ -38,4 +38,11 @@ It is not entirely independet of the size
 
 ### reconstruction algorith 
 - tried NNLs - Physics informed stochastic gradient descent search
+- Modelation of the refractive index - contrast map 
+- reflectivity map, attenuation map
+- Additional track - downscaled reolution to get the motion 
+- and then upscale agin once you have the motion
+- Optical Diffraction Tomography 
+	- The missing cone
+- You will lose any information on if the objext is on the inside or outside
 - 
