@@ -19,6 +19,9 @@ Gender Paygab - Women in Germany earned 18% less per hour
 Women spend ~30h/week on unpaid work, men ~21h 43,8%
 In physics and engineering 
 
+# Wednesday 30th September 2026
+- [[More than Whirls – The Topology of Magnetic Textures]]
+
 
 ![[IMG_1340.jpg]]
 
