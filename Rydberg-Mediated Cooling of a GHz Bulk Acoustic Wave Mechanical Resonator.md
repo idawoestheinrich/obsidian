@@ -9,3 +9,12 @@ The atom chip incorporates a coplanar waveguide resonator (CPWR) designed such t
 We support this architecture with detailed numerical calculations of the electric field distribution and the expected cooling performance of the hybrid system. Our results indicate that efficient dissipation-assisted cooling of the mechanical mode is achievable, enabling significant cooling toward the ground-state regime across realistic parameter ranges. This establishes a realistic route toward atom-mediated control of mechanical quantum systems.
 
 
+- Sapphire crystal
+- Rubidium Rydberg atom 
+	- 780nm/ 480nm 
+- Rydberg atoms - Principle quantum numbers
+	- In [quantum mechanics](https://en.wikipedia.org/wiki/Quantum_mechanics "Quantum mechanics"), the **principal quantum number** (_**n**_) of an [electron](https://en.wikipedia.org/wiki/Electron "Electron") in an [atom](https://en.wikipedia.org/wiki/Atom "Atom") indicates which [electron shell](https://en.wikipedia.org/wiki/Electron_shell "Electron shell") or energy level it is in
+- High overtone bulk acoustic wave resonator (HBAR)
+- Piezoelectric layer - with the oscillation leads to an oscillating electric field
+
+- HBAR at 4Kelvin 
