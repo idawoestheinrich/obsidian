@@ -10,11 +10,19 @@ Dicrete (Coin) quantum walk
 Greenberger-Horne-Zeilinger (GHZ) Coin State
 $\theta$ controls the coin mixing - three mixing regimes
 Strong $\theta = \frac\pi3$ 
-Balanced
+Balanced $\theta = \frac\pi4$
+Weak $\theta = \frac{\pi}{90}$
 
 Initial Stte
 One-Step-Evolution
 Coinoperator
- - Position in-\dependent with different m
+ - Position in-\dependent with different mixings
+Coincidence?
+Shannon entropy
+
+
+
+
+
 
  
