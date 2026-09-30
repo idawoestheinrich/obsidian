@@ -26,6 +26,11 @@ Pairing mechanism C.N.Yang
 - BCS Theory
 	- Effective attractive interaction, electron pairing in momentum space
 	- Zero net momentum
-- $\eta$ - paris
+- $\eta$ - pairs
 	- Non-zero net momentum
-	- No kinetic energy co q=pi
+	- No kinetic energy coefficient no kinetik energy therm if  $q=\pi/a$
+	- Repulsive interaction energy U - when they sit on top of eachother
+		- Not the ground state "the $\eta$ state" is a an exact eigenstate of the Hubbard Hamiltonien
+	- Such a state should be superconducting 
+- Go into eta pairs? 
+	- Use laser with double frequency - adiabatic 
