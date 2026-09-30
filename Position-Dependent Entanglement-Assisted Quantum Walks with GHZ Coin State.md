@@ -5,4 +5,16 @@ Quantum walks provide a powerful platform for exploring non-classical transport 
 Superposition Hadamar Operator
 Quantm Entanglement - if you change the state in one - the other changes too
 
-Dicrete ()
+Dicrete (Coin) quantum walk
+
+Greenberger-Horne-Zeilinger (GHZ) Coin State
+$\theta$ controls the coin mixing - three mixing regimes
+Strong $\theta = \frac\pi3$ 
+Balanced
+
+Initial Stte
+One-Step-Evolution
+Coinoperator
+ - Position in-\dependent with different m
+
+ 
