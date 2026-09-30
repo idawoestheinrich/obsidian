@@ -23,3 +23,5 @@ Atom chip for Hybrid experiment
 - Finding HBAR resonsces
 - Couplig between HBAR and atoms 
 - How to get the current on to the chip 
+- Compensation of electric fields and option to ionise the rydberg atoms
+- 
