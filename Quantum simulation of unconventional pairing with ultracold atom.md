@@ -19,3 +19,13 @@ Ultracold atoms - Emulate particles with neutral atoms
 High control - potential landscape/ Tuning of interaction
 
 We want to get interaction when two particles sit on top of eachother
+- if they don't "sit" on eachother they don't interact - they hop through the lattice
+- Turn system from a Metal to an Mott insulator by reducing the temperature
+- Then into a Anti-ferromagnet - up fermion next to down fermion is most efficient energy wise - beacause of superexchange - it is better, because they have the option to hopp onto theier neightbor and back 
+Pairing mechanism C.N.Yang
+- BCS Theory
+	- Effective attractive interaction, electron pairing in momentum space
+	- Zero net momentum
+- $\eta$ - paris
+	- Non-zero net momentum
+	- No kinetic energy co q=pi
