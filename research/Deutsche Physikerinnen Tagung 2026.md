@@ -22,6 +22,8 @@ In physics and engineering
 # Wednesday 30th September 2026
 - [[More than Whirls – The Topology of Magnetic Textures]]
 - [[Scientific Session IX]]
+- https://www.epsyoungminds.org
+- 
 
 ![[IMG_1340.jpg]]
 
