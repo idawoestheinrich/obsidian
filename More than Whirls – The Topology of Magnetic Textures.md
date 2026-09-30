@@ -5,3 +5,5 @@ Similar ideas have become remarkably powerful in physics. Two-dimensional whirls
 In three dimensions, vector fields can be even more twisted contain knots and braids. However, it becomes difficult to visualize such fields directly, yet topology allows us to classify them through their global structure. 
 In this talk, I will show how we can understand magnetic textures by asking whether their underlying field structures contain hidden braids, knots, or links—revealing the beautiful textures nature creates.
 
+Whirl is vertex in the vectorfield - 
+
