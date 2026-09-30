@@ -65,7 +65,7 @@ Till end of September:
 - [ ] Feedback on SHiP Website
 - [x] Check on Maiks and Matthias Process
 	- [x] Maik needs CAD files
-	- [ ] Matthias will order and then need a week
+	- [x] Matthias will order and then need a week
 - [x] SHiP outreach talk - 15. September
 - [x] CAD files for Maik - 14. September
 - [x] Collaboration Meeting 14.-18.September

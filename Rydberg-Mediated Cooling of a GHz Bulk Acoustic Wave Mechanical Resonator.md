@@ -18,3 +18,8 @@ We support this architecture with detailed numerical calculations of the electri
 - Piezoelectric layer - with the oscillation leads to an oscillating electric field
 
 - HBAR at 4Kelvin 
+Atom chip for Hybrid experiment
+- Positioning atoms on top of HBAR
+- Finding HBAR resonsces
+- Couplig between HBAR and atoms 
+- How to get the current on to the chip 
