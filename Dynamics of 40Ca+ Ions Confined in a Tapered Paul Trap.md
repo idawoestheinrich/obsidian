@@ -11,3 +11,31 @@ When multiple harmonic oscillators are coupled, they exhibit normal modes, which
 When you have coupled harmonic oscillators you have Eignmodes Zigzag Mode 
 Rocking Mode
 - COM - center of mass mode
+
+You have differnt coupling regimes in Tampered Traps
+- Lokal and global oscillations 
+How to measure this in an Ion trap 
+- Borad focus and narrow focused Doppler beams 
+- Axial modes 
+Radial Eigenmodes of two ions 
+- Low confinement eigenmodes are non-degenerate Ion oscillates at differnt frequencies
+- At high confineme
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
