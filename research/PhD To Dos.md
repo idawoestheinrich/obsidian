@@ -18,6 +18,8 @@ To find papers on [[SHiP]] go to [CERN document server](https://cds.cern.ch/sear
 
 Ask about uncertainties, look at coordinates of the plots
 
+Thank for questions after a talk and thank for the talk when asking questions. 
+
 *Don't take on too many things at once. Prioritize well.*
 
 ### Notes

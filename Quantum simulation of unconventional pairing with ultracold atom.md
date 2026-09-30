@@ -34,3 +34,4 @@ Pairing mechanism C.N.Yang
 	- Such a state should be superconducting 
 - Go into eta pairs? 
 	- Use laser with double frequency - adiabatic 
+- Explore quantum many body system - explore many hamiltonians 
