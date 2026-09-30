@@ -10,4 +10,12 @@ Unconvential Supercondivity
 - Reduce system to main ingredients
 	- How many parameters do we need? 
 High-T_c superconductors
-- Simplest m
+- Simplest model with strong correlations - Hamiltonian simple but can't be solved due to the correlations
+- Can we explore the Fermi-Hubbard model experiments? using super cold atoms?
+
+Ultracold atoms - Emulate particles with neutral atoms
+- Spin states are hyperfine states of atoms - Cooling below 10^-6 Kelvin $d\gg\lambda_{db}$
+- Quantum statistics
+High control - potential landscape/ Tuning of interaction
+
+We want to get interaction when two particles sit on top of eachother
