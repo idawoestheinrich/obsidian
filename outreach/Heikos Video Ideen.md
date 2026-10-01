@@ -7,6 +7,8 @@
 	- majorana masse
 - Zum Plot zurück 
 - Kurze Überleitung zu SHiP 
+
+- Scale zoom in 
 # Video 2: Materie antimaterie asymmetrie
 - Man hat materie antimaterie teilchen die darin rumschwirren
 	- Sich anhilieren und emitieren
@@ -14,7 +16,7 @@
 - Das ist der Nachthimmel den wir sehen - der wäre qusi Schwarz
 	- Die Erde würde auch nicht existieren
 - Weißer Raum - 
-- Warum gibt es uns überhaupt
+- Warum gibt es uns überhaupt - Marc
 - Leptogenis - mit den HNLs die wir suchen 
 
 # Video 3: Light dark Matter - schwierig
