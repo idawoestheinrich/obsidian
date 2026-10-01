@@ -18,6 +18,9 @@
 - Weißer Raum - 
 - Warum gibt es uns überhaupt - Marc
 - Leptogenis - mit den HNLs die wir suchen 
+- How to explain Leptogenis - Matei has two 1min videos
+
+
 
 # Video 3: Light dark Matter - schwierig
 - nicht direkt mit HNLs 
@@ -37,3 +40,7 @@
 - Unterhalb vom GeV Bereich können die direkten suchen das nicht nachweisen - 
 - 
 
+
+High school students 
+- Posters to explained
+- 
