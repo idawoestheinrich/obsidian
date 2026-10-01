@@ -57,6 +57,7 @@ Till end of September:
 	**Wo?**       Erwin Schrödinger-Zentrum
 - [x] Coat WOM Tube - Fast and slower 
 	- [x] What if the thickness of the coat it best if f.e. velocity down is 200mm/min and velosity up is 500mm/min 
+- [ ] Correct 4-Cell Prototype Paper
 - [ ] Prepare Teaching Optic Tutorien
 - [x] Decide if you want to go and if you are allowed to go to [WISPP 2027](https://indico.cern.ch/event/1683986/)
 - [ ] Apply for funding for the next collaboration meeting - ask if it is possible to go to the next collaboration meeting 
@@ -69,7 +70,7 @@ Till end of September:
 - [x] SHiP outreach talk - 15. September
 - [x] CAD files for Maik - 14. September
 - [x] Collaboration Meeting 14.-18.September
-- [ ] Talk on SHiP for Physikerinnen Tagung
+- [x] Talk on SHiP for Physikerinnen Tagung
 - [ ] Videos - on SHiP 
 - [ ] Jakobs Arbeit mit PMMA slides sollte wiederholt werden - 
 	- [x] Von wem wurde das Spektrometer verwendet? - nicht in Jakobs Arbeit - PerkinElmer Lambda 950 spectrometer used in UV-Vis-NIR spectroscopy in the the SALSA Application lab at the HU which is supervised by Dr. Thomas Schmid
