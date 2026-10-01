@@ -38,7 +38,6 @@
 	- Was meinst du mit direkt? - direkte interaction mit dem Detektor WIMPs können annhilieren
 - Möglichst einfach verständlich - dass wir diesen Massenbereich für die WIMPs 
 - Unterhalb vom GeV Bereich können die direkten suchen das nicht nachweisen - 
-- 
 
 
 High school students 
