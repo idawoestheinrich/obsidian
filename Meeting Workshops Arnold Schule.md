@@ -5,6 +5,7 @@
 - Sophia - Bachelor bei Lacker - sophia.sander@student.hu-berlin.de
 	- Unsicher 
 	- Jasmin 
+
 - Heiko Besprechen! 
 
 Wilhelmine - Seit dem IceCube Masterclass -1 Woche in Dresden 
