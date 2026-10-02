@@ -7,9 +7,36 @@ Then they appear—then disappear again.
 This is actually where they are. - Show the neutrinomass limits
 Explanation—the seesaw model—with the heavy Majorana mass.
 Show the Plot again 
+Transition to ship
 
 
+### Video 2: Matter-Antimatter Asymmetry
+- There are matter and antimatter particles swirling around in it
+    - They annihilate and emit each other
+- According to the Standard Model—nothing would be left
+- That’s the night sky we see—it would be practically black
+	- The Earth wouldn’t exist either
+- White space -
+- Why do we even exist? — Mark (?)
+- Leptogenesis — with the HNLs we’re looking for
+- How to explain leptogenesis — Matei has two 1-minute videos
 
+### Video 3: Light Dark Matter - Difficult
+- Not directly with HNLs
+- Previously, in a scattering detector, looking for a scattering signature - NA64++ is better at detecting mixing momentum
+    - If you see nothing - limit; if you see something - detection
+- We don’t just measure kinetic momentum; we’re also looking for radiation as well as coupling—epsilon^4 and its scale factor epsilon^2
+- Inelastic dark matter—with a second WW that we see, but other experiments don’t.
+- WIMP miracle—so far, we only know about dark matter through gravitational effects
+- If we have something that isn’t gravitational
+- Assuming only the weak interaction
+- How much was left after it decoupled—due to Hubble expansion / freeze-out
+- Depends on the cross section
+- GeV and 100 TeV—if it’s the weak interaction—how much mass/energy is present
+- Direct searches will always be in the GeV range—how much is transferred to my detector’s core?—at some point, I won’t be able to measure it anymore
+    - What do you mean by “direct”?—direct interaction with the detector; WIMPs can annihilate
+- As simply as possible—that we have this mass range for WIMPs
+- Below the GeV range, direct searches cannot detect it—
 
 
 
