@@ -7,4 +7,8 @@
 	- Jasmin 
 - Heiko Besprechen! 
 
+Wilhelmine - Seit dem IceCube Masterclass -1Woche in Dresden 
+CERN zusage - 10.12 - 
+
+-- Workshop -- 
 
