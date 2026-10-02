@@ -2,12 +2,12 @@
 - International Masterclasses Anfang nächsten Jahres
 - Nadja und Konrad
 
-- Sophia - Bachelor bei Lacker
+- Sophia - Bachelor bei Lacker - sophia.sander@student.hu-berlin.de
 	- Unsicher 
 	- Jasmin 
 - Heiko Besprechen! 
 
-Wilhelmine - Seit dem IceCube Masterclass -1Woche in Dresden 
+Wilhelmine - Seit dem IceCube Masterclass -1 Woche in Dresden 
 CERN zusage - 10.12 - 
 
 -- Workshop -- Europatag 
@@ -33,4 +33,6 @@ Was ich euch erkläre - Vielfalt
  - Dunkle Materie/ Wie viel ist Bekannt vom Universum 
 - Anfixen Masterclasses
 - Tatoos
+
+
 
