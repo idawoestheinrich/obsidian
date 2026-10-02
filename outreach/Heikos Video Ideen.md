@@ -1,3 +1,18 @@
+
+# Heikos Ideas
+### Video 1: Why do neutrinos have mass, and why is that mass so small?
+Plot the known fermion masses on a logarithmic scale. (or zoom into a scale to show the differences)
+ "You’d expect them to be roughly here". (at higher masses?)
+Then they appear—then disappear again.
+This is actually where they are. - Show the neutrinomass limits
+Explanation—the seesaw model—with the heavy Majorana mass.
+Show the Plot again 
+
+
+
+
+
+
 # Video 1: Warum haben neutrinos masse und warum ist diese Masse so klein?
 - Logarithmisch Plot Fermion Massen die man kennt,
 - Man würde erwarten, dass sie ungefähr hier liegen
