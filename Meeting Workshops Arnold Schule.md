@@ -21,19 +21,17 @@ Was ich euch erkläre - Vielfalt
 - CERN Film 
 - CERN interactives? 
 	- ATLAS VR anwendung
+	- Computer - Mainzer Spiele
+
 - Physik - Teilchen mit unterschiedlichen Eigenschaften 
 	- Film 
 	- Woraus bestehen wir und wie sind wir entstanden
 	- Woher kommen die Teilchen?
 	- Wir bestehen nur aus drei Teilchen
+		- -  Jenga
 	- Was tut das Standard Model 
 	
  - Dunkle Materie/ Wie viel ist Bekannt vom Universum 
-
-
 - Anfixen Masterclasses
-- Das Quartet spiel? - Jenga
-- Computer - Mainzer Spiele
-- Teilchomat vom DESY
 - Tatoos
 
