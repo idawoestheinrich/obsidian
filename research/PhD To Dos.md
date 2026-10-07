@@ -31,7 +31,7 @@ Till end of September:
 - [ ] Bring Code (and setup till end of October) to an end: 
 	- [x] Look at longterm Measurement with vs without WOM - 16.09.2026
 	- [x] at the measurements with covered reference - 16.09.2026
-	- [ ] and without collimator
+	- [x] and without collimator
 	- [ ] Test different WOMs form Freiburg and send it back
 	- [x] Perform two longterm measurements with and without WOM
 		- [x] Without WOM
@@ -60,14 +60,16 @@ Till end of September:
 - [ ] Correct 4-Cell Prototype Paper
 - [ ] Prepare Teaching Optic Tutorien
 - [x] Decide if you want to go and if you are allowed to go to [WISPP 2027](https://indico.cern.ch/event/1683986/)
-- [ ] Apply for funding for the next collaboration meeting - ask if it is possible to go to the next collaboration meeting 
+- [x] Apply for funding for the next collaboration meeting - ask if it is possible to go to the next collaboration meeting 
 - [x] Apply for Frauenförderung 
 - [ ] Löschen des Alten Ordners im SBT meeting besprechen
 - [ ] Feedback on SHiP Website
-- [ ] Reisekostenabrechnung Kaiserslautern 
-- [ ] Apply for DAAD funding https://www2.daad.de/ausland/studieren/stipendium/de/70-stipendien-finden-und-bewerben/?detail=50722601
+- [ ] Send Outreach Emails:
+	- [ ] 
+- [x] Reisekostenabrechnung Kaiserslautern 
+- [x] Apply for DAAD funding https://www2.daad.de/ausland/studieren/stipendium/de/70-stipendien-finden-und-bewerben/?detail=50722601
 
-- [x] Check on Maiks and Matthias Process
+- [ ] Check on Maiks and Matthias Process
 	- [x] Maik needs CAD files
 	- [x] Matthias will order and then need a week
 - [x] SHiP outreach talk - 15. September
