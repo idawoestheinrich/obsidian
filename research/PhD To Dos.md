@@ -65,7 +65,8 @@ Till end of September:
 - [ ] Löschen des Alten Ordners im SBT meeting besprechen
 - [ ] Feedback on SHiP Website
 - [ ] Reisekostenabrechnung Kaiserslautern 
-- [ ] 
+- [ ] Apply for DAAD funding https://www2.daad.de/ausland/studieren/stipendium/de/70-stipendien-finden-und-bewerben/?detail=50722601
+
 - [x] Check on Maiks and Matthias Process
 	- [x] Maik needs CAD files
 	- [x] Matthias will order and then need a week
