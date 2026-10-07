@@ -64,6 +64,8 @@ Till end of September:
 - [x] Apply for Frauenförderung 
 - [ ] Löschen des Alten Ordners im SBT meeting besprechen
 - [ ] Feedback on SHiP Website
+- [ ] Reisekostenabrechnung Kaiserslautern 
+- [ ] 
 - [x] Check on Maiks and Matthias Process
 	- [x] Maik needs CAD files
 	- [x] Matthias will order and then need a week
@@ -71,7 +73,7 @@ Till end of September:
 - [x] CAD files for Maik - 14. September
 - [x] Collaboration Meeting 14.-18.September
 - [x] Talk on SHiP for Physikerinnen Tagung
-- [ ] Videos - on SHiP 
+- [x] Videos - on SHiP 
 - [ ] Jakobs Arbeit mit PMMA slides sollte wiederholt werden - 
 	- [x] Von wem wurde das Spektrometer verwendet? - nicht in Jakobs Arbeit - PerkinElmer Lambda 950 spectrometer used in UV-Vis-NIR spectroscopy in the the SALSA Application lab at the HU which is supervised by Dr. Thomas Schmid
 	- [x] Haben wir noch unbeschichtete PMMA slides? 
