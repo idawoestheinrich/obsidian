@@ -23,7 +23,18 @@ Say in the beginning of the meeting: My task is to ....
 	- It would be the best to have the imput files
 - Pulser to pulse the SiPMs
 	- Emanuel
-	- 
+#### Tim : Glidges behind the time over threshold signal 
+
+- oscillations around the threshold? 
+- 25ns - 40MHz Clock 
+- Low threshold: Setting 5 from 36
+- Callibration input - can be set so that its feed a external input into the FastIC
+	- Exponential decay signa - Square Wave and a Saw tooth wave 
+	- Square Wave - all the glidges vanishes
+	- Saw tooth wave - slope variable - scan through different slope
+		- The lower the slope the more glidges
+![[Screenshot 2026-10-08 at 08.49.14.png]]
+
 
 # Thursday 20260813
 
