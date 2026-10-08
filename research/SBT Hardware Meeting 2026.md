@@ -9,6 +9,13 @@ maxScale: 6
 ---
 Say in the beginning of the meeting: My task is to ....  
 
+# Thursday 20261008
+- Digital branch/Time Branch/TDC branch
+- Understand before writing the annual report
+- We have done these studies 
+- Limits in rates - manual 1MHz - if you just program it its way lower
+- Half a microsecond
+
 # Thursday 20260813
 
 - 

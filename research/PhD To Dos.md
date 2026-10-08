@@ -66,7 +66,10 @@ Till end of September:
 - [ ] CheapCal Paper - Oslo University - *Tunable Light Scattering in Cast Organic Scintillators via BaSO44​ Nanoparticle Doping: A Short Summary*
 - [ ] Feedback on SHiP Website
 - [ ] Send Outreach Emails:
-	- [ ] 
+	- [ ] IPPOG
+	- [ ] CERN website
+	- [ ] article
+- [ ] Create Slides for the Workshop on Tuesday 
 - [x] Reisekostenabrechnung Kaiserslautern 
 - [x] Apply for DAAD funding https://www2.daad.de/ausland/studieren/stipendium/de/70-stipendien-finden-und-bewerben/?detail=50722601
 
