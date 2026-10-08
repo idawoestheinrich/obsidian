@@ -30,7 +30,7 @@ Was ich euch erkläre - Vielfalt
 - 10 min Beschleuniger Spiel? 
 	- Worauf musstet ihr achten? Was war schwierig?
 	- Lorenzkraft erklären - geladene Teilchen auf Kreisbahn - Beschleuniger aus elektrischen und Magnetischen Feldern
-
+20 min 
 - Physik - Teilchen mit unterschiedlichen Eigenschaften 
 	- Film 
 	- Woraus bestehen wir und wie sind wir entstanden
@@ -38,7 +38,7 @@ Was ich euch erkläre - Vielfalt
 	- Wir bestehen nur aus drei Teilchen
 		-  Jenga
 	- Was tut das Standard Model? 
-	
+
  - Dunkle Materie/ Wie viel ist Bekannt vom Universum 
 - Anfixen Masterclasses
 - Tatoos
