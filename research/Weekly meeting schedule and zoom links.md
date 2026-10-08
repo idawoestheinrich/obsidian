@@ -22,13 +22,14 @@ aliases:
 	- [indico link](https://indico.cern.ch/event/1544376/)
 11:00 zoom [[SHiP Outreach Meetings]]
 	- [zoom link](https://cern.zoom.us/j/67855613495?pwd=etZaNBbrob75oyGBkx336GyRfNMub5.1)
-12:00 2.427/zom [[HU Meetings|HU Analysis meeting]]
-	-  [zoom link](https://cern.zoom.us/j/66351165789?pwd=azdoNXNPZWlaUG5uSVBSTlFhcFliQT09)
+
 #### Wednesday
 08:00 zoom [[SBT Analysis Meeting 2026|SBT Software & Analysis]]
 	- [zoom link](https://hu-berlin.zoom.us/j/92231926662?pwd=enNSY2w3eXZFbm05SlRvTFpLaWhkZz09) password `330255`
 	- [indico link](https://indico.cern.ch/e/1570759)
 	- [[SBT Analysis Meeting 2025]]
+10:00 2.427/zom [[HU Meetings|HU Analysis meeting]]
+	-  [zoom link](https://cern.zoom.us/j/66351165789?pwd=azdoNXNPZWlaUG5uSVBSTlFhcFliQT09)
 #### Thursday
 9:00 zoom [[SBT Hardware Meeting 2026]]
 	- [[SBT Hardware Meeting 2025]]
