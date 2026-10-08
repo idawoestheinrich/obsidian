@@ -1,3 +1,11 @@
+---
+tags:
+  - context/Particle_Physics_Workshop_2026
+aliases:
+date:
+---
+Stefan Schaefer
+
 Lattice QCD calulations are Marcov Chain MC Calulations
 - Most of the time solving Dirac Equations- millions of times 
 - Compute nearest neighbors differences 
@@ -9,5 +17,16 @@ CPU a few 10 cores and very large main memory
 - Fast clock speed
 - Carfull memory access
 GPUs are quit e differnt - 16 000 cores with limited memory
-- The cores have lower clock spee
+- The cores have lower clock speed
 Structure the problem in a way that all of these cores are busy all the time 
+Single instruction multiple threads
+
+Streaming Multiprocessors
+- Memory access is organised in requests of 32bytes.
+- The accesses of all threads from a warp are **coalesced** together.
+
+Code to port 
+- from one big loope aver all data to launching many threads (N_blocksxN_threads)
+
+Strategy
+- be carful 
