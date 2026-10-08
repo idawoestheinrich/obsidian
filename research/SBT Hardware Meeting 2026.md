@@ -22,7 +22,7 @@ Say in the beginning of the meeting: My task is to ....
 	- Detector side simulation will need the numbers - One WOM, 2 WOM, 1 Container (12 WOMs) 
 	- It would be the best to have the imput files
 - Pulser to pulse the SiPMs
-- 
+	- Emanual
 
 # Thursday 20260813
 
