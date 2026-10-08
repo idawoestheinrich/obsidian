@@ -63,6 +63,7 @@ Till end of September:
 - [x] Apply for funding for the next collaboration meeting - ask if it is possible to go to the next collaboration meeting 
 - [x] Apply for Frauenförderung 
 - [ ] Löschen des Alten Ordners im SBT meeting besprechen
+- [ ] CheapCal Paper - Oslo University - 
 - [ ] Feedback on SHiP Website
 - [ ] Send Outreach Emails:
 	- [ ] 
