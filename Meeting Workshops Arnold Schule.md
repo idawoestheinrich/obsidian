@@ -13,15 +13,23 @@ CERN zusage - 10.12 -
 
 -- Workshop -- Europatag 
 80 min füllen - Bindung ist das aller wichtigste
+
+15 Min 
  - Teilchomat vom DESY
 - Vorstellungsrunde 
 Was ich euch erkläre - Vielfalt 
 - Erst über mich 
+
+10-20 min
 - Dann über CERN - Was ist das? Wie viele Länder - Internationale Zusammenarbeit  - Geschichten aus dem Alltag als Wissenschaftler
 - CERN Film 
 - CERN interactives? 
 	- ATLAS VR Anwendung
 	- Computer - Mainzer Spiele
+	- 
+- 10 min Beschleuniger Spiel? 
+	- Worauf musstet ihr achten? Was war schwierig?
+	- Lorenzkraft erklären - geladene Teilchen auf Kreisbahn - Beschleuniger aus elektrischen und Magnetischen Feldern
 
 - Physik - Teilchen mit unterschiedlichen Eigenschaften 
 	- Film 
