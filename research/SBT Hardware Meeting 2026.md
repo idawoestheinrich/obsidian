@@ -21,7 +21,8 @@ Say in the beginning of the meeting: My task is to ....
 - Leonardo will start a bachelor thesis - data path from the detector to the FastIC - get feeling of buffer sizes and rates
 	- Detector side simulation will need the numbers - One WOM, 2 WOM, 1 Container (12 WOMs) 
 	- It would be the best to have the imput files
-	- 
+- Pulser to pulse the SiPMs
+- 
 
 # Thursday 20260813
 
