@@ -29,4 +29,8 @@ Code to port
 - from one big loope aver all data to launching many threads (N_blocksxN_threads)
 
 Strategy
-- be carful 
+- be carful that they don't interfere 
+- If you start from a CPU code - check interation for iteration
+Is it worth it? 
+- For the QCD lattice very efficient kernels have been implemented
+- New GPUs code uses 1/10 of the energy 
