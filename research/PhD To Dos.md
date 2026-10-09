@@ -63,7 +63,7 @@ Till end of September:
 - [x] Apply for funding for the next collaboration meeting - ask if it is possible to go to the next collaboration meeting 
 - [x] Apply for Frauenförderung 
 - [ ] Löschen des Alten Ordners im SBT meeting besprechen
-- [ ] CheapCal Paper - Oslo University - *Tunable Light Scattering in Cast Organic Scintillators via BaSO44​ Nanoparticle Doping: A Short Summary*
+- [x] CheapCal Paper - Oslo University - *Tunable Light Scattering in Cast Organic Scintillators via BaSO44​ Nanoparticle Doping: A Short Summary*
 - [ ] Feedback on SHiP Website
 - [ ] Send Outreach Emails:
 	- [ ] IPPOG
