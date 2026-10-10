@@ -43,8 +43,6 @@ Das Besondere am CERN-Modell: Wissenschaftlerinnen und Wissenschaftler bleiben h
 
 So müssen die Länder ihre Forschungstalente nicht voneinander trennen. Sie können gemeinsam an Fragen arbeiten, die für alle von Bedeutung sind.
 
-Die Anlagen werden immer größer. Teile der Beschleuniger reichen auf französisches Gebiet – das CERN wird zu einem grenzüberschreitenden Forschungslabor.
-
 Besonders bemerkenswert ist das während des Kalten Krieges. Obwohl sich westliche Staaten und die Sowjetunion politisch gegenüberstehen, arbeiten Wissenschaftler aus diesen Ländern am CERN gemeinsam an wissenschaftlichen Fragen.
 
 Die Forschung schafft damit einen Raum, in dem Zusammenarbeit trotz politischer Spannungen möglich ist.
