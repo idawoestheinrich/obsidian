@@ -45,4 +45,18 @@ Klausur:
 - zur Hälfte aus Präsenzübungen
 - Lernen muss nicht sein, wenn man sich an das Vorlesungsprogram hält
 - Ziel: <30% Durchfallquote
-- Hermann Schulz - Pädagogik hat bei anderen 
+- Hermann Schulz 
+	- Pädagogik hat bei anderen wenig eine Rolle gespielt
+
+S-
+
+
+
+
+
+
+
+
+
+
+
