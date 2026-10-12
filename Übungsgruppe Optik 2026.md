@@ -15,7 +15,7 @@ Schwierigkeiten mit Deutsch
 - **Quantenphänomene: Licht als Welle und Teilchen** 
 - Differentialgleichungen 
 
-Übungen besprechen: 
+**Übungen besprechen:** 
 - Hausübungen besprechen
 	- Es gibt meistens eine Leichte und eine Schwere Aufgabe - Konzentriert euch auf die, wo es Schwerigkeiten gab
 - Eine Übungsaufgabe von Studierenden vorrechnen lassen + 
