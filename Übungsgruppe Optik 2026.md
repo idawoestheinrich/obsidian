@@ -35,10 +35,9 @@ Herleitung von Kramers Tonik
 - Bei der ersten wird das PDF nachher zu verfügung gestellt
 
 
+- [HU - Box mit Lösungen](https://box.hu-berlin.de/library/be522507-b96b-4a5e-91c7-bfac2565d42d/Lösungen/Präsenzübung1)
+- Mathematika Lizenz Besorgen 
 
-
-
-
-
-
-
+Tutorial: 
+	- Direkt nach Corona eingeführt 
+	- 
