@@ -2,6 +2,7 @@ Zugangskarte - New14 - Sekretärin
 - Schlüsselbox LCP. 1.13 11-13 Gruppe I
 - Schlüsselbox LCP. 1.11 15-17 Gruppe II
 Mittwoch - Vorlesung - Vorstellung 15:15-17:00 Uhr, Gerthsen-Hörsaal
+Mittwoch 11-13 Uhr
 
 Schwierig - 24 Plätze x 3 
 62 im Moodle
@@ -52,6 +53,8 @@ S-Professur - macht das Freiwillig
 
 Beugungslimit - Heisenberg 
 Vorlesung - im Tutorium: Klima
+**Strahlungsdruck**
+
 
 
 
