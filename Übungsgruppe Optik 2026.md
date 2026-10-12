@@ -31,6 +31,8 @@ Versuch im Lorenzoszillator zu bleiben
 30-35% der Übungen insgeamt 
 Herleitung von Kramers Tonik 
 
+- Lösungen - Musterlösung aus dem vorherigen Semester
+- Bei der ersten wird das PDF nachher zu verfügung gestellt
 
 
 
