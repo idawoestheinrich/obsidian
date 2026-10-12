@@ -1,3 +1,5 @@
+
+0.26 
 # CERN – Wie Europa gemeinsam die Geheimnisse des Universums erforscht
 
 ## 1. Ein Neuanfang für die Wissenschaft in Europa
