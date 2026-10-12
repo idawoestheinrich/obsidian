@@ -25,6 +25,12 @@ Schwierigkeiten mit Deutsch
 - Sonntagsabends ist Abgabe
 - 2-4 Personen in Gruppenabgabe 
 
+Versuch im Lorenzoszillator zu bleiben 
+- Fouriertheorem ist die schlaue art den Harmonischen Oszillator
+
+30-35% der Übungen insgeamt 
+Herleitung von Kramers Tonik 
+
 
 
 
