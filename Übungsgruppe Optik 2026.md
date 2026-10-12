@@ -1,7 +1,6 @@
 Zugangskarte - New14 - Sekretärin 
 - Schlüsselbox LCP. 1.13 11-13 Gruppe I
 - Schlüsselbox LCP. 1.11 15-17 Gruppe II
-
 Mittwoch - Vorlesung - Vorstellung 15:15-17:00 Uhr, Gerthsen-Hörsaal
 
 Schwierig - 24 Plätze x 3 
@@ -39,5 +38,11 @@ Herleitung von Kramers Tonik
 - Mathematika Lizenz Besorgen 
 
 Tutorial: 
-	- Direkt nach Corona eingeführt 
-	- 
+- Direkt nach Corona eingeführt 	
+- Nichtlineare Optik 
+- Fourier Transformation
+Klausur: 
+- zur Hälfte aus Präsenzübungen
+- Lernen muss nicht sein, wenn man sich an das Vorlesungsprogram hält
+- Ziel: <30% Durchfallquote
+- Hermann Schulz - Pädagogik hat bei anderen 
