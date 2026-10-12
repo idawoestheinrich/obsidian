@@ -48,8 +48,10 @@ Klausur:
 - Hermann Schulz 
 	- Pädagogik hat bei anderen wenig eine Rolle gespielt
 
-S-
+S-Professur - macht das Freiwillig 
 
+Beugungslimit - Heisenberg 
+Vorlesung - im Tutorium: Klima
 
 
 
