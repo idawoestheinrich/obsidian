@@ -5,4 +5,18 @@ Zugangskarte - New14 - Sekretärin
 Mittwoch - Vorlesung - Vorstellung 
 
 Schwierig - 24 Plätze x 3 
-62 im 
+62 im Moodle
+
+- Präsentsübungen sind auch häufig Klausurübungen
+- Hausübungen - Vorrechnen in 
+
+
+
+
+
+
+
+
+
+
+
