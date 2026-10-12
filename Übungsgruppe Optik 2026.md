@@ -18,10 +18,12 @@ Schwierigkeiten mit Deutsch
 Übungen besprechen: 
 - Hausübungen besprechen
 	- Es gibt meistens eine Leichte und eine Schwere Aufgabe - Konzentriert euch auf die, wo es Schwerigkeiten gab
-	- Präsentsübungen
-- Eine Übungsaufgabe von Studierenden vornehmen 
+- Eine Übungsaufgabe von Studierenden vorrechnen lassen + 
+	- Sie bekommen die Punkte Extra, die sie vorrechnen lassen
 	- Es ist aber viel besser, das in den Übungen zu üben
-- P
+- Präsentzübungen - mit den Studierenden gemeinsam  die Aufgaben in Schritt für Schritt lösen
+- Sonntagsabends ist Abgabe
+- 2-4 Personen in Gruppenabgabe 
 
 
 
