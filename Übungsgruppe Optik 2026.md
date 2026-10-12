@@ -11,8 +11,17 @@ Schwierig - 24 Plätze x 3
 Schwierigkeiten mit Deutsch 
 
 72 Plätze - 40 Leute
+- Genügend Zeit für das letzte Kapitel
+- **Quantenphänomene: Licht als Welle und Teilchen** 
+- Differentialgleichungen 
 
-
+Übungen besprechen: 
+- Hausübungen besprechen
+	- Es gibt meistens eine Leichte und eine Schwere Aufgabe - Konzentriert euch auf die, wo es Schwerigkeiten gab
+	- Präsentsübungen
+- Eine Übungsaufgabe von Studierenden vornehmen 
+	- Es ist aber viel besser, das in den Übungen zu üben
+- P
 
 
 
