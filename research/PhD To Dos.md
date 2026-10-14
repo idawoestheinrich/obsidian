@@ -23,7 +23,7 @@ Thank for questions after a talk and thank for the talk when asking questions.
 *Don't take on too many things at once. Prioritize well.*
 
 ### Notes
-Till end of September: 
+Till end of October: 
 - [x] Matei fragen ob wir ALP zerfälle im neuen Framework 
 	- LEPTO -DIS? Wirkungsquerschnitt steigt mit $1/q^2$ es sollten viel mehr scattering geben, der nicht tiefineleastisch ist. Resonate Production der Formfaktor bei $q^2 = 0$ ist 1- der integrierete wirkungsquerschnitt kann nicht divergieren 
 	- besorgt über den teil der nicht drin ist 
@@ -69,11 +69,11 @@ Till end of September:
 	- [ ] IPPOG
 	- [ ] CERN website
 	- [ ] article
-- [ ] Create Slides for the Workshop on Tuesday 
+- [x] Create Slides for the Workshop on Tuesday 
 - [x] Reisekostenabrechnung Kaiserslautern 
 - [x] Apply for DAAD funding https://www2.daad.de/ausland/studieren/stipendium/de/70-stipendien-finden-und-bewerben/?detail=50722601
 
-- [ ] Check on Maiks and Matthias Process
+- [x] Check on Maiks and Matthias Process
 	- [x] Maik needs CAD files
 	- [x] Matthias will order and then need a week
 - [x] SHiP outreach talk - 15. September
