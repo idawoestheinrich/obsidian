@@ -23,6 +23,9 @@ Thank for questions after a talk and thank for the talk when asking questions.
 *Don't take on too many things at once. Prioritize well.*
 
 ### Notes
+- [ ] Mich hier bewerben Das Mentoring-Programm der Stiftung Werner-von-Siemens-Ring
+- [ ] Checken, ob mit der DAAD alles klar geht.
+
 Till end of October: 
 - [x] Matei fragen ob wir ALP zerfälle im neuen Framework 
 	- LEPTO -DIS? Wirkungsquerschnitt steigt mit $1/q^2$ es sollten viel mehr scattering geben, der nicht tiefineleastisch ist. Resonate Production der Formfaktor bei $q^2 = 0$ ist 1- der integrierete wirkungsquerschnitt kann nicht divergieren 
