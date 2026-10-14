@@ -118,3 +118,80 @@ Und genau deshalb passt CERN so gut zum Europatag.
 Zum Abschluss eine Frage an euch:
 
 **Welche Herausforderungen unserer Zeit könnten wir besser lösen, wenn Länder in Europa und auf der ganzen Welt stärker zusammenarbeiten würden?**
+
+
+Europa erholt sich noch immer vom Zweiten Weltkrieg. Alles muss wieder aufgebaut werden. Um die Grundlagenforschung wiederzubeleben und den Braindrain zu stoppen, muss sich Europa mit modernen Forschungseinrichtungen ausstatten. 
+
+Nur ein gut ausgestattetes Labor zieht Experimentalphysiker an, verhindert die Zersplitterung europäischer Talente und weckt verborgene Kräfte.
+
+1952 wird unter der Schirmherrschaft der UNESCO der „Conseil Européen pour la Recherche Nucléaire“ gegründet. Das Akronym CERN entsteht. 
+
+1953 wird die CERN-Konvention unterzeichnet. Sie legt fest, dass die durchgeführten Forschungsarbeiten rein wissenschaftlicher Natur sein müssen, nicht für militärische Zwecke genutzt werden dürfen und dass alle Ergebnisse veröffentlicht werden müssen. 
+
+1954 beginnen die Bauarbeiten in der Genfer Umgebung, und die Konvention wird von den zwölf Gründungsländern ratifiziert. 
+
+- Wo würdet ihr eine solche anlage Hinbauen direkt nach dem 2.Weltkrieg?
+
+Der Standort wurde vor allem wegen der Neutralität der Schweiz gewählt, die Schutz vor der Zweckentfremdung von Forschungsgeldern zu militärischen Zwecken bietet. Zur Zeit der Gründung der Organisation 1954 hatte gerade der Kalte Krieg begonnen. Die Schweiz hat aber auch andere Vorteile: die zentrale Lage in Europa, eine langjährige Tradition als Gaststaat internationaler Organisationen und ein stabiles Umfeld, eine unabdingbare Voraussetzung für langfristig angelegte Experimente und den Aufbau einer nachhaltigen Infrastruktur. Die Ergründung der Naturgesetze ist nämlich eine langwierige Angelegenheit. Die Ergründung der Naturgesetze ist nämlich eine langwierige Angelegenheit.
+
+  
+
+Das CERN liegt in Meyrin bei Genf an der schweizerisch-französischen Grenze. Es beschäftigt fast 3200 Mitarbeiterinnen und Mitarbeiter und zählt 25 Mitgliedstaaten. Mit Ausnahme Israels sind es alles europäische Länder. Die Aktivitäten des CERN machen jedoch nicht an den Grenzen des alten Kontinents halt. Insgesamt sind rund 17’500 Wissenschaftlerinnen und Wissenschaftler an der Forschung des CERN beteiligt. Sie vertreten 600 Institute und Universitäten, 70 Länder und 110 Nationalitäten. Das ist die Hälfte der Teilchenphysiker der Welt!
+
+  
+
+Die Europäische Organisation für Kernforschung wird gegründet, doch das Akronym CERN bleibt bestehen. 
+
+Nach dem CERN-Modell bleiben die Physiker bei ihren nationalen Instituten angestellt, können jedoch die von der Organisation bereitgestellten Geräte nutzen. Jedes Land kann so seine besten Köpfe behalten. Die Aktivitäten des Labors entwickeln sich rasch. 
+
+Die immer größer werdenden Beschleuniger erstrecken sich bald bis auf französisches Gebiet, sodass das CERN zum weltweit ersten grenzüberschreitenden Labor wird – ein hervorragendes Symbol für Wissenschaft, die sich nicht von nationalen Grenzen einschränken lässt. 
+
+Der rein wissenschaftliche Charakter der Forschung zieht Physiker aus vielen Nationen an, trotz der politischen Spannungen zwischen ihnen. 
+
+Während des Kalten Krieges ist das CERN einer der wenigen Orte weltweit, an denen westliche und sowjetische Wissenschaftler Seite an Seite arbeiten. 
+
+Den Idealen seiner Gründer folgend, trägt das Labor zur Stärkung des Friedens in Europa bei. Die Einrichtungen des CERN ziehen auch Wissenschaftler aus anderen Kontinenten an. 
+
+Ab den 1980er Jahren markieren der LEP (Large Electron-Positron Collider) und später sein Nachfolger, der LHC (Large Hadron Collider) – beide von bisher unerreichter Größe und Komplexität – eine neue Etappe in der Globalisierung der Teilchenphysik.
+
+Neue Länder tauchen auf der Karte der CERN-Kooperationspartner auf. 
+
+Talent und Fachwissen kennen keine Grenzen.
+
+1989 erfand der britische CERN-Physiker Tim Berners-Lee das World Wide Web, zu dessen Applikationen das Internet gehört. Ziel war es ursprünglich, den Informationsaustausch zwischen den Forscherinnen und Forschern zu erleichtern, die am zentralen Auftrag dieses namhaften Labors für Grundlagenphysik beteiligt sind: der Entschlüsselung der Gesetze des Universums.
+
+  
+
+Ein Teilchenbeschleuniger ist ein Gerät, in dem Teilchen in gerader Linie oder in einer Umlaufbahn auf grosse Geschwindigkeiten beschleunigt werden und dann zusammenprallen. Das Ergebnis der Kollisionen wird anschliessend von Detektoren analysiert. Der am 10. September 2008 in Betrieb genommene LHC ist der leistungsstärkste Teilchenbeschleuniger, der je gebaut wurde. Sein unterirdischer Ring ist 27 Kilometer lang, und die von supraleitenden Magneten in der Bahn gehaltenen Teilchen erreichen nahezu Lichtgeschwindigkeit. Der geplante Nachfolger des LHC könnte unter dem Genfersee verlaufen.
+
+  
+
+Die Komponenten des LHC und seiner Experimente werden von den besten Industrieunternehmen der Welt hergestellt. 
+
+Und umgekehrt sendet der LHC seine Daten an Rechenzentren in Dutzenden verschiedener Länder. 
+
+  
+
+Dank dem LHC konnte 2012 das 1964 postulierte Higgs-Boson nachgewiesen werden. Das sogenannte Gottesteilchen wird mit dem Brout-Englert-Higgs-Feld in Verbindung gebracht, das vereinfacht gesagt den ganzen leeren Raum um uns herum und im All ausfüllt, so dass die Elementarteilchen Masse erhalten
+
+  
+
+Das Higgs-Boson war das letzte Puzzleteil des in den 1970er-Jahren entwickelten Standardmodells der Teilchenphysik. Es beschreibt die Materieteilchen und drei der vier Grundkräfte des Universums – einschliesslich des Elektromagnetismus, aber ohne Gravitation. Es handelt sich also um eine bahnbrechende Entdeckung. Aber die Arbeit geht weiter.
+
+  
+
+  
+
+Heute ist das CERN ein wahrhaft kosmopolitisches Labor, in dem mehr als 10.000 Forscher aus über 100 verschiedenen Nationen Ideen austauschen und zusammenarbeiten.  
+
+Seit 1954 ermöglicht das CERN den Nationen, sich über die Sprache der Wissenschaft zu verständigen. Sein Kooperationsmodell, das ursprünglich zur Wiederherstellung der Forschungskapazitäten Europas konzipiert wurde, hat mittlerweile globale Ausmaße angenommen und gilt nach wie vor als Vorbild für andere.
+
+  
+
+  
+
+Still recovering from the Second World War. Everything needs to be rebuilt. To revive fundamental research and to stop the brain drain, Europe needs to equip itself with modern research facilities. Only
+
+A well-equipped laboratory attracts experimental physicists, avoids the dispersion of European talents, and evokes the appearance of latent forces.
+
+In 1952, under the auspices of UNESCO, the Conseil Européen pour la Recherche Nucléaire is founded. The acronym CERN is born. The CERN Convention is signed in 1953. It stipulates that the research carried out must be purely scientific, not used for military applications, and that all results must be made public. In 1954, construction begins in the Geneva countryside, and the convention is ratified by the 12 founding countries. The European Organization for Nuclear Research is created, but the acronym CERN remains. Under the CERN model, physicists remain employed by their national institutes, but can use the tools that the organization provides Each country is able to keep its best minds. The laboratory's activities develop quickly. The increasingly large accelerators soon extend into French territory, so CERN becomes the world's first cross-border laboratory, an excellent symbol of science unconstrained by national borders. The purely scientific nature of the research attracts physicists from many nations, despite the political tensions between them. During the Cold War, CERN is one of the few places in the world where Western and Soviet scientists work side by side. Following the ideals of its founders, the laboratory contributes to strengthening peace in Europe. CERN's facilities also attract scientists from other continents. From the 1980s, LEP, the Large Electron Positron Collider, and later its successor, the LHC, or Large Hadron Collider, each of a size and complexity never previously seen, mark a new stage in the globalization of particle physics. New countries appear on the map of CERN's collaborators. Talent and expertise know no boundaries. The components of the LHC and its experiments are manufactured by the best industries in the world. And in the other direction, the LHC sends its data to computing centers in dozens of different countries. Today, CERN is a truly cosmopolitan laboratory where more than 10,000 researchers of over 100 different nationalities exchange ideas and work together. Since 1954, CERN has allowed nations to communicate through the language of science. Its model of cooperation, originally dreamt up to rebuild Europe's research capabilities, has now become global and remains an example to others.
