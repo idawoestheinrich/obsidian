@@ -25,6 +25,7 @@ Thank for questions after a talk and thank for the talk when asking questions.
 ### Notes
 - [ ] Mich hier bewerben Das Mentoring-Programm der Stiftung Werner-von-Siemens-Ring
 - [ ] Checken, ob mit der DAAD alles klar geht.
+- [ ] Plot in Git Hochladen
 
 Till end of October: 
 - [x] Matei fragen ob wir ALP zerfälle im neuen Framework 
