@@ -121,9 +121,9 @@ Quality Control and WOMs:
 - [ ] Neuen PCB - Temperatur stabilisierte SiPMs
 	- NTC kompensiert die Temperatur 
 - [x] WOM coating lernen
-	- [ ] Neuen Kunstoffreihniger bestellen
-	- [ ] Neues Tolorol
-	- [ ] Irgendwann neue Komponenten für Farbe (reicht noch für ca. 2L)
+	- [x] Neuen Kunstoffreihniger bestellen
+	- [x] Neues Tolorol
+	- [x] Irgendwann neue Komponenten für Farbe (reicht noch für ca. 2L)
 	- Coating speed aktuell 500mm/min - einfach geraten nicht vertifiziert
 	- [ ] Untere Farbe entfernen - automatisiert - auch mit dem Dip coater?
 		- [ ] Deckel mit eingebauter schale - die ebenfalls einen Deckel hat
