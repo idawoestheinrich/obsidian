@@ -44,8 +44,8 @@ Till end of October:
 		- [ ] Messungen mit verschiedenener HV PMT +- 10V 
 	- [x] Infrared camera - next Year
 	- [ ] Implement longer before measurement
-	- [ ] Du könntest die Daten noch komprimieren, was bis zu 50% spart und nicht wirklich länger dauert: [https://numpy.org/devdocs/reference/generated/numpy.savez_compressed.html](https://numpy.org/devdocs/reference/generated/numpy.savez_compressed.html)
-	- [ ] Und die ADC-Daten als short abspeichern (2 statt 4 bytes), das wären noch einmal 50% weniger
+	- [x] Du könntest die Daten noch komprimieren, was bis zu 50% spart und nicht wirklich länger dauert: [https://numpy.org/devdocs/reference/generated/numpy.savez_compressed.html](https://numpy.org/devdocs/reference/generated/numpy.savez_compressed.html)
+	- [x] Und die ADC-Daten als short abspeichern (2 statt 4 bytes), das wären noch einmal 50% weniger
 	- [ ] wom_quality_control repository füllen
 		- [x] WOMqc class aufteilen
 		- [ ] Doku
