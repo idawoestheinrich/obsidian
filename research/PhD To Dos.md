@@ -43,7 +43,7 @@ Till end of October:
 	- [x] Perform two longterm measurements with and without WOM
 		- [x] Without WOM
 		- [x] With WOM (Monday 31.08 - afternoon)
-	- [ ] next step: - compute grouped_mean so that it can act on all the different qc.integrated data, etc. 
+	- [x] next step: - compute grouped_mean so that it can act on all the different qc.integrated data, etc. 
 	- [ ] Monitor High Voltage on PMT
 		- [ ] Messungen mit verschiedenener HV PMT +- 10V 
 	- [x] Infrared camera - next Year
