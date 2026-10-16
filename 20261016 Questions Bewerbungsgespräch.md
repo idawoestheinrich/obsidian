@@ -134,3 +134,6 @@
 - no questions
 
 # Aidan Molloy
+- Coumarin 7 and Coumarin 6 flour
+- Knows the lifetimes of the current wavelength shifters
+- 
