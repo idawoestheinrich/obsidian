@@ -82,4 +82,9 @@
 - AI for Coding - Typos etc.
 - One drive folder - that was all of the data collected 
 - Zotero - for papers 
-- Did 
+- Weekly group meetings 
+- August - conference
+- Supervisor - did not have a phd students/Postdoc 
+- I would like to be pushed 
+- Set deadlines 
+- 

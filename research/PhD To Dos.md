@@ -28,6 +28,7 @@ Thank for questions after a talk and thank for the talk when asking questions.
 - [ ] Plot in Git Hochladen
 - [ ] Think of a better way to do documentation!
 	- [ ] Powerpoint presentations or PDFs!
+-  [ ] Set deadlines 
 
 Till end of October: 
 - [x] Matei fragen ob wir ALP zerfälle im neuen Framework 
