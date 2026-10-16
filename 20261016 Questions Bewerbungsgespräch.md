@@ -54,10 +54,13 @@
 - Challenges in the Dip-Coating Process? Delicate - what is the plan to scale this up?
 - Biggest Challenge is the Storage - Temperature stability 
 - Develop something new  - test dip-coating with WOMs
-
+![[Screenshot 2026-10-16 at 10.13.23.png]]
 
 # Karin Samokovlisky 
 - Add bis-MSB 
 - Gives different options - and their decay times
-- Example for a
+- Example for a Nano particle:
 ![[Screenshot 2026-10-16 at 12.04.59.png]]
+- LS more transparent at higher wavelength 
+- Longterm transparency - we could even avoid purefing 
+- 
