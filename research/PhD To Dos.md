@@ -26,12 +26,14 @@ Thank for questions after a talk and thank for the talk when asking questions.
 - [ ] Mich hier bewerben Das Mentoring-Programm der Stiftung Werner-von-Siemens-Ring
 - [ ] Checken, ob mit der DAAD alles klar geht.
 - [ ] Plot in Git Hochladen
+- [ ] Think of a bett
 
 Till end of October: 
 - [x] Matei fragen ob wir ALP zerfälle im neuen Framework 
 	- LEPTO -DIS? Wirkungsquerschnitt steigt mit $1/q^2$ es sollten viel mehr scattering geben, der nicht tiefineleastisch ist. Resonate Production der Formfaktor bei $q^2 = 0$ ist 1- der integrierete wirkungsquerschnitt kann nicht divergieren 
 	- besorgt über den teil der nicht drin ist 
 	- Was macht das Hadronische System im Endzustand
+
 - [ ] Bring Code (and setup till end of October) to an end: 
 	- [x] Look at longterm Measurement with vs without WOM - 16.09.2026
 	- [x] at the measurements with covered reference - 16.09.2026

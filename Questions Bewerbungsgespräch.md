@@ -2,6 +2,8 @@
 - Which achivemnet in your Master thesis are you most proud of?
 - Can you shortly summarize what your experiences are in detector physics and computation?
 - What are you enjoying most in your work?
+- Do you use AI for your work and if yes for what purpose?
+- How did you organize yourself in your master thesis? Time management? Documentation?
 ### Nicolas Avila
 - Detailed Presentation with References
 - Eljen EL-298G - Absorbs blue light 400 - 440nm from bis-MSB 
@@ -19,4 +21,10 @@
 - Programming in Data Management and development - C++, Python and ROOT
 	- Some Java Script for Webdevelopment 
 - Validation of Simulation
-- Lab work - very important - Not f
+- Lab work - very important - Not fun? 
+-  How was the data aqusition done?
+	- Connecting via webinterface 
+	- Differnt pulsshapes in differnt materials - several radiation sources and 
+	- 14bis analog to digital converter - selfmade by the group
+	- Triggering?
+- 
