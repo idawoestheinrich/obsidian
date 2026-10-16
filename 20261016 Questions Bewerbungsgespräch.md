@@ -55,3 +55,6 @@
 - Biggest Challenge is the Storage - Temperature stability 
 - Develop something new  - test dip-coating with WOMs
 
+
+# Karin Samokovlisky 
+
