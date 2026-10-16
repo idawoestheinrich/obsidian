@@ -13,7 +13,9 @@
 - Have you done presentations at workshops and conferences?
 - Have you ever contributed to a publication?
 	- Did you find the write up difficult 
-
+- Do you have other application running?
+	- In similar context? 
+- When would you be ready to start?
 
 ### Nicolas Avila
 - Detailed Presentation with References
@@ -45,5 +47,10 @@
 - Anima - conference/ Workshop organized by the university 
 - Has written a paper already 
 - Currently unemployed
-- Before software development - buildings in Germany - geometry inroa
+- Before software development - buildings in Germany - geometry information 
+- Ready as soon as possible
+
+- Position: How would the work be split between hardware/instrumentation 
+- Challenges in the Dip-Coating Process? Delicate - what is the plan to scale this up?
+- Biggest Challenge is the Storage - temperature
 
