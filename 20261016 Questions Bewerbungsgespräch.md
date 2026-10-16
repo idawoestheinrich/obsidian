@@ -61,6 +61,12 @@
 - Gives different options - and their decay times
 - Example for a Nano particle:
 ![[Screenshot 2026-10-16 at 12.04.59.png]]
+- Nanostructured organosilicon luminophores
+- 500 is fine 
 - LS more transparent at higher wavelength 
+- What is the decay time in the experiment? LS - also known from Juno - several nanoseconds - for the WOM its driven by the bis-MSB -- 2ns
 - Longterm transparency - we could even avoid purefing 
-- 
+- Seperate Cherencov from Scintillation 
+- What else should we consider if we test a new Wavelengthshifter: 
+	- How much of each and what solvent
+	- Compartib
