@@ -154,5 +154,9 @@
 - Created some code to calibrating 
 - Enjoyes the learning new things and put them into application 
 - Notes in a Note Pad
-- 
+- Weekly Meetings work with this person 
+- Would ask the Bachelor Students what their needs are 
+- Testbeam Campains 
+	- Know how? 
+	- 
 
