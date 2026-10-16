@@ -129,4 +129,8 @@
 - No presentations at workshops/conferences 
 - Publication/Parts of a publication 
 	- Co- autor of some of their publication
-- Difficult or easy? 
+- Difficult or easy? Writing it self was realltivly easy - most difficult was trusting the data
+- Able to start ASAP
+
+# Questions? 
+- no questions
