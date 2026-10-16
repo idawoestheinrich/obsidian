@@ -141,3 +141,11 @@
 	- Looked into multiple papers?
 - Has not worked with scintillation detectors before
 	- Longterm stability is an important factor 
+- What is the most pressing problem?
+- Astrophysics - Find evidence for Dark Matter 
+- Hidden Sector might be one of these particles
+- Most proud of the end of the master thesis project to actually make the detector set up design work - X- Ray spectrum with different materials
+- As good as the radioactive sources
+- Computing - C/C++ Python - Simulation
+	- Machine Learning 
+
