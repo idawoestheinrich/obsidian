@@ -113,3 +113,5 @@
 - Did not look at the Spectra of the LAB? 
 - Dacay times? EJ-280/ EJ-282 around $10\,$ns or below - Time resolution 
 - Spacial resolution - uncertainties - 
+- Found the reason why there is a factor of two in the resonances they looked into 
+- 
