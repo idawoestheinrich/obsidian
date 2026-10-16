@@ -166,7 +166,8 @@
 - Ready to start whenever
 - One more application 
 
-- 3 Year PhD - length of the PhD
+- How long is the PhD? 3 Year PhD - length of the PhD
 - Housing ? Is there any help? 
+- When will you tell us the results? 
 - 
 
