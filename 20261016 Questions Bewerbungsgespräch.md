@@ -53,5 +53,5 @@
 - Position: How would the work be split between hardware/instrumentation 
 - Challenges in the Dip-Coating Process? Delicate - what is the plan to scale this up?
 - Biggest Challenge is the Storage - Temperature stability 
-- Develop something new  - 
+- Develop something new  - test dip-coating with WOMs
 
