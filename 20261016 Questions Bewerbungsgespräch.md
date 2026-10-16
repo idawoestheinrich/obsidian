@@ -158,5 +158,15 @@
 - Would ask the Bachelor Students what their needs are 
 - Testbeam Campains 
 	- Know how? 
-	- 
+	- Responsibility to do coordination inside the group 
+- No presentations at Workshops/Conferences 
+	- Only 20 people internal presentations
+- Not contribibuted in a publication 
+- Easy to write but harder was the editing 
+- Ready to start whenever
+- One more application 
+
+- 3 Year PhD - length of the PhD
+- Housing ? Is there any help? 
+- 
 
