@@ -146,6 +146,12 @@
 - Hidden Sector might be one of these particles
 - Most proud of the end of the master thesis project to actually make the detector set up design work - X- Ray spectrum with different materials
 - As good as the radioactive sources
-- Computing - C/C++ Python - Simulation
+- Computing - C/C++, Python - Simulation -Gean4
 	- Machine Learning 
+- Detector physics course - Sodering 
+	- Designed a detector to measure radon in the air 
+- Tye X 4 silicon sensors 
+- Created some code to calibrating 
+- Enjoyes the learning new things and put them into application 
+- 
 
