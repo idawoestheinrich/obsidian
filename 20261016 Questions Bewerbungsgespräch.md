@@ -83,8 +83,13 @@
 - One drive folder - that was all of the data collected 
 - Zotero - for papers 
 - Weekly group meetings 
-- August - conference
+- August - conference - Detecting Hidden Materials 
+	- Nuclear Security 
+	- Detecting nives 
+	- Easy to make and friendly to the environment 
 - Supervisor - did not have a phd students/Postdoc 
 - I would like to be pushed 
 - Set deadlines 
-- 
+- Testbeam Campains - DESY/CERN - would be awesome
+- How can you make a detector with small afford
+- Produce a detector that works 
