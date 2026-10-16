@@ -119,3 +119,7 @@
 - Computing Python - Simulations for bachelor and master thesis C++
 - He likes the combination of hardware and simulation and data analyis
 - Experience with selfmade setup 
+- AI: does not use AI
+- I conducted experiment by myself 
+- Lab book 
+- 
