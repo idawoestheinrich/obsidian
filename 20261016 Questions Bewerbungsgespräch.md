@@ -122,4 +122,11 @@
 - AI: does not use AI
 - I conducted experiment by myself 
 - Lab book 
-- 
+- Weekly Meetings
+- Supervison 
+- Could take experiences 
+- Willing to ask questions 
+- No presentations at workshops/conferences 
+- Publication/Parts of a publication 
+	- Co- autor of some of their publication
+- Difficult or easy? 
