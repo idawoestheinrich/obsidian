@@ -107,4 +107,6 @@
 
 
 # Jonas Salmann
-- EJ-280/ EJ - 282 - Plast
+- EJ-280/ EJ - 282 - Plastic one can use instead of the PMMA?
+- Flatter surface/ Even application 
+- How would you tread the Liquid Scintillator
