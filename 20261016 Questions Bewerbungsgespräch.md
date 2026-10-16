@@ -136,4 +136,8 @@
 # Aidan Molloy
 - Coumarin 7 and Coumarin 6 flour
 - Knows the lifetimes of the current wavelength shifters
-- 
+- Lumogen F Yellow 08 flor instead to go more into the green range
+- Less papers documenting the dye 
+	- Looked into multiple papers?
+- Has not worked with scintillation detectors before
+	- Longterm stability is an important factor 
