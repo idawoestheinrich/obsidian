@@ -24,10 +24,10 @@ Thank for questions after a talk and thank for the talk when asking questions.
 
 ### Notes
 - [ ] Mich hier bewerben Das Mentoring-Programm der Stiftung Werner-von-Siemens-Ring
-- [ ] Checken, ob mit der DAAD alles klar geht.
+- [x] Checken, ob mit der DAAD alles klar geht.
 - [ ] Plot in Git Hochladen
-- [ ] Think of a better way to document!
-	- [ ] Powerpoint presentations 
+- [ ] Think of a better way to do documentation!
+	- [ ] Powerpoint presentations or PDFs!
 
 Till end of October: 
 - [x] Matei fragen ob wir ALP zerfälle im neuen Framework 
@@ -47,7 +47,7 @@ Till end of October:
 	- [ ] Monitor High Voltage on PMT
 		- [ ] Messungen mit verschiedenener HV PMT +- 10V 
 	- [x] Infrared camera - next Year
-	- [ ] Implement longer before measurement
+	- [x] Implement longer before measurement
 	- [x] Du könntest die Daten noch komprimieren, was bis zu 50% spart und nicht wirklich länger dauert: [https://numpy.org/devdocs/reference/generated/numpy.savez_compressed.html](https://numpy.org/devdocs/reference/generated/numpy.savez_compressed.html)
 	- [x] Und die ADC-Daten als short abspeichern (2 statt 4 bytes), das wären noch einmal 50% weniger
 	- [ ] wom_quality_control repository füllen
