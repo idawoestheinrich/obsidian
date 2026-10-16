@@ -4,6 +4,12 @@
 - What are you enjoying most in your work?
 - Do you use AI for your work and if yes for what purpose?
 - How did you organize yourself in your master thesis? Time management? Documentation?
+- How is the communication with the supervisor?
+- Was there a regular meetings with your supervisor?
+- How would you like to have the supervision?
+- What do you do if you are not able to solve a problem? 
+- Bachelor or Masterstudents - How would you organize the technical supervison?
+
 ### Nicolas Avila
 - Detailed Presentation with References
 - Eljen EL-298G - Absorbs blue light 400 - 440nm from bis-MSB 
@@ -27,4 +33,7 @@
 	- Differnt pulsshapes in differnt materials - several radiation sources and 
 	- 14bis analog to digital converter - selfmade by the group
 	- Triggering?
-- 
+- Train sense of responsibility 
+	- Regular contact with supervisor
+- Ask colleges? Don't invent stuff twice
+	- Show them the basics - 
