@@ -92,4 +92,14 @@
 - Set deadlines 
 - Testbeam Campains - DESY/CERN - would be awesome
 - How can you make a detector with small afford
-- Produce a detector that works 
+- Produce a detector that works -
+- Cosmic watch detector 
+- Publication - Wrote a lot of the section on the carbon dots
+- draw the background
+- A lot of writing done before 
+- Ready to start as soon as possible 
+	- Online even before in present
+- 2 Applications going 
+- DFG 3 Years - but it would be possible to prelong it 
+	- Not enforced to do teaching - but you don't have to 
+- 
