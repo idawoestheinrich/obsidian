@@ -9,6 +9,11 @@
 - How would you like to have the supervision?
 - What do you do if you are not able to solve a problem? 
 - Bachelor or Masterstudents - How would you organize the technical supervison?
+- Testbeam Campaigns - Go there in advance and coordinate the preperations?
+- Have you done presentations at workshops and conferences?
+- Have you ever contributed to a publication?
+	- Did you find the write up difficult 
+
 
 ### Nicolas Avila
 - Detailed Presentation with References
@@ -36,4 +41,9 @@
 - Train sense of responsibility 
 	- Regular contact with supervisor
 - Ask colleges? Don't invent stuff twice
-	- Show them the basics - 
+	- Show them the basics - but then motivate them to actually achive stuff by themselfs 
+- Anima - conference/ Workshop organized by the university 
+- Has written a paper already 
+- Currently unemployed
+- Before software development - buildings in Germany - geometry inroa
+
