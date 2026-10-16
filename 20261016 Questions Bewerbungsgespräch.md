@@ -131,6 +131,6 @@
 	- Co- autor of some of their publication
 - Difficult or easy? Writing it self was realltivly easy - most difficult was trusting the data
 - Able to start ASAP
-
-# Questions? 
 - no questions
+
+Aidan 
