@@ -113,5 +113,9 @@
 - Did not look at the Spectra of the LAB? 
 - Dacay times? EJ-280/ EJ-282 around $10\,$ns or below - Time resolution 
 - Spacial resolution - uncertainties - 
+- Dark matter
 - Found the reason why there is a factor of two in the resonances they looked into 
-- 
+- Used Photomultipliers
+- Computing Python - Simulations for bachelor and master thesis C++
+- He likes the combination of hardware and simulation and data analyis
+- Experience with selfmade setup 
