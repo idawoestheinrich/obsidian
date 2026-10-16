@@ -57,4 +57,7 @@
 
 
 # Karin Samokovlisky 
-
+- Add bis-MSB 
+- Gives different options - and their decay times
+- Example for a
+![[Screenshot 2026-10-16 at 12.04.59.png]]
