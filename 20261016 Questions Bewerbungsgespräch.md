@@ -69,4 +69,9 @@
 - Seperate Cherencov from Scintillation 
 - What else should we consider if we test a new Wavelengthshifter: 
 	- How much of each and what solvent
-	- Compartib
+	- Compartiblity - PPO and LAB
+	- Stability - decay over time
+- Unification - very small things and very big things/ Dark Matter etc.
+- Master Project - Plastic Scintillator for cosmic muons 
+	- PMT calibrating it - 
+- Computing - Python ve
