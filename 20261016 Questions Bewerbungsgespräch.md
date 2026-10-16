@@ -74,4 +74,12 @@
 - Unification - very small things and very big things/ Dark Matter etc.
 - Master Project - Plastic Scintillator for cosmic muons 
 	- PMT calibrating it - 
-- Computing - Python ve
+- Computing - Python very much - C++ - simulation not to much Gean4 
+	- PMT - simulated both taggers that they have above and below
+- DAQ - Online Oscilloscope - CAEN digitser 
+	- Developed ny O-say - wavecatcher
+- She enjoyes the hands on component - Bouncing of ideas/ Team Work 
+- AI for Coding - Typos etc.
+- One drive folder - that was all of the data collected 
+- Zotero - for papers 
+- Did 
