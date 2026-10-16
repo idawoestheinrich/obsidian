@@ -4,8 +4,8 @@
 - What are you enjoying most in your work?
 - Do you use AI for your work and if yes for what purpose?
 - How did you organize yourself in your master thesis? Time management? Documentation?
-- How is the communication with the supervisor?
-- Was there a regular meetings with your supervisor?
+	- How is the communication with the supervisor?
+	- Was there a regular meetings with your supervisor?
 - How would you like to have the supervision?
 - What do you do if you are not able to solve a problem? 
 - Bachelor or Masterstudents - How would you organize the technical supervison?
@@ -153,5 +153,6 @@
 - Tye X 4 silicon sensors 
 - Created some code to calibrating 
 - Enjoyes the learning new things and put them into application 
+- Notes in a Note Pad
 - 
 

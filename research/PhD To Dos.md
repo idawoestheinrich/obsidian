@@ -29,7 +29,7 @@ Thank for questions after a talk and thank for the talk when asking questions.
 - [ ] Think of a better way to do documentation!
 	- [ ] Powerpoint presentations or PDFs!
 -  [ ] Set deadlines 
-- [ ] Look for a better Chair for Home Office
+- [ ] Look for a better Chair for Home Office - Maybe a Camera
 
 Till end of October: 
 - [x] Matei fragen ob wir ALP zerfälle im neuen Framework 
