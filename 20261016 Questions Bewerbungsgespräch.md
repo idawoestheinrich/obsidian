@@ -110,3 +110,6 @@
 - EJ-280/ EJ - 282 - Plastic one can use instead of the PMMA?
 - Flatter surface/ Even application 
 - How would you tread the Liquid Scintillator
+- Did not look at the Spectra of the LAB? 
+- Dacay times? EJ-280/ EJ-282 around $10\,$ns or below - Time resolution 
+- Spacial resolution - uncertainties - 
