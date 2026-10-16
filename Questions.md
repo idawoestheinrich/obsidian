@@ -1,5 +1,7 @@
 - Which is the most pressing problem in particle physics?
-- Which achivemnet in your Masterthes
+- Which achivemnet in your Master thesis are you most proud of?
+- Can you shortly summarize what your experiences are in detector physics and computation?
+- What are you enjoying most in your work?
 ### Nicolas Avila
 - Detailed Presentation with References
 - Eljen EL-298G - Absorbs blue light 400 - 440nm from bis-MSB 
@@ -12,4 +14,9 @@
 - pseudocumene PC solvent - environmental problems? If LS is leacuing 
 	- Corosive behavior - timg 
 	- Eijen 298G timing aspects 
-
+- Simulation work - algorithm to estimate the dosis Gean4
+- Scintilation Detetectors - Simulation and Lab Work
+- Programming in Data Management and development - C++, Python and ROOT
+	- Some Java Script for Webdevelopment 
+- Validation of Simulation
+- Lab work - very important - Not f
