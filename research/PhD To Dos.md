@@ -23,9 +23,9 @@ Thank for questions after a talk and thank for the talk when asking questions.
 *Don't take on too many things at once. Prioritize well.*
 
 ### Notes
-- [ ] Mich hier bewerben Das Mentoring-Programm der Stiftung Werner-von-Siemens-Ring
+- [ ] Mich hier bewerben: Das Mentoring-Programm der Stiftung Werner-von-Siemens-Ring
 - [x] Checken, ob mit der DAAD alles klar geht.
-- [ ] Plot in Git Hochladen
+- [x] Plot in Git Hochladen
 - [ ] Think of a better way to do documentation!
 	- [ ] Powerpoint presentations or PDFs!
 -  [ ] Set deadlines 
@@ -72,7 +72,7 @@ Till end of October:
 - [x] Apply for funding for the next collaboration meeting - ask if it is possible to go to the next collaboration meeting 
 - [x] Apply for Frauenförderung 
 - [x] Löschen des Alten Ordners im SBT meeting besprechen
-- [ ] Copy Simulation data 
+- [x] Copy Simulation data 
 - [x] CheapCal Paper - Oslo University - *Tunable Light Scattering in Cast Organic Scintillators via BaSO44​ Nanoparticle Doping: A Short Summary*
 - [ ] Feedback on SHiP Website
 - [ ] Send Outreach Emails:
