@@ -5,7 +5,7 @@ tags:
 aliases:
 ---
 #### Monday
-10:00 Editorial Meeting
+10:00 Editorial Meeting CERN outreach
 	- [Zoom](https://cern.zoom.us/j/66593711639?pwd=apXjSHVCXh8lpAIQXLlq5FYptzSu6f.1#success)
 15:00 [[Background Taskforce]]
 	- zoom: 
@@ -35,12 +35,11 @@ aliases:
 	- [indico link](https://indico.cern.ch/e/1570742)
 10:30 zoom SHiP Simulation Meeting - every 2 weeks (even weeks)
 	- [zoom link](https://cern.zoom.us/j/66692972246?pwd=duKUxgt5ElGIhacso78ibw4AYaMVcR.1)
-14:00 SHiP Software weekly
+**14:00 SHiP Software weekly**
 	- [zoom link](https://cern.zoom.us/j/69112571387?pwd=VFdObHY4N1I0UFRIM00zTU1zNTkydz09)
 
 #### Friday
 8:00 zoom [[CheapCal Meetings]] *(sinnvoll, aber keine Priorität)*
 	- [zoom link](https://hu-berlin.zoom-x.de/j/68347021207?pwd=UXhWM01FNnd4ZFY2K0dKVFdqVGJUZz09)
 	- [[CheapCal]] 
-15:00 SHiP Software weekly
-	- [zoom link](https://cern.zoom.us/j/69112571387?pwd=VFdObHY4N1I0UFRIM00zTU1zNTkydz09)
+

@@ -71,13 +71,14 @@ Till end of October:
 - [x] Decide if you want to go and if you are allowed to go to [WISPP 2027](https://indico.cern.ch/event/1683986/)
 - [x] Apply for funding for the next collaboration meeting - ask if it is possible to go to the next collaboration meeting 
 - [x] Apply for Frauenförderung 
-- [ ] Löschen des Alten Ordners im SBT meeting besprechen
+- [x] Löschen des Alten Ordners im SBT meeting besprechen
+- [ ] Copy Simulation data 
 - [x] CheapCal Paper - Oslo University - *Tunable Light Scattering in Cast Organic Scintillators via BaSO44​ Nanoparticle Doping: A Short Summary*
 - [ ] Feedback on SHiP Website
 - [ ] Send Outreach Emails:
-	- [ ] IPPOG
+	- [x] IPPOG
 	- [ ] CERN website
-	- [ ] article
+	- [x] article
 - [x] Create Slides for the Workshop on Tuesday 
 - [x] Reisekostenabrechnung Kaiserslautern 
 - [x] Apply for DAAD funding https://www2.daad.de/ausland/studieren/stipendium/de/70-stipendien-finden-und-bewerben/?detail=50722601
@@ -176,7 +177,7 @@ Orga:
 - [ ] Neuen Computer einrichten
 	- [x] Neuer Computer Zotero Integration, Milena, Jule Tips
 - [ ] Start to have a longterm time plan 
-- [ ] Safe stuff from notability and delete it - cancel the abbo
+- [x] Safe stuff from notability and delete it - cancel the abbo
 - [ ] Work into Claude [[Tips for agentic coding 2026]] - get paid version?
 
 Other stuff:
