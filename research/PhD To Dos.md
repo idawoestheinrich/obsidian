@@ -28,7 +28,8 @@ Thank for questions after a talk and thank for the talk when asking questions.
 	- [ ] Powerpoint presentations or PDFs!
 -  [ ] Set deadlines 
 - [ ] Look for a better Chair for Home Office - Maybe a Camera
-
+- [ ] Mit Hannes über die Edge Scans sprechen [link](https://docs.google.com/spreadsheets/d/14WBc94nIWAsXT4Mvu4Kdt2nMca36CPRMcNudUHGi6Gg/edit?pli=1&gid=1182448093#gid=1182448093) Zeile 183 ff
+ 
 Till end of October: 
 - [x] Matei fragen ob wir ALP zerfälle im neuen Framework 
 	- LEPTO -DIS? Wirkungsquerschnitt steigt mit $1/q^2$ es sollten viel mehr scattering geben, der nicht tiefineleastisch ist. Resonate Production der Formfaktor bei $q^2 = 0$ ist 1- der integrierete wirkungsquerschnitt kann nicht divergieren 
