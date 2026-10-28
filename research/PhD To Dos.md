@@ -24,6 +24,7 @@ Thank for questions after a talk and thank for the talk when asking questions.
 - [ ] Mich hier bewerben: Das Mentoring-Programm der Stiftung Werner-von-Siemens-Ring
 - [x] Checken, ob mit der DAAD alles klar geht.
 - [x] Plot in Git Hochladen
+- [ ] Email SBT mit der neuen Directory
 - [ ] Think of a better way to do documentation!
 	- [ ] Powerpoint presentations or PDFs!
 -  [ ] Set deadlines 
