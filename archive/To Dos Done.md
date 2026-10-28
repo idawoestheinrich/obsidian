@@ -2,7 +2,81 @@
 
 ### Notes
 
+# August - October 2026
+14.09.2026 
+- [x] Coat WOM Tube - Fast and slower 
+	- [x] What if the thickness of the coat it best if f.e. velocity down is 200mm/min and velosity up is 500mm/min 
+- [x] Decide if you want to go and if you are allowed to go to [WISPP 2027](https://indico.cern.ch/event/1683986/)
+- [x] Apply for funding for the next collaboration meeting - ask if it is possible to go to the next collaboration meeting 
+- [x] Apply for Frauenförderung 
+- [x] Löschen des Alten Ordners im SBT meeting besprechen
+- [x] Copy Simulation data 
+- [x] CheapCal Paper - Oslo University - *Tunable Light Scattering in Cast Organic Scintillators via BaSO44​ Nanoparticle Doping: A Short Summary*
+- [ ] Send Outreach Emails:
+	- [x] IPPOG
+	- [ ] CERN website
+	- [x] article
+- [x] Create Slides for the Workshop on Tuesday 
+- [x] Reisekostenabrechnung Kaiserslautern 
+- [x] Apply for DAAD funding https://www2.daad.de/ausland/studieren/stipendium/de/70-stipendien-finden-und-bewerben/?detail=50722601
+
+- [x] Check on Maiks and Matthias Process
+	- [x] Maik needs CAD files
+	- [x] Matthias will order and then need a week
+- [x] SHiP outreach talk - 15. September
+- [x] CAD files for Maik - 14. September
+- [x] Collaboration Meeting 14.-18.September
+- [x] Talk on SHiP for Physikerinnen Tagung
+- [x] Videos - on SHiP 
+- [ ] Jakobs Arbeit mit PMMA slides sollte wiederholt werden - 
+	- [x] Von wem wurde das Spektrometer verwendet? - nicht in Jakobs Arbeit - PerkinElmer Lambda 950 spectrometer used in UV-Vis-NIR spectroscopy in the the SALSA Application lab at the HU which is supervised by Dr. Thomas Schmid
+	- [x] Haben wir noch unbeschichtete PMMA slides? 
+	- Ja haben wir - Maik hat welche und im Labor sind noch welche - sowohl casted als auch extruded
+	- [x] Maik fragen? 
+	- [x] Labor Nachschauen
+	- [ ] Freiburg fragen? 
+	- [ ] Plättchen nehmen, die casted sind und auch extruded 
+- [x] Heidi Antworten - 15. September
+- [x] Code zum laufen bringen 
+- [x] Collaborationmeeting Slides hochladen
+07.08.2026
+- [x] Apply for Physikerinnen Tagung 
+- [x] Apply for Collaboration meeting? 
+- [x] Ask Matthias about the high temperature in the setup 
+- [x] First release of sea cucumber? The cool stuff that Alice does
+04.08.2026
+Quality Control and WOMs:
+- [ ] Sicherung für den PMT, Abdeckung - Dicht - 3D gedruckt
+	- [x] Maik fragen
+- [x] Temperatur des Motors
+	- [x] Maik fragen
+- [x] Compute a temperature dependent heatup function
+	- [x] Test this function
+- [x] WOM coating lernen
+	- [x] Neuen Kunstoffreihniger bestellen
+	- [x] Neues Tolorol
+	- [x] Irgendwann neue Komponenten für Farbe (reicht noch für ca. 2L)
+- [x] Matthias bitten die Widerstände von den Preamplifiern anzupassen.
+- [x] Konfiguration SiPMs und PCBs und Preamplefier optimieren
+	- [x] Evl. Filter hinzufüge- [https://www.uqgoptics.com/wp-content/uploads/2019/08/UQG-Schott-UG1.pdf](https://www.uqgoptics.com/wp-content/uploads/2019/08/UQG-Schott-UG1.pdf) 
+	- [https://www.edmundoptics.com/p/ug-1-uv-254mm-dia-colored-glass-bandpass-filter/6536/](https://www.edmundoptics.com/p/ug-1-uv-254mm-dia-colored-glass-bandpass-filter/6536/)
+- [x] Table of WOMs - with what is similar and what was similar - measures tec.
+
+- [x] Bei Bestellung SMA stecker mitbestellen - 
+	- [https://www.reichelt.de/de/de/shop/produkt/sma-stecker_rg174_316_gerade_crimp-157321](https://www.reichelt.de/de/de/shop/produkt/sma-stecker_rg174_316_gerade_crimp-157321)  
+	- [https://www.reichelt.de/de/de/shop/produkt/adapter_sma-kupplung_auf_sma-kupplung-235616](https://www.reichelt.de/de/de/shop/produkt/adapter_sma-kupplung_auf_sma-kupplung-235616)
+Orga:
+- [x] Physikerinnen Tagung 2026
+- [x] Abrechnung Juli 2026
 # June 2026
+18.06.2026
+Orga:
+- [x] Ordner sortieren 
+- [ ] Neuen Computer einrichten
+	- [x] Neuer Computer Zotero Integration, Milena, Jule Tips
+- [ ] Start to have a longterm time plan 
+- [x] Safe stuff from notability and delete it - cancel the abbo
+- [ ] Work into Claude [[Tips for agentic coding 2026]] - get paid version?
 - [x] Heatup config und config mit ausgeschalteten PMs einbauen
 18.06.2026
 - [x] Julian schreiben/maik schreiben bzgl. Des motors
