@@ -3,6 +3,43 @@
 ### Notes
 
 # August - October 2026
+- Maik ist auf unbestimmte Zeit nicht mehr da. 
+- [x] Checken, ob mit der DAAD alles klar geht.
+- [x] Plot in Git Hochladen
+- [x] Email SBT mit der neuen Directory
+- [ ] For the November Collaboration Meeting
+	- [x] Funding
+	- [x] Reisekostenantrag
+	- [ ] Booking 
+Till end of October: 
+- [x] Matei fragen ob wir ALP zerfälle im neuen Framework 
+	- LEPTO -DIS? Wirkungsquerschnitt steigt mit $1/q^2$ es sollten viel mehr scattering geben, der nicht tiefineleastisch ist. Resonate Production der Formfaktor bei $q^2 = 0$ ist 1- der integrierete wirkungsquerschnitt kann nicht divergieren 
+	- besorgt über den teil der nicht drin ist 
+	- Was macht das Hadronische System im Endzustand
+
+- [ ] Bring Code (and setup till end of October) to an end: 
+	- [x] Look at longterm Measurement with vs without WOM - 16.09.2026
+	- [x] at the measurements with covered reference - 16.09.2026
+	- [x] and without collimator
+	- [ ] Test different WOMs form Freiburg and send it back
+	- [x] Perform two longterm measurements with and without WOM
+		- [x] Without WOM
+		- [x] With WOM (Monday 31.08 - afternoon)
+	- [x] next step: - compute grouped_mean so that it can act on all the different qc.integrated data, etc. 
+	- [ ] Monitor High Voltage on PMT
+		- [ ] Messungen mit verschiedenener HV PMT +- 10V 
+	- [x] Infrared camera - next Year
+	- [x] Implement longer before measurement
+	- [x] Du könntest die Daten noch komprimieren, was bis zu 50% spart und nicht wirklich länger dauert: [https://numpy.org/devdocs/reference/generated/numpy.savez_compressed.html](https://numpy.org/devdocs/reference/generated/numpy.savez_compressed.html)
+	- [x] Und die ADC-Daten als short abspeichern (2 statt 4 bytes), das wären noch einmal 50% weniger
+	- [ ] wom_quality_control repository füllen
+		- [x] WOMqc class aufteilen
+		- [ ] Doku
+		- [x] Heatup
+		- [x] Temperature Korrekturen implementieren
+			- [x] Check if this was done correctly
+		- [ ] Kalibrierung des PMTs und der SiPMs
+	
 14.09.2026 
 - [x] Coat WOM Tube - Fast and slower 
 	- [x] What if the thickness of the coat it best if f.e. velocity down is 200mm/min and velosity up is 500mm/min 

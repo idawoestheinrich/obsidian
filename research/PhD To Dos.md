@@ -22,9 +22,6 @@ Thank for questions after a talk and thank for the talk when asking questions.
 ### Notes
 - Maik ist auf unbestimmte Zeit nicht mehr da. 
 - [ ] Mich hier bewerben: Das Mentoring-Programm der Stiftung Werner-von-Siemens-Ring
-- [x] Checken, ob mit der DAAD alles klar geht.
-- [x] Plot in Git Hochladen
-- [x] Email SBT mit der neuen Directory
 - [ ] For the November Collaboration Meeting
 	- [x] Funding
 	- [x] Reisekostenantrag
@@ -42,20 +39,9 @@ Till end of October:
 	- Was macht das Hadronische System im Endzustand
 
 - [ ] Bring Code (and setup till end of October) to an end: 
-	- [x] Look at longterm Measurement with vs without WOM - 16.09.2026
-	- [x] at the measurements with covered reference - 16.09.2026
-	- [x] and without collimator
 	- [ ] Test different WOMs form Freiburg and send it back
-	- [x] Perform two longterm measurements with and without WOM
-		- [x] Without WOM
-		- [x] With WOM (Monday 31.08 - afternoon)
-	- [x] next step: - compute grouped_mean so that it can act on all the different qc.integrated data, etc. 
 	- [ ] Monitor High Voltage on PMT
 		- [ ] Messungen mit verschiedenener HV PMT +- 10V 
-	- [x] Infrared camera - next Year
-	- [x] Implement longer before measurement
-	- [x] Du könntest die Daten noch komprimieren, was bis zu 50% spart und nicht wirklich länger dauert: [https://numpy.org/devdocs/reference/generated/numpy.savez_compressed.html](https://numpy.org/devdocs/reference/generated/numpy.savez_compressed.html)
-	- [x] Und die ADC-Daten als short abspeichern (2 statt 4 bytes), das wären noch einmal 50% weniger
 	- [ ] wom_quality_control repository füllen
 		- [x] WOMqc class aufteilen
 		- [ ] Doku
@@ -83,9 +69,6 @@ Till end of October:
 	- [x] Labor Nachschauen
 	- [ ] Freiburg fragen? 
 	- [ ] Plättchen nehmen, die casted sind und auch extruded 
-- [x] Heidi Antworten - 15. September
-- [x] Code zum laufen bringen 
-- [x] Collaborationmeeting Slides hochladen
 
 21.08.2026
 Concerning the puzzle that we see more LY with the uncoated WOM than w/o any WOM: The SiPMs in use (S14160) have a hole wire bonding (HWB), which means in the centre of the SiPM there is (small) dead area. The following questions might be relevant: 
