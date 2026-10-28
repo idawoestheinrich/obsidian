@@ -24,10 +24,14 @@ Thank for questions after a talk and thank for the talk when asking questions.
 - [ ] Mich hier bewerben: Das Mentoring-Programm der Stiftung Werner-von-Siemens-Ring
 - [x] Checken, ob mit der DAAD alles klar geht.
 - [x] Plot in Git Hochladen
-- [ ] Email SBT mit der neuen Directory
+- [x] Email SBT mit der neuen Directory
+- [ ] For the November Collaboration Meeting
+	- [x] Funding
+	- [x] Reisekostenantrag
+	- [ ] Booking 
 - [ ] Think of a better way to do documentation!
 	- [ ] Powerpoint presentations or PDFs!
--  [ ] Set deadlines 
+	- [ ] Set deadlines 
 - [ ] Look for a better Chair for Home Office - Maybe a Camera
 - [ ] Mit Hannes über die Edge Scans sprechen [link](https://docs.google.com/spreadsheets/d/14WBc94nIWAsXT4Mvu4Kdt2nMca36CPRMcNudUHGi6Gg/edit?pli=1&gid=1182448093#gid=1182448093) Zeile 183 ff
  
