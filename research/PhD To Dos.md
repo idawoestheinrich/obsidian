@@ -58,9 +58,13 @@ Till end of October:
 	**Wo?**       Erwin Schrödinger-Zentrum
 - [ ] Correct 4-Cell Prototype Paper
 - [ ] Prepare Teaching Optic Tutorien
-	- [ ] 1. Übungen
-	- [ ] 2. Übungen
-	- [ ] 3. 
+	- [ ] 1. Übung
+	- [ ] 2. Übung
+	- [ ] 3. Übung
+	- [ ] 4. Übung
+	- [ ] 5. Übung
+	- [ ] 6. Übung 
+	- [ ] 7. Übung
 - [ ] Feedback on SHiP Website
 - [ ] Send Outreach Emails:
 	- [x] IPPOG
