@@ -59,7 +59,7 @@ Till end of October:
 - [ ] Correct 4-Cell Prototype Paper
 - [ ] Prepare Teaching Optic Tutorien
 	- [x] 1. Übung
-	- [ ] 2. Übung
+	- [ ] [[2. Übung Optik WS2026-27]]
 	- [ ] 3. Übung
 	- [ ] 4. Übung
 	- [ ] 5. Übung
