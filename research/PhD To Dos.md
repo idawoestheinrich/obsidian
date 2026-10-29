@@ -21,11 +21,12 @@ Thank for questions after a talk and thank for the talk when asking questions.
 
 ### Notes
 - Maik ist auf unbestimmte Zeit nicht mehr da. 
-- [ ] Mich hier bewerben: [Das Mentoring-Programm der Stiftung Werner-von-Siemens-Ring]()
+- [ ] Mich hier bewerben: [Das Mentoring-Programm der Stiftung Werner-von-Siemens-Ring](https://siemens-ring.de/mentoring/)
 - [ ] For the November Collaboration Meeting
 	- [x] Funding
 	- [x] Reisekostenantrag
 	- [ ] Booking 
+	- [ ] Prepare Talks
 - [ ] Think of a better way to do documentation!
 	- [ ] Powerpoint presentations or PDFs!
 	- [ ] Set deadlines 
@@ -57,6 +58,9 @@ Till end of October:
 	**Wo?**       Erwin Schrödinger-Zentrum
 - [ ] Correct 4-Cell Prototype Paper
 - [ ] Prepare Teaching Optic Tutorien
+	- [ ] 1. Übungen
+	- [ ] 2. Übungen
+	- [ ] 3. 
 - [ ] Feedback on SHiP Website
 - [ ] Send Outreach Emails:
 	- [x] IPPOG
