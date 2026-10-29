@@ -21,7 +21,7 @@ Thank for questions after a talk and thank for the talk when asking questions.
 
 ### Notes
 - Maik ist auf unbestimmte Zeit nicht mehr da. 
-- [ ] Mich hier bewerben: Das Mentoring-Programm der Stiftung Werner-von-Siemens-Ring
+- [ ] Mich hier bewerben: [Das Mentoring-Programm der Stiftung Werner-von-Siemens-Ring]()
 - [ ] For the November Collaboration Meeting
 	- [x] Funding
 	- [x] Reisekostenantrag
@@ -30,7 +30,8 @@ Thank for questions after a talk and thank for the talk when asking questions.
 	- [ ] Powerpoint presentations or PDFs!
 	- [ ] Set deadlines 
 - [ ] Look for a better Chair for Home Office - Maybe a Camera
-- [ ] Mit Hannes über die Edge Scans sprechen [link](https://docs.google.com/spreadsheets/d/14WBc94nIWAsXT4Mvu4Kdt2nMca36CPRMcNudUHGi6Gg/edit?pli=1&gid=1182448093#gid=1182448093) Zeile 183 ff
+- [x] Mit Hannes über die Edge Scans sprechen [link](https://docs.google.com/spreadsheets/d/14WBc94nIWAsXT4Mvu4Kdt2nMca36CPRMcNudUHGi6Gg/edit?pli=1&gid=1182448093#gid=1182448093) Zeile 183 ff
+- [x] Bestellung für den Temperatur stabilisierten PCB
  
 Till end of October: 
 - [x] Matei fragen ob wir ALP zerfälle im neuen Framework 
