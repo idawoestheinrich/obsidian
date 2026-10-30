@@ -4,4 +4,6 @@
 - Nicht den Lösungsweg
 - Intensität der Sonne - zur Umrechnung $Z_0 = 377\Omega$
 - $I = \frac{E_0^2}{2Z_0}$
-- Was i
+- Was ist Omega? - Sinnvolles Abschätzen von Wellenlänge/Frequenz 
+- 
+- 
