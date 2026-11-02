@@ -21,7 +21,7 @@ Thank for questions after a talk and thank for the talk when asking questions.
 
 ### Notes
 - Maik ist auf unbestimmte Zeit nicht mehr da. 
-- [ ] Mich hier bewerben: [Das Mentoring-Programm der Stiftung Werner-von-Siemens-Ring](https://siemens-ring.de/mentoring/)
+
 - [ ] For the November Collaboration Meeting
 	- [x] Funding
 	- [x] Reisekostenantrag
@@ -195,7 +195,8 @@ If you give a talk thank for the invertation and if you ask questions to a talk 
 - [**Diversity Conference Adlershof**](https://sweapevent.com/b?p=diversityconferenceadlershof) [](https://sweapevent.com/b?p=diversityconferenceadlershof)_powered by differences_. Under this motto, the next Diversity Conference will take place in Adlershof in May. The program is available online, and registration is now open.
 	- 7 May 2026 | Adlershof  
 ###  **Orga**
-Hier werden Organisatorische ToDos festgehalten
+Hier werden Organisatorische ToDos festgehalten 
+- [ ] Mich hier bewerben vielleicht 2027: [Das Mentoring-Programm der Stiftung Werner-von-Siemens-Ring](https://siemens-ring.de/mentoring/)
 - [[SHiP Collaboration Meetings]]
 - #### Young Scientist in SHiP
 	- [x] Infrastructure for Problems (Sexism, harassment)
