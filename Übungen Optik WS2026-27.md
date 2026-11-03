@@ -9,3 +9,4 @@
 ## Kommentare zur Verbesserung der Aufgaben
 - Übung 1: bezeichnen von $\omega_0$ als Resonanz**kreis**frequenz
 - Übung 2: Aufgabe 4d) - klar machen, dass nicht die Bewegungsgleichung gelöst werden soll  - vielleicht als Tipp reinschreiben, dass ein Niederfrequentes Feld betrachtet wird.
+
