@@ -42,6 +42,8 @@ Till end of October:
 
 - [ ] Bring Code (and setup till end of October) to an end: 
 	- [ ] Test different WOMs form Freiburg and send it back
+	- [ ] normalize Measurements to mean of the first row 
+	- [ ] try to reduce the noice in the PMT when having the new PCB installed
 	- [ ] Monitor High Voltage on PMT
 		- [ ] Messungen mit verschiedenener HV PMT +- 10V 
 	- [ ] wom_quality_control repository füllen
