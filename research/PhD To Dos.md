@@ -44,6 +44,8 @@ Till end of October:
 	- [ ] Test different WOMs form Freiburg and send it back
 	- [ ] normalize Measurements to mean of the first row 
 	- [ ] try to reduce the noice in the PMT when having the new PCB installed
+	- [ ] does the transmission fits simulation of the thickness of the dye?
+	- [ ] compare PMT response with simulation
 	- [ ] Monitor High Voltage on PMT
 		- [ ] Messungen mit verschiedenener HV PMT +- 10V 
 	- [ ] wom_quality_control repository füllen
