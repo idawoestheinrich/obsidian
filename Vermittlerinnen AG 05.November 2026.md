@@ -1,3 +1,6 @@
 - Onboarding 
 - Spotlight on 
 - Vermittlerinnen besser erreichen bei der DPG
+- Gruppe von dem Lascher? 
+- Vermittlerinnen Workshop
+	- Hannes war dabei - Email adressen teilen
