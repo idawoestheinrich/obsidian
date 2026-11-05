@@ -6,4 +6,6 @@
 - Vermittlerinnen Workshop
 	- Hannes war dabei - Email adressen teilen - In Bohn nachhaken
 - Fellow Schule
-- Caro Z
+- Caro Z/Caro G
+- Standorttreffen - Was soll den Standort Koordinatoren mitgegeben werden
+- 
