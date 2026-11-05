@@ -21,7 +21,11 @@ Thank for questions after a talk and thank for the talk when asking questions.
 
 ### Notes
 - Maik ist auf unbestimmte Zeit nicht mehr da. 
-
+- [ ] CERN workshop material hochladen im wiki
+	- [ ] CERN Workshop 7.-9. Klasse Europaproject - Girls Day
+		- Fokus auf CERN als Europaproject 
+		- 90-120 min workshop / neue seite anlegen
+		- Dann Carmen Richter schreiben
 - [ ] For the November Collaboration Meeting
 	- [x] Funding
 	- [x] Reisekostenantrag
