@@ -25,11 +25,12 @@ Thank for questions after a talk and thank for the talk when asking questions.
 - [ ] For the November Collaboration Meeting
 	- [x] Funding
 	- [x] Reisekostenantrag
-	- [ ] Booking 
+	- [x] Booking 
 	- [ ] Prepare Talks
 - [ ] Think of a better way to do documentation!
 	- [ ] Powerpoint presentations or PDFs!
 	- [ ] Set deadlines 
+- [ ] CAD files für Dip Coating? 
 - [ ] Look for a better Chair for Home Office - Maybe a Camera
 - [x] Mit Hannes über die Edge Scans sprechen [link](https://docs.google.com/spreadsheets/d/14WBc94nIWAsXT4Mvu4Kdt2nMca36CPRMcNudUHGi6Gg/edit?pli=1&gid=1182448093#gid=1182448093) Zeile 183 ff
 - [x] Bestellung für den Temperatur stabilisierten PCB
