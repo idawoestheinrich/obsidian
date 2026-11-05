@@ -6,4 +6,4 @@
 - Vermittlerinnen Workshop
 	- Hannes war dabei - Email adressen teilen - In Bohn nachhaken
 - Fellow Schule
-- Januar 
+- Caro Z
