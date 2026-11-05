@@ -1,6 +1,9 @@
-- Onboarding 
-- Spotlight on 
-- Vermittlerinnen besser erreichen bei der DPG
+- Onboarding/ Spotlight on ? Eine Veranstaltung oder mehrere?
+	- Onboarding besser eine Stunde
+		- Goodi am ende - Praktische Tipps - Minni vermittlungs workshop
+- Vermittlerinnen besser erreichen bei der DPG?
 - Gruppe von dem Lascher? 
 - Vermittlerinnen Workshop
-	- Hannes war dabei - Email adressen teilen
+	- Hannes war dabei - Email adressen teilen - In Bohn nachhaken
+- Fellow Schule
+- Januar 
