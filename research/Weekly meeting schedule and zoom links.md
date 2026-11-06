@@ -39,7 +39,7 @@ aliases:
 	- [zoom link](https://cern.zoom.us/j/69112571387?pwd=VFdObHY4N1I0UFRIM00zTU1zNTkydz09)
 
 #### Friday
-8:00 zoom [[CheapCal Meetings]] *(sinnvoll, aber keine Priorität)*
+8:30 zoom [[CheapCal Meetings]] *(sinnvoll, aber keine Priorität)*
 	- [zoom link](https://hu-berlin.zoom-x.de/j/68347021207?pwd=UXhWM01FNnd4ZFY2K0dKVFdqVGJUZz09)
 	- [[CheapCal]] 
 
