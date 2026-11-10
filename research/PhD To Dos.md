@@ -31,6 +31,7 @@ Thank for questions after a talk and thank for the talk when asking questions.
 	- [x] Reisekostenantrag
 	- [x] Booking 
 	- [ ] Prepare Talks
+- [ ] Redo the analysis of Julians measurements
 - [ ] Think of a better way to do documentation!
 	- [ ] Powerpoint presentations or PDFs!
 	- [ ] Set deadlines 
