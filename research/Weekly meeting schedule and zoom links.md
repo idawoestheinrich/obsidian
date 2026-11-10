@@ -16,8 +16,8 @@ aliases:
 	- [zoom link](https://cern.zoom.us/j/64852000830?pwd=T2twcS9QY1ZnaTNhaGN6UGVtUUhzdz09)
 	- [indico link](https://indico.cern.ch/event/1569532/)
 **10:00 zoom [[SHiP Physics Meetings]]**
-	- [zoom link](https://cern.zoom.us/j/69456193926?pwd=RDlmVXV2Q0ZOeCt5bHd5bVIydDNnQT09)
-	- [indico link](https://indico.cern.ch/event/1544376/)
+	- zoom link differnt every week
+	- [indico link]([https://indico.cern.ch/event/1544376/](https://indico.cern.ch/category/9394/))
 11:00 zoom [[SHiP Outreach Meetings]]
 	- [zoom link](https://cern.zoom.us/j/67855613495?pwd=etZaNBbrob75oyGBkx336GyRfNMub5.1)
 
@@ -26,7 +26,7 @@ aliases:
 	- [zoom link](https://hu-berlin.zoom.us/j/92231926662?pwd=enNSY2w3eXZFbm05SlRvTFpLaWhkZz09) password `330255`
 	- [indico link](https://indico.cern.ch/e/1570759)
 	- [[SBT Analysis Meeting 2025]]
-10:00 2.427/zom [[HU Meetings|HU Analysis meeting]]
+**10:00 2.427/zoom** [[HU Meetings|HU Analysis meeting]]
 	-  [zoom link](https://cern.zoom.us/j/66351165789?pwd=azdoNXNPZWlaUG5uSVBSTlFhcFliQT09)
 #### Thursday
 **8:30 zoom [[SBT Hardware Meeting 2026]]**
