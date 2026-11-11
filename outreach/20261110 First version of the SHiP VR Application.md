@@ -1,4 +1,5 @@
 ## Meeting Summary 
+Hello, 
 
 Thank you all for this very productive meeting and especially for the impressive first display of your application! 
 I have now send a small describtion on how to enter the VR application to our outreach mattermost channel so that they, too, can benefit from it. The describtion is at the bottom of this email.  Let me know, if you have any additions. 
@@ -12,13 +13,16 @@ Now the next steps would be:
 	- Matei will ask Pablo for the CAD files and convince him to send them fast with a nice small video from Giorgi 
 - Show of some particle interactions (background, signal) with simulation that Matei can provide 
 - Create a web view like [tracer](https://tracer.web.cern.ch), but for SHiP
-- Brainstorm on what this VR application, but also a web view could be used for. Then priorities and make a list of requirements to be implemented
+- Brainstorm on what this VR application, but also a web view could be used for. Then priorities and make a list of requirements to be implemented (some ideas collected are on the bottom of this email too)
 - Implement an elevator (?)
 - Agree on a detailed color scheme 
 - Have the application ready to be shown at the next CERN open days 24 to 26 September 2027 along with other SHiP material (games, posters, ...)
 
-Exept for the collaboration meeting, we dont have a strict time schedule. It would be really cool, to have the position fixed and some more details by then, but I know it is a lot of work 
+Except for the collaboration meeting, we don't have a strict time schedule. It would be really cool, to have the position fixed and some more details by then, but I know it is a lot of work and also depends on Pablo to answer in time. 
 
+I will let you know, when I have the answer from Richard about the collaboration meeting. 
+Thanks again and cheers,
+Ida
 ### What the VR application and web view could be used for
 - Outreach
 	- Display at public events 
