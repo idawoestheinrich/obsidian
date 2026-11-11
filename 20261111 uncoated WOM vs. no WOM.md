@@ -1,15 +1,16 @@
 - Reproducibility of the measurents without WOM appears to be less reliable
 
-**BUT:** Ratio between measurement without WOM and uncoated WOM:
+**BUT:** Ratio between measurement on uncoated WOM and without WOM:
 determined with:
-- **inner LED**: 1.084 +- 0.011
-- **outer LED**: 1.089 +- 0.007
-Expectation on flat surface for PMMA: 
+- **inner LED** 0.92 +-0.01
+- **outer LED** 0.918 +- 0.006
+- 8% reduction
+Expectation on flat surface for PMMA 7.46\%  relative transmission reduction: 
 $$R=\left(\frac{n_1-n_0}{n_1+n_0}\right)^2 = 0.0387$$
 $n_1 = 1.49, n_0 = 1$
 and 
 
-$$T = \frac{1-R}{1+R} = 0.9254 = 7.46\% \text{ relative transmission reduction}$$
+$$T = \frac{1-R}{1+R} = 0.9254$$
 
 ![/Users/ida/Desktop/Research/ship/woms/quality_control_setup/results/202611_uncoated_vs_no_WOM/uncoated_vs_no_WOM_Transmission_in_norm_to_reference.png](file:///Users/ida/Desktop/Research/ship/woms/quality_control_setup/results/202611_uncoated_vs_no_WOM/uncoated_vs_no_WOM_Transmission_in_norm_to_reference.png)![/Users/ida/Desktop/Research/ship/woms/quality_control_setup/results/202611_uncoated_vs_no_WOM/uncoated_vs_no_WOM_Transmission_out_norm_to_reference.png](file:///Users/ida/Desktop/Research/ship/woms/quality_control_setup/results/202611_uncoated_vs_no_WOM/uncoated_vs_no_WOM_Transmission_out_norm_to_reference.png)
 
@@ -36,3 +37,8 @@ wo_WOM_4 SiPMin_out_gain_ref 2.9292524
 
 inner LED 1.084 +- 0.011
 outer LED 1.089 +- 0.007
+
+or the other way around
+
+inner LED 0.92 +-0.01
+outer LED 0.918 +- 0.006
