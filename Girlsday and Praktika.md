@@ -2,7 +2,7 @@
 - WOM vortrag oder/und 
 - CERN europa mittelstuffe für die jüngeren\
 - Photonen 
-- mit Heiko spr
+- mit Heiko sprechen
 
 ### Könnte ich mir vorstellen eine Praktikantin zu nehmen?
 - Könnte Lange nacht der wissenschaften mit vorbereiten
