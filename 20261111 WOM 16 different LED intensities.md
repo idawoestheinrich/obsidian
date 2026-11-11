@@ -1,6 +1,7 @@
 Für PMMA liegt der Thermischer Ausdehnungskoeffizient bei ca. 0,07 mm/(m·K).
 
-- with a temperature change of 1K 
+- with a temperature change of 1K and approx 0.01m aluminium 
+- We have a change of 0.0007 mm
 ### Reference
 ![/Users/ida/Desktop/Research/ship/woms/quality_control_setup/results/202611_differnt_LED_intensities_CellA_vs_WOM16/WOM16_Reference_in.png](file:///Users/ida/Desktop/Research/ship/woms/quality_control_setup/results/202611_differnt_LED_intensities_CellA_vs_WOM16/WOM16_Reference_in.png)
 #### Transmission
