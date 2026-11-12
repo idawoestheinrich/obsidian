@@ -11,6 +11,7 @@ maxScale: 6
 :::
 
 ::: left
+###### Popovych, Yuriy
 ![[image-63-x110-y449.png]]
 :::
 

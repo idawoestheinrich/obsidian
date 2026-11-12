@@ -1,4 +1,19 @@
+
+![[Pasted image 20261111155228.png]]
+
+## PMT normalized to reference 
+
+![/Users/ida/Desktop/Research/ship/woms/quality_control_setup/results/202611_Inner_vs_outer_LED/before_correction_WOM16_WOM7_CellA_PMT.png](file:///Users/ida/Desktop/Research/ship/woms/quality_control_setup/results/202611_Inner_vs_outer_LED/before_correction_WOM16_WOM7_CellA_PMT.png)
+
+- multiplied by the ratio between inner and outer reference: 
+
+![/Users/ida/Desktop/Research/ship/woms/quality_control_setup/results/202611_Inner_vs_outer_LED/WOM16_WOM7_CellA_PMT.png](app://8fd785375a5ec08bc71480553a77ef2e090d/Users/ida/Desktop/Research/ship/woms/quality_control_setup/results/202611_Inner_vs_outer_LED/WOM16_WOM7_CellA_PMT.png)
+
+## Transmission normalized to reference 
 ![/Users/ida/Desktop/Research/ship/woms/quality_control_setup/results/202611_Inner_vs_outer_LED/before_correction_WOM16_WOM7_CellA_Transmission.png](file:///Users/ida/Desktop/Research/ship/woms/quality_control_setup/results/202611_Inner_vs_outer_LED/before_correction_WOM16_WOM7_CellA_Transmission.png)
+After correction: 
+![/Users/ida/Desktop/Research/ship/woms/quality_control_setup/results/202611_Inner_vs_outer_LED/WOM16_WOM7_CellA_Transmission.png](file:///Users/ida/Desktop/Research/ship/woms/quality_control_setup/results/202611_Inner_vs_outer_LED/WOM16_WOM7_CellA_Transmission.png)
+
 WOM16_1 inner 2.0918204e-14 WOM16_1 outer 3.3283997e-14 
 WOM16_1 inner/outer 0.6284763
 
@@ -22,18 +37,3 @@ top_1 inner/outer 0.6442607
 
 top_2 SiPMout_out_gain 3.3405553e-14 top_2 inner 2.1340362e-14
 op_2 outer 3.3405553e-14 top_2 inner/outer 0.6388268
-
-![[Pasted image 20261111155228.png]]
-
-## PMT normalized to reference 
-
-![/Users/ida/Desktop/Research/ship/woms/quality_control_setup/results/202611_Inner_vs_outer_LED/before_correction_WOM16_WOM7_CellA_PMT.png](file:///Users/ida/Desktop/Research/ship/woms/quality_control_setup/results/202611_Inner_vs_outer_LED/before_correction_WOM16_WOM7_CellA_PMT.png)
-
-- multiplied by the ratio between inner and outer reference: 
-
-![/Users/ida/Desktop/Research/ship/woms/quality_control_setup/results/202611_Inner_vs_outer_LED/WOM16_WOM7_CellA_PMT.png](app://8fd785375a5ec08bc71480553a77ef2e090d/Users/ida/Desktop/Research/ship/woms/quality_control_setup/results/202611_Inner_vs_outer_LED/WOM16_WOM7_CellA_PMT.png)
-
-## Transmission normalized to reference 
-![/Users/ida/Desktop/Research/ship/woms/quality_control_setup/results/202611_Inner_vs_outer_LED/before_correction_WOM16_WOM7_CellA_Transmission.png](file:///Users/ida/Desktop/Research/ship/woms/quality_control_setup/results/202611_Inner_vs_outer_LED/before_correction_WOM16_WOM7_CellA_Transmission.png)
-After correction: 
-![/Users/ida/Desktop/Research/ship/woms/quality_control_setup/results/202611_Inner_vs_outer_LED/WOM16_WOM7_CellA_Transmission.png](file:///Users/ida/Desktop/Research/ship/woms/quality_control_setup/results/202611_Inner_vs_outer_LED/WOM16_WOM7_CellA_Transmission.png)

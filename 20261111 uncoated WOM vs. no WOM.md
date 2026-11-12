@@ -14,7 +14,7 @@ $$T = \frac{1-R}{1+R} = 0.9254$$
 
 
 
-![/Users/ida/Desktop/Research/ship/woms/quality_control_setup/results/202611_uncoated_vs_no_WOM/uncoated_vs_no_WOM_Transmission_in_norm_to_reference.png|621](file:///Users/ida/Desktop/Research/ship/woms/quality_control_setup/results/202611_uncoated_vs_no_WOM/uncoated_vs_no_WOM_Transmission_in_norm_to_reference.png)![/Users/ida/Desktop/Research/ship/woms/quality_control_setup/results/202611_uncoated_vs_no_WOM/uncoated_vs_no_WOM_Transmission_out_norm_to_reference.png](file:///Users/ida/Desktop/Research/ship/woms/quality_control_setup/results/202611_uncoated_vs_no_WOM/uncoated_vs_no_WOM_Transmission_out_norm_to_reference.png)
+![/Users/ida/Desktop/Research/ship/woms/quality_control_setup/results/202611_uncoated_vs_no_WOM/uncoated_vs_no_WOM_Transmission_in_norm_to_reference.png|700](file:///Users/ida/Desktop/Research/ship/woms/quality_control_setup/results/202611_uncoated_vs_no_WOM/uncoated_vs_no_WOM_Transmission_in_norm_to_reference.png)![/Users/ida/Desktop/Research/ship/woms/quality_control_setup/results/202611_uncoated_vs_no_WOM/uncoated_vs_no_WOM_Transmission_out_norm_to_reference.png](file:///Users/ida/Desktop/Research/ship/woms/quality_control_setup/results/202611_uncoated_vs_no_WOM/uncoated_vs_no_WOM_Transmission_out_norm_to_reference.png)
 
 inner LED:
 **uncoated values:**
