@@ -27,17 +27,19 @@ Thank for questions after a talk and thank for the talk when asking questions.
 		- 90-120 min workshop / neue seite anlegen
 		- Dann Carmen Richter schreiben
 - [ ] Upload Timons rechnungen 
+- [ ] Check if the transmission is saturated
 - [ ] For the November Collaboration Meeting
 	- [x] Funding
 	- [x] Reisekostenantrag
 	- [x] Booking 
 	- [ ] Prepare Talks
-- [ ] Redo the analysis of Julians measurements
+- [x] Redo the analysis of Julians measurements
+	- [ ] Perform measurements with Glycerol and without Glycerol
 - [ ] Think of a better way to do documentation!
 	- [ ] Powerpoint presentations or PDFs!
 	- [ ] Set deadlines 
-- [ ] CAD files für Dip Coating? 
-- [ ] Masterclass Training schreiben Termine- 
+- [x] CAD files für Dip Coating? 
+- [x] Masterclass Training schreiben Termine- 
 - [ ] Look for a better Chair for Home Office - Maybe a Camera
 - [x] Mit Hannes über die Edge Scans sprechen [link](https://docs.google.com/spreadsheets/d/14WBc94nIWAsXT4Mvu4Kdt2nMca36CPRMcNudUHGi6Gg/edit?pli=1&gid=1182448093#gid=1182448093) Zeile 183 ff
 - [x] Bestellung für den Temperatur stabilisierten PCB
@@ -49,7 +51,7 @@ Till end of October:
 	- Was macht das Hadronische System im Endzustand
 
 - [ ] Bring Code (and setup till end of October) to an end: 
-	- [ ] Test different WOMs form Freiburg 
+	- [x] Test different WOMs form Freiburg 
 		- [ ] and send it back
 	- [ ] normalize Measurements to mean of the first row 
 	- [ ] try to reduce the noice in the PMT when having the new PCB installed
@@ -72,8 +74,8 @@ Till end of October:
 - [ ] Correct 4-Cell Prototype Paper
 - [ ] Prepare Teaching Optic Tutorien
 	- [x] 1. Übung
-	- [ ] [[2. Übung Optik WS2026-27]]
-	- [ ] 3. Übung
+	- [x] [[2. Übung Optik WS2026-27]]
+	- [x] [[3. Übung Optik WS2026-27]]
 	- [ ] 4. Übung
 	- [ ] 5. Übung
 	- [ ] 6. Übung 
