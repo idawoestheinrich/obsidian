@@ -5,14 +5,16 @@ determined with:
 - **inner LED** 0.92 +-0.01
 - **outer LED** 0.918 +- 0.006
 - 8% reduction
-Expectation on flat surface for PMMA 7.46\%  relative transmission reduction: 
+Expectation on flat surface for PMMA 7.46\%  relative transmission reduction}: 
 $$R=\left(\frac{n_1-n_0}{n_1+n_0}\right)^2 = 0.0387$$
 $n_1 = 1.49, n_0 = 1$
 and 
 
 $$T = \frac{1-R}{1+R} = 0.9254$$
 
-![/Users/ida/Desktop/Research/ship/woms/quality_control_setup/results/202611_uncoated_vs_no_WOM/uncoated_vs_no_WOM_Transmission_in_norm_to_reference.png](file:///Users/ida/Desktop/Research/ship/woms/quality_control_setup/results/202611_uncoated_vs_no_WOM/uncoated_vs_no_WOM_Transmission_in_norm_to_reference.png)![/Users/ida/Desktop/Research/ship/woms/quality_control_setup/results/202611_uncoated_vs_no_WOM/uncoated_vs_no_WOM_Transmission_out_norm_to_reference.png](file:///Users/ida/Desktop/Research/ship/woms/quality_control_setup/results/202611_uncoated_vs_no_WOM/uncoated_vs_no_WOM_Transmission_out_norm_to_reference.png)
+
+
+![/Users/ida/Desktop/Research/ship/woms/quality_control_setup/results/202611_uncoated_vs_no_WOM/uncoated_vs_no_WOM_Transmission_in_norm_to_reference.png|621](file:///Users/ida/Desktop/Research/ship/woms/quality_control_setup/results/202611_uncoated_vs_no_WOM/uncoated_vs_no_WOM_Transmission_in_norm_to_reference.png)![/Users/ida/Desktop/Research/ship/woms/quality_control_setup/results/202611_uncoated_vs_no_WOM/uncoated_vs_no_WOM_Transmission_out_norm_to_reference.png](file:///Users/ida/Desktop/Research/ship/woms/quality_control_setup/results/202611_uncoated_vs_no_WOM/uncoated_vs_no_WOM_Transmission_out_norm_to_reference.png)
 
 inner LED:
 **uncoated values:**
