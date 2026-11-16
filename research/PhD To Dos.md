@@ -26,7 +26,7 @@ Thank for questions after a talk and thank for the talk when asking questions.
 		- Fokus auf CERN als Europaproject 
 		- 90-120 min workshop / neue seite anlegen
 		- Dann Carmen Richter schreiben
-- [ ] Upload Timons rechnungen 
+- [x] Upload Timons Rechnungen 
 - [ ] Check if the transmission is saturated
 - [ ] For the November Collaboration Meeting
 	- [x] Funding
