@@ -21,13 +21,16 @@ Thank for questions after a talk and thank for the talk when asking questions.
 
 ### Notes
 - Maik ist auf unbestimmte Zeit nicht mehr da. 
+- [ ] Git befülllen 
+- [ ] Skript Schreiben und wegschicken
 - [ ] CERN workshop material hochladen im wiki
 	- [ ] CERN Workshop 7.-9. Klasse Europaproject - Girls Day
 		- Fokus auf CERN als Europaproject 
 		- 90-120 min workshop / neue seite anlegen
 		- Dann Carmen Richter schreiben
 - [x] Upload Timons Rechnungen 
-- [ ] Check if the transmission is saturated
+- [x] Check if the transmission is saturated - Probably yes
+	- [ ] Find a solution/Tape? Frischhalte folie 
 - [ ] For the November Collaboration Meeting
 	- [x] Funding
 	- [x] Reisekostenantrag
@@ -57,6 +60,7 @@ Till end of October:
 	- [ ] try to reduce the noice in the PMT when having the new PCB installed
 	- [ ] does the transmission fit simulation of the thickness of the dye?
 	- [ ] compare PMT response with simulation
+	- [ ] Adjust 
 	- [ ] Monitor High Voltage on PMT
 		- [ ] Messungen mit verschiedenener HV PMT +- 10V 
 	- [ ] wom_quality_control repository füllen
