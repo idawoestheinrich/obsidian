@@ -73,10 +73,7 @@ Till end of October:
 			- [x] Check if this was done correctly
 		- [ ] Kalibrierung des PMTs und der SiPMs
 14.09.2026 
-- [ ] Will ich hier mitmachen? :
-	- [ ] Die Humboldt-Universität zu Berlin, das Forschungsnetzwerk IGAFA e. V. und die WISTA Management GmbH laden alle Promovierenden und Postdocs herzlich ein, bei der **Posterschau des [Adlershofer Forschungsforums (AFF)](https://www.adlershof.de/forschungsforum)** dabei zu sein.  
-	**Wann?** 11. November 2026, 9:30 – 16:00 Uhr  
-	**Wo?**       Erwin Schrödinger-Zentrum
+
 - [ ] Correct 4-Cell Prototype Paper
 - [ ] Prepare Teaching Optic Tutorien
 	- [x] 1. Übung
@@ -91,14 +88,14 @@ Till end of October:
 	- [x] IPPOG
 	- [ ] CERN website
 	- [x] article
-- [ ] Jakobs Arbeit mit PMMA slides sollte wiederholt werden - 
+- Jakobs Arbeit mit PMMA slides sollte wiederholt werden - 
 	- [x] Von wem wurde das Spektrometer verwendet? - nicht in Jakobs Arbeit - PerkinElmer Lambda 950 spectrometer used in UV-Vis-NIR spectroscopy in the the SALSA Application lab at the HU which is supervised by Dr. Thomas Schmid
 	- [x] Haben wir noch unbeschichtete PMMA slides? 
 	- Ja haben wir - Maik hat welche und im Labor sind noch welche - sowohl casted als auch extruded
 	- [x] Maik fragen? 
 	- [x] Labor Nachschauen
 	- [ ] Freiburg fragen? 
-	- [ ] Plättchen nehmen, die casted sind und auch extruded 
+	- Plättchen nehmen, die casted sind und auch extruded 
 
 21.08.2026
 Concerning the puzzle that we see more LY with the uncoated WOM than w/o any WOM: The SiPMs in use (S14160) have a hole wire bonding (HWB), which means in the centre of the SiPM there is (small) dead area. The following questions might be relevant: 
@@ -113,7 +110,6 @@ Quality Control and WOMs:
 	- [ ] Protection for the high voltage supply 
 - [ ] Neuen PCB - Temperatur stabilisierte SiPMs
 	- NTC kompensiert die Temperatur 
-
 	- Coating speed aktuell 500mm/min - einfach geraten nicht vertifiziert
 	- [ ] Untere Farbe entfernen - automatisiert - auch mit dem Dip coater?
 		- [ ] Deckel mit eingebauter schale - die ebenfalls einen Deckel hat
