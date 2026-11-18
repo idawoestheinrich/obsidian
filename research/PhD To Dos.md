@@ -22,6 +22,12 @@ Thank for questions after a talk and thank for the talk when asking questions.
 ### Notes
 - Maik ist auf unbestimmte Zeit nicht mehr da. 
 - [ ] Git befülllen 
+- [ ] Notausschalter 
+	- [ ] Kameras
+- [ ] Bescheid sagen, dass man im Chemielabor arbeitet
+- [ ] Webinterface
+- [ ] Messung mit der LED Intensität über die Amplitude der Photomultiplier
+- [ ] Liste mit Sachen die fehlen/Folie anbringen
 - [ ] Ratio entfernen / wieder ersetzen - SiPMin_in vielleicht in Ref_in umbenennen und Trans_in
 - [ ] Thickness of the dye on the y- axis - Heiko Schicken
 - [ ] Video Skript Schreiben und wegschicken
@@ -33,6 +39,7 @@ Thank for questions after a talk and thank for the talk when asking questions.
 - [x] Upload Timons Rechnungen 
 - [x] Check if the transmission is saturated - Probably yes
 	- [ ] Find a solution/Tape? Frischhalte folie 
+	- [ ] A bit of optical paper towel
 - [ ] For the November Collaboration Meeting
 	- [x] Funding
 	- [x] Reisekostenantrag
