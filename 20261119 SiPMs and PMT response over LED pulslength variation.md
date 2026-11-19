@@ -1,1 +1,3 @@
-####
+### Inner LED ![/Users/ida/Desktop/Research/ship/woms/quality_control_setup/results/20261119_over_LED_pulslength/PMT_SiPMs_in.png](file:///Users/ida/Desktop/Research/ship/woms/quality_control_setup/results/20261119_over_LED_pulslength/PMT_SiPMs_in.png)
+### Outer LED
+![/Users/ida/Desktop/Research/ship/woms/quality_control_setup/results/20261119_over_LED_pulslength/PMT_SiPMs_out.png](file:///Users/ida/Desktop/Research/ship/woms/quality_control_setup/results/20261119_over_LED_pulslength/PMT_SiPMs_out.png)
