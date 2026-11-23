@@ -21,11 +21,11 @@ Thank for questions after a talk and thank for the talk when asking questions.
 
 ### Notes
 - Maik ist auf unbestimmte Zeit nicht mehr da. 
+- Bescheid sagen, dass man im Chemielabor arbeitet
 - [ ] Git befülllen 
-- [ ] Heiko nach Termin für die Besprechung des Zwischenstands fragen
+- [x] Heiko nach Termin für die Besprechung des Zwischenstands fragen
 - [ ] Notausschalter 
 	- [ ] Kameras
-- [ ] Bescheid sagen, dass man im Chemielabor arbeitet
 - [ ] Webinterface
 - [x] Messung mit der LED Intensität über die Amplitude der Photomultiplier
 - [ ] Liste mit Sachen die fehlen/Folie anbringen
@@ -39,13 +39,15 @@ Thank for questions after a talk and thank for the talk when asking questions.
 		- Dann Carmen Richter schreiben
 - [x] Upload Timons Rechnungen 
 - [x] Check if the transmission is saturated - Probably yes
-	- [ ] Find a solution/Tape? Frischhalte folie 
-	- [ ] A bit of optical paper towel
+	- [x] Find a solution/Tape? Frischhalte folie 
+	- [x] A bit of optical paper towel
 - [ ] For the November Collaboration Meeting
 	- [x] Funding
 	- [x] Reisekostenantrag
 	- [x] Booking 
 	- [ ] Prepare Talks
+		- [x] Quality Control
+		- [ ] Outreach
 - [x] Redo the analysis of Julians measurements
 	- [ ] Perform measurements with Glycerol and without Glycerol
 - [ ] Think of a better way to do documentation!
@@ -66,9 +68,9 @@ Till end of October:
 - [ ] Bring Code (and setup till end of October) to an end: 
 	- [x] Test different WOMs form Freiburg 
 		- [ ] and send it back
-	- [ ] normalize Measurements to mean of the first row 
+	- [x] normalize Measurements to mean of the first row 
 	- [ ] try to reduce the noice in the PMT when having the new PCB installed
-	- [ ] does the transmission fit simulation of the thickness of the dye?
+	- [x] does the transmission fit simulation of the thickness of the dye?
 	- [ ] compare PMT response with simulation
 	- [ ] Adjust 
 	- [ ] Monitor High Voltage on PMT
@@ -87,15 +89,23 @@ Till end of October:
 	- [x] 1. Übung
 	- [x] [[2. Übung Optik WS2026-27]]
 	- [x] [[3. Übung Optik WS2026-27]]
-	- [ ] 4. Übung
-	- [ ] 5. Übung
+	- [x] 4. Übung
+	- [x] 5. Übung
 	- [ ] 6. Übung 
 	- [ ] 7. Übung
+	- [ ] 8. Übung
+	- [ ] 9. Übung
+	- [ ] 10. Übung
+	- [ ] 11. Übung
+	- [ ] 12. Übung
+	- [ ] 13. Übung
+	- [ ] 14. Übung
 - [ ] Feedback on SHiP Website
 - [ ] Send Outreach Emails:
 	- [x] IPPOG
-	- [ ] CERN website
+	- [x] CERN website
 	- [x] article
+	- [ ] 
 - Jakobs Arbeit mit PMMA slides sollte wiederholt werden - 
 	- [x] Von wem wurde das Spektrometer verwendet? - nicht in Jakobs Arbeit - PerkinElmer Lambda 950 spectrometer used in UV-Vis-NIR spectroscopy in the the SALSA Application lab at the HU which is supervised by Dr. Thomas Schmid
 	- [x] Haben wir noch unbeschichtete PMMA slides? 
