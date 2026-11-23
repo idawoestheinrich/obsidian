@@ -23,6 +23,7 @@ Thank for questions after a talk and thank for the talk when asking questions.
 - Maik ist auf unbestimmte Zeit nicht mehr da. 
 - Bescheid sagen, dass man im Chemielabor arbeitet
 - [ ] Git befülllen 
+- [ ] How big is the fraction of secondary photons detected by the sipm
 - [x] Heiko nach Termin für die Besprechung des Zwischenstands fragen
 - [ ] Notausschalter 
 	- [ ] Kameras
