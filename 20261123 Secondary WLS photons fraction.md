@@ -14,12 +14,26 @@ $$ = 1/576 = 0.1736\%$$
 
 ### How much light is absorpt in the first layer? 
 non-absorbing, plane-parallel PMMA plate in air:
-- Assuming both layers a 10$\mu m$ thick the total transmission:
+- the total transmission:
 $$\Phi_T=T_{tot}\Phi_0\text{exp}(\frac{-2d_{WLS}}{l_{WLS}})$$
 
-with $n_{PMMA} = 1.49$:
+ with $n_{PMMA} = 1.49$:
 $$T_{tot} = \frac{2n_{PMMA}}{1+n_{PMMA}^2} = 0.9254$$
 So the fraction transmitted through the first layer becomes: 
-$$\frac{\Phi_T}{\Phi_0}=T_{tot}\text{exp}(\frac{-d_{WLS}}{l_{WLS}}) = 0.663$$
+$$\frac{\Phi_T}{\Phi_0}=T_{tot}\text{exp}(\frac{-d_{WLS}}{l_{WLS}})$$
+---
+Assuming both layers are 10$\mu m$ thick
+$$= 0.663$$
 Assuming that this light hits the second layer then 
 $$ 0.663 \cdot 0.625 = 4.14442\%$$ secondary photons potentially hit the second dye layer 
+---
+Assuming both layers are 7$\mu m$ thick
+$$= 0.7328$$
+Assuming that this light hits the second layer then 
+$$ 0.7328 \cdot 0.625 = 4.5\%$$ secondary photons potentially hit the second dye layer 
+---
+Assuming both layers are 13$\mu m$ thick
+$$= 0.7328$$
+Assuming that this light hits the second layer then 
+$$ 0.7328 \cdot 0.625 = 4.5\%$$ secondary photons potentially hit the second dye layer 
+
