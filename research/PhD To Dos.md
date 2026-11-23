@@ -22,14 +22,15 @@ Thank for questions after a talk and thank for the talk when asking questions.
 ### Notes
 - Maik ist auf unbestimmte Zeit nicht mehr da. 
 - [ ] Git befülllen 
+- [ ] Heiko nach Termin für die Besprechung des Zwischenstands fragen
 - [ ] Notausschalter 
 	- [ ] Kameras
 - [ ] Bescheid sagen, dass man im Chemielabor arbeitet
 - [ ] Webinterface
-- [ ] Messung mit der LED Intensität über die Amplitude der Photomultiplier
+- [x] Messung mit der LED Intensität über die Amplitude der Photomultiplier
 - [ ] Liste mit Sachen die fehlen/Folie anbringen
-- [ ] Ratio entfernen / wieder ersetzen - SiPMin_in vielleicht in Ref_in umbenennen und Trans_in
-- [ ] Thickness of the dye on the y- axis - Heiko Schicken
+- [x] Ratio entfernen / wieder ersetzen - SiPMin_in vielleicht in Ref_in umbenennen und Trans_in
+- [x] Thickness of the dye on the y- axis - Heiko Schicken
 - [ ] Video Skript Schreiben und wegschicken
 - [ ] CERN workshop material hochladen im wiki
 	- [ ] CERN Workshop 7.-9. Klasse Europaproject - Girls Day
