@@ -1,0 +1,6 @@
+- Kugelspiegel -
+- James Bond style
+- 2*f = r 
+- Ungefähr 1.80m ungefähr 2m Abstand
+- r = 9mm
+- B = 4mm sollte das Bild groß sein
