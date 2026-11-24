@@ -12,7 +12,7 @@ $$1/144 = 0.69\bar{44}\%$$
 With $d = 1\,$mm, $r = 6\,$mm
 $$ = 1/576 = 0.1736\%$$
 
-### How much light is absorpt in the first layer? 
+### How much light is absorped in the first layer? 
 non-absorbing, plane-parallel PMMA plate in air:
 - the total transmission:
 $$\Phi_T=T_{tot}\Phi_0\text{exp}(\frac{-2d_{WLS}}{l_{WLS}})$$
