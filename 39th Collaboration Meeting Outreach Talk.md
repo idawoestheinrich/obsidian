@@ -25,5 +25,4 @@
 Website
 - Scrollable
 - Searchbar
-- Labels on the pictures
-- 
+- Labels on the picture

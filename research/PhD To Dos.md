@@ -24,7 +24,7 @@ Thank for questions after a talk and thank for the talk when asking questions.
 - Bescheid sagen, dass man im Chemielabor arbeitet
 - [ ] Git befülllen 
 - [ ] How big is the fraction of secondary photons detected by the sipm 
-- [ ] How does the theoretickal tickness compare to the real one
+- [ ] How does the theoretical tickness compare to the real one
 - [x] Heiko nach Termin für die Besprechung des Zwischenstands fragen
 - [ ] Notausschalter 
 	- [ ] Kameras
