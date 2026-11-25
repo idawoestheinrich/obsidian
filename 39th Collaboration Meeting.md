@@ -1,3 +1,4 @@
 - Olivers Talk at the SPSC 
 	- DSBT - different configurations tested
-- Facility: 
+- Facility
+- LHCb HCal
