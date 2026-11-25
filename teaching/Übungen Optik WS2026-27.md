@@ -10,7 +10,7 @@
 - Übung 1: bezeichnen von $\omega_0$ als Resonanz**kreis**frequenz
 - Übung 2: Aufgabe 4d) - klar machen, dass nicht die Bewegungsgleichung gelöst werden soll  - vielleicht als Tipp reinschreiben, dass ein Niederfrequentes Feld betrachtet wird.
 
-- Übung 4: 7) Ist die Zeichnung richtig? 8)c) soll die doppelbrechung hier vernachlässigt oder ebenfalls beachtet werden?
+- Übung 4: 7) Ist die Zeichnung richtig? 
 - Übung 5: Definieren, was der Versatz D ist - ist nicht eindeutig eingezeichent - 90 grad zum strahl oder 2$\theta$ grad zum strahl?
 - 
 

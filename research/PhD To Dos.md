@@ -27,6 +27,7 @@ Thank for questions after a talk and thank for the talk when asking questions.
 - [x] How big is the fraction of secondary photons detected by the sipm 
 - [ ] How does the theoretical tickness compare to the real one
 - [x] Heiko nach Termin für die Besprechung des Zwischenstands fragen
+- [ ] Design a Quality Control for glued WOMs?
 - [ ] Notausschalter 
 	- [ ] Kameras
 - [ ] Webinterface
