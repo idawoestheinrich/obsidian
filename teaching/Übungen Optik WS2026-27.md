@@ -11,7 +11,7 @@
 - Übung 2: Aufgabe 4d) - klar machen, dass nicht die Bewegungsgleichung gelöst werden soll  - vielleicht als Tipp reinschreiben, dass ein Niederfrequentes Feld betrachtet wird.
 
 - Übung 4: 7) Ist die Zeichnung richtig? 
-- Übung 5: Definieren, was der Versatz D ist - ist nicht eindeutig eingezeichent - 90 grad zum strahl oder 2$\theta$ grad zum strahl?
+- Übung 5: Definieren, was der Versatz D ist - ist nicht eindeutig eingezeichent - 90 grad zum strahl oder 2$\theta$ grad zum strahl? d) nicht ganz klar was für ein Experiment - Messung von D? Versetzen Sie sich nun in die Rolle von Hilda Hänchen, die *ein möglichst aussagekräftiges Experiment* durchführen will.
 - 
 
 - [[2. Übung Optik WS2026-27]]
