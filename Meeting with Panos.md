@@ -7,3 +7,5 @@
 - Irland - 2. week of may next IPPOG meeting
 	- Belle2, alpha, 
 - Christian Klein-Boesing is the German Representitive 
+- If we have ideas - Masterclasses - we can just present the ideas
+- 
