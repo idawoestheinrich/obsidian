@@ -15,8 +15,11 @@ To find papers on [[SHiP]] go to [CERN document server](https://cds.cern.ch/sear
 *At every meeting, I talk about what I've been doing, what I'm working on, and what the goal is.*
 
 **It's better to keep it brief than to talk too long.** 
+**Give credits to other contributers!**
+**Thank for questions after a talk and thank for the talk when asking questions.** 
+
 Ask about uncertainties, look at coordinates of the plots
-Thank for questions after a talk and thank for the talk when asking questions. 
+
 *Don't take on too many things at once. Prioritize well.*
 
 ### Notes
