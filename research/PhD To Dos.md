@@ -32,7 +32,7 @@ Thank for questions after a talk and thank for the talk when asking questions.
 	- [ ] Kameras
 - [ ] Webinterface
 - [ ] Target links in den Abbildung 
-- [ ] 
+- [ ] Readmes auf Gitlab Erklärungen zu den Bildern
 - [x] Messung mit der LED Intensität über die Amplitude der Photomultiplier
 - [ ] Liste mit Sachen die fehlen/Folie anbringen
 - [x] Ratio entfernen / wieder ersetzen - SiPMin_in vielleicht in Ref_in umbenennen und Trans_in
