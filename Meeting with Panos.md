@@ -1,0 +1,9 @@
+- LHC Outreach Group - 
+- 
+- LOG meeting 
+- Accelator ELISA - IPPOG ovelap 
+- Lego models SHiP 
+	- Sascha Mehlhase  - Lego models
+- Irland - 2. week of may next IPPOG meeting
+	- Belle2, alpha, 
+- Christian Klein-Boesing is the German Representitive 

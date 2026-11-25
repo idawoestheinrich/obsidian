@@ -27,6 +27,7 @@ Ask about uncertainties, look at coordinates of the plots
 - Bescheid sagen, dass man im Chemielabor arbeitet
 - [x] Git befülllen 
 - [ ] Git SBT plannen 
+- [ ] Fellow SHiP at CERN after phd? 
 - [x] How big is the fraction of secondary photons detected by the sipm 
 - [ ] How does the theoretical tickness compare to the real one
 - [x] Heiko nach Termin für die Besprechung des Zwischenstands fragen
