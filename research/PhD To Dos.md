@@ -35,7 +35,7 @@ Ask about uncertainties, look at coordinates of the plots
 - [ ] Notausschalter 
 	- [ ] Kameras
 - [ ] Webinterface
-- [ ] Target links in den Abbildung 
+- [x] Target links in den Abbildung 
 - [ ] Readmes auf Gitlab Erklärungen zu den Bildern
 - [x] Messung mit der LED Intensität über die Amplitude der Photomultiplier
 - [ ] Liste mit Sachen die fehlen/Folie anbringen
