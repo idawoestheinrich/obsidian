@@ -22,8 +22,9 @@ Thank for questions after a talk and thank for the talk when asking questions.
 ### Notes
 - Maik ist auf unbestimmte Zeit nicht mehr da. 
 - Bescheid sagen, dass man im Chemielabor arbeitet
-- [ ] Git befülllen 
-- [ ] How big is the fraction of secondary photons detected by the sipm 
+- [x] Git befülllen 
+- [ ] Git SBT plannen 
+- [x] How big is the fraction of secondary photons detected by the sipm 
 - [ ] How does the theoretical tickness compare to the real one
 - [x] Heiko nach Termin für die Besprechung des Zwischenstands fragen
 - [ ] Notausschalter 
@@ -43,13 +44,13 @@ Thank for questions after a talk and thank for the talk when asking questions.
 - [x] Check if the transmission is saturated - Probably yes
 	- [x] Find a solution/Tape? Frischhalte folie 
 	- [x] A bit of optical paper towel
-- [ ] For the November Collaboration Meeting
+- [x] For the November Collaboration Meeting
 	- [x] Funding
 	- [x] Reisekostenantrag
 	- [x] Booking 
-	- [ ] Prepare Talks
+	- [x] Prepare Talks
 		- [x] Quality Control
-		- [ ] Outreach
+		- [x] Outreach
 - [x] Redo the analysis of Julians measurements
 	- [ ] Perform measurements with Glycerol and without Glycerol
 - [ ] Think of a better way to do documentation!
@@ -74,7 +75,6 @@ Till end of October:
 	- [ ] try to reduce the noice in the PMT when having the new PCB installed
 	- [x] does the transmission fit simulation of the thickness of the dye?
 	- [ ] compare PMT response with simulation
-	- [ ] Adjust 
 	- [ ] Monitor High Voltage on PMT
 		- [ ] Messungen mit verschiedenener HV PMT +- 10V 
 	- [ ] wom_quality_control repository füllen
