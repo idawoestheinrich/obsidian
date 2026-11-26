@@ -1,0 +1,16 @@
+- 3-4 writers for home.cern 
+- Evergreen pages - 
+	- content that stays 
+- Cern couries - 
+- Home.cern articles
+	- 400 words 
+	- have a hook - we need an update - that is big enough  - end 
+	- we should not repeat ourselfs 
+	- TDR? 
+	- Empting ECN3 - to be filled with SHiP
+		- 200 words
+- Open days communtication - 
+
+- Writing Team - 
+- Video Content - overarching 
+- No help Posters 
