@@ -20,6 +20,7 @@ Enter passphrase or leave blank (passphrase will be needed each time you use key
 ~/.ssh/id_rsa.pub
 cat ~/.ssh/id_rsa.pub | pbcopy # to copy to clipboard
 ```
+
 ## Configure git
 - `git config --list`
 - `git config --global user.name "Your Name"`
