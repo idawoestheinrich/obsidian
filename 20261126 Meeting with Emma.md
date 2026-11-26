@@ -10,7 +10,19 @@
 	- Empting ECN3 - to be filled with SHiP
 		- 200 words
 - Open days communtication - 
+- Outreach - 
+	- No news - because 400 Words - Social Media
+	- Evergreen page 
+- Knowledge transfere
+	- Experimental updates 
+	- Physics
+	- Computing - 
+- LOG support available for outreach
+- Willing to help 
 
 - Writing Team - 
+
+- Templates for Posters and Guidens 
+
 - Video Content - overarching 
 - No help Posters 
